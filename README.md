@@ -14,16 +14,9 @@
      Example: "Student reviews of CS professors at [university] — useful because official
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
 
----
 
-## Document Sources
-
-<!-- List every source you collected documents from.
-     Be specific: include URLs, subreddit names, forum thread titles, or file names.
-     Aim for variety — sources that together cover different subtopics or perspectives. -->
-
-| # | Source | Type | URL or file path |
-|---|--------|------|-----------------|
+| # | Source | Description | URL or location |
+|---|--------|-------------|-----------------|
 | 1 | | | |
 | 2 | | | |
 | 3 | | | |
@@ -34,6 +27,14 @@
 | 8 | | | |
 | 9 | | | |
 | 10 | | | |
+---
+
+## Document Sources
+
+<!-- List every source you collected documents from.
+     Be specific: include URLs, subreddit names, forum thread titles, or file names.
+     Aim for variety — sources that together cover different subtopics or perspectives. -->
+
 
 ---
 
