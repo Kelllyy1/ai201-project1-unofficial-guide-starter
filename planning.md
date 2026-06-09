@@ -49,6 +49,12 @@
 
 **Reasoning:** A chunk size of 500 fits for roughly one paragraph and an overlap of 50 captures roughly 1-2 sentences. So the chunk sizes will recursively split roughly for each paragraph and if the paragraph splitting is off by a bit, the overlap will capture those 1-2 sentences to provide meaningful context.
 
+**Edit:**
+**Chunk size:** 500 for PDF; Chunk per comment - split comments > 500 character size and apply overlap.
+
+**Overlap:** 50
+The improved approach was to treat my documents differently. Since I used forums for most of my documents and they consisted of comments with individual opinions replying to a centralized question, the better chunking approach was to chunk based on individual comments and then for every comment > 500 characters split them and apply overlap. The PDF was chunked based on recursive splitting.
+
 ---
 
 ## Retrieval Approach
@@ -107,11 +113,16 @@ The context length (total size that the model can input at once) is 256 tokens f
      Label each stage with the tool or library you're using.
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
-     1. Document Ingestion -> 
-     2. Chunking Strategy -> 
-     3. Embedding + Vectore Store -> all-MiniLM-L6-v2 + ChromaDB (Vector Store, Semantic Search and Retrieval)
-     4. Retrieval -> FAISS???
-     5. Generation -> groq or OpenAI
+1. Document Ingestion -> Manually obtained through Google search, then expanded comment sections on each forum. Finally, copied the text from the page and pasted into text files labelled by the forum names.
+2. Chunking Strategy -> 
+3. Embedding + Vectore Store -> all-MiniLM-L6-v2, sentence-transformers + ChromaDB (Vector Store, Semantic Search and Retrieval)
+4. Retrieval -> FAISS???
+5. Generation -> groq (llama-3.3-70b-versatile))
+
+![simple system overview](images/ccna-image-overview-2.png)
+
+![more detailed system overview](images/ccna-image-overview.png)
+
 
 ---
 
