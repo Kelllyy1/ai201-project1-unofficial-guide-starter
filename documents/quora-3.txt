@@ -1,0 +1,533 @@
+Which are the best latest books for CCNA exam preparation?
+Sort
+Profile photo for Gavin Hawker
+Gavin Hawker
+ · 
+Follow
+Hold CCNA CCNP CCIE10mo
+As for CCNA exam, I would recommend two learning methods.
+
+At first, you could consider some high-quality online courses.The teacher's vivid explanation can enhance learning efficiency more than textbooks. I have founded a good course
+
+Further, you could choose some high-quality test materials. Questions in CCNA exam would change time to time, so you’d better get the test materials that make sure it’s real time updating and latest.
+
+
+If you combine these two learning methods together, that would definitly improve your learning efficiency and help you pass the exam! Good luck!
+
+1.4K views
+View 3 upvotes
+Answer requested by 
+Hamoud Abalhassan
+Profile photo for Vishav Verma
+Vishav Verma
+ · 
+Follow
+Studied Cisco Certified Network Associate (CCNA)
+ · 
+9y
+Originally Answered: I want to study for CCNA security certification. Can anyone suggest me some good books?
+The book I will recommend you for CCNA security certification exam is official cert guide(CCNA Security 210–260). Link to buy book from amazon is given below. But I’ll recommend you to also opt for Cisco e-learning and do the practical practise as much as possible.
+
+Buy CCNA Security 210-260 Official Cert Guide Book Online at Low Prices in India
+How satisfied are you with your question page experience today?
+This helps us improve our product.
+Not satisfied
+Very satisfied
+Related
+What is the best book to prepare for CCNA (Cisco Certified Network Associate)?
+Profile photo for Purnima Tammireddy
+Purnima Tammireddy
+ · 
+Follow
+Works at 3Com
+ · 
+12y
+I found Todd Lamle's book quite useful while preparing for CCNA. The concepts are neatly explained and there are enough exercises too.
+Related
+Which is the best book for CCNA preparation?
+Profile photo for ACS Networks
+ACS Networks
+ · 
+Follow
+Trainer from ACS Networks4y
+If you are a beginner and want to get knowledge of CCNA the best book in my opinion which will help you greatly is Cisco Cert Guide (Vol 1&2)
+
+
+Why I’m recommending this book is because of-
+
+Well-explained topics
+Follow the latest trend
+Questions after each chapter
+Most imp. section of point to remember.
+6.8K views
+View 9 upvotes
+View 1 share
+1 of 10 answers
+Related
+How do I prepare for a CCNA certification exam?
+Profile photo for Buzz De
+Buzz De
+ · 
+Follow
+Networking Engnieer6y
+
+The CCNA certification exam is the basic subject in Cisco certification exams. Generally, the certification exam is very easy to pass. but, as for a fresher, it also is difficult to pass. Here, I will share some of my study methods to prepare for the CCNA Routing and Switching exam.
+
+Decide the Schedule of your Exam
+
+The journey begins with the question, which CCNA exam should you take first? Most people start with CCNA RS. The typical progression is ROUTE, SWITCH, and finally, TSHOOT, but you can make the first two in any order. According to general, recommend that you take the exam you are most confident you’ll pass with the most ease. If you’re in the industry already, and your day-to-day work is switch-heavy, then you might switch the first two exams, taking SWITCH first. Passing the first one (whichever you choose) gets you to the second, and boosts your confidence. And confidence is essential when you’re walking into an exam.
+
+Get lots of hands-on experience
+
+You’ll see the right mix of theoretical and practical in the CCNA Routing and Switching exams, so you should get as much hands-on experience as possible. Cisco recommends that you should already have one to three years of experience with Cisco products to sit for the exam, which means you might have done the tasks before. On the reviews, however, you’re timed and tested. That makes a big difference psychologically. Hands-on experience not only provides strong validation of the technical information. It also helps you overcome the psychological element. Hands-on experience is such a big part of the exams that allows the candidates to ensure that they are well prepared for the simulation portions of the reviews.
+
+Utilize a blend of additional resources
+
+when I prepared for the exam, my friends recommended SPOTO. because SPOTO provides a personal scheduled study plan. my friends passed the exam on the first try. so I want to recommend it for you.
+
+you can find many useful exam resources, I will recommend some useful website, and you can find some useful study materials or videos:
+
+Youtube video:
+
+CCNA Tutorial video
+2. Get your CCNA RIGHT NOW!!
+
+CCNA basic knowledge:
+
+The CCNA Basic: IP header
+Local Area Network (LAN)
+Cisco Discovery Protocol (CDP) Overview
+Finally
+
+Relax
+
+Yes. That seems both counterintuitive and conventional advice. Keep your nerves in check on your test days. Take a break from studying the night before. You’ve crammed everything into that brain of yours that it can hold. One more night won’t make a difference. Get a good night’s sleep. Eat a good breakfast. And then go out and conquer the CCNA Routing and Switching exams one at a time.
+
+I hope what I have written is helpful for you! Never late to learn!
+
+25.9K views
+View 17 upvotes
+View 2 shares
+1 of 43 answers
+Related
+What are the best books for CCNA?
+Profile photo for Madhurima Roy
+Madhurima Roy
+ · 
+Follow
+Wireless Cisco TAC Engineer at Aricent (2018–present)
+ · 
+8y
+I personally used book by Todd Lammle. It was very useful.
+Related
+What is the best book for CCNA exam preparation?
+Profile photo for Sudhanshu Bhat
+Sudhanshu Bhat
+ · 
+Follow
+CCIE Voice #41212 - Director, I-Medita | Helping people in pursuit of Success...8y
+There are multiple books which are good for CCNA. I would recommend you to read multiple if possible. Every author has their own different way of explaining which will help for greater in depth understanding of technology.
+
+If you are a beginner who is new into techie stuff you should start reading from Cisco Press ICND1, ICND2 by Wendell Odom. It is one of the best resource to begin with. The writing style of the author is very good and easy to understand while taking examples from Flinstones and other cartoons. The author summarizes a lot of information into easily understandable table form. Make sure you read the how to use this book portion in the initial part of the book which most people tend to ignore.
+
+
+For intermediate people you can still use the same book. Go through Do I know this already questions and skip some very basic stuff.
+
+
+These Cisco Press books cover almost all the aspects of CCNA and you don't require any other book to read for the certification. If you still have an appetite for reading then go ahead with Richard Deal and then Todd Lammle. Don't begin with Todd Lammle as it assumes a lot of basic stuff.
+
+All the best for your networking career.
+
+Image source : Google Search
+
+9.1K views
+View 5 upvotes
+View 1 share
+1 of 3 answers
+Related
+Which books should we read as CCNA-learning students (Cisco)?
+Profile photo for Sirshak Das
+Sirshak Das
+ · 
+Follow
+Former Software Engineer at Cisco (company) (2013–2015)
+ · 
+8y
+A2A
+
+Pick any standard book you want but pick Cisco Packet Tracer as your simulator.
+
+The real knowledge of CCNA comes once you start building networks on the simulator and debugging it. The bigger/diverse the network the better.
+
+I went for Cisco Network Academy Materials you can pick Todd Lamle as well but I always recommend Cisco Press material.
+Related
+How did you prepare for your CCNA exam & how long did it take?
+Profile photo for Curtis Padgett
+Curtis Padgett
+ · 
+Follow
+Networks and Security Instructor for USMC6y
+I prepared by reading an exam prep book front to back twice. The first time I just read it, the second time I took notes while reading. After each chapter I watched CBT Nugget videos that correlated to the chapter I was reading. To help memorize the commands, I used Packet Tracer (becuase I didn’t have access to real equipment) and tried to recreate each scenario in the book. The CBT Nugget Videos also have labs you can do in Packet Tracer. Finally, the ebook from Pearson IT Certifications I used, came with practice questions both in the book and online. It took me about 6 weeks, however I had a few years of practical experience before taking the exam. I now teach the CCNA program and I have seen students go from zero knowledge to passing in as little as 8 weeks, so if you are in that boat I would give yourself a good 2 months. Understanding, that my students are in class for 8 hours a day, and when I was studying I was putting in 4–6 hours a day for 6 weeks.
+
+Good Luck with your studies, it is absolutely worth the effort!!
+
+5.2K views
+View 5 upvotes
+1 of 1 answer
+You have marked this answer as unrelated.
+Your input helps us improve this page for everyone.
+Related
+Which is the best book for CCNA preparation?
+Profile photo for Ashish Sharma
+Ashish Sharma
+ · 
+Follow
+Aspiring Cisco Networking World.9y
+“Todd Lammle” is a best book for CCNA (R&S).
+
+I am suggesting you this book because i have personally read it for 4 times in my past 3 years, and believe me this book is too good and too attractive in the sense of knowledge and language. Its will cost around 650 bucks. It has 1000 pages :P but once you will be start reading, you will be get addicted to this Cisco Networking book by Todd Lammle.
+
+It includes plenty of practical topics at every end of chapter. Some of the troubleshooting question have a expert level (which is plus point for you). It give rise from beginner to top level. Go for it. Best of Luck.
+
+
+10.5K views
+View 10 upvotes
+Answer requested by 
+Khasim Shariff
+1 of 10 answers
+You have marked this answer as unrelated.
+Your input helps us improve this page for everyone.
+Related
+What networking books can help me pass the CCNA with ease?
+Profile photo for Vigneshwaran Rajendiran
+Vigneshwaran Rajendiran
+ · 
+Follow
+Technical Support
+ · 
+7y
+Don't study CCNA official books and go for sikander books and videos.just type at youtube sikander ccna it will show you the concepts
+Related
+How is the CCNA exam?
+Profile photo for Rakibul Islam Salafi
+Rakibul Islam Salafi
+ · 
+Follow
+IT Engineer at Mumbai, India5y
+The exam is ‘proctored’ which basically means you are watched by a camera.
+
+You need to drop all your stuff in a locked box before the exam, so no phones, wallets, keys, and so on.
+
+When you arrive you sign in, have your picture taken and sign an exam form.
+You get a printed copy of your results and % on each study area when you leave as well as you need to sign out.
+
+For the certification, you get 2 pieces of laminated paper and a non-permanent ink pen for notes or calculations.
+
+No food/drinks in the exam room, some let you have water outside.
+
+Click here, to see how the exam looks.
+You have an introduction to how the exam works first, think 10–15 minutes.
+I would use some of that time to write down useful stuff (subnets, routing, etc) comes to mind, your brain will be fried later, writing it down earlier has helped me a lot.
+
+The CCNA normally has 40 questions and 90 minutes to answer them, if you are not an English native speaker you can get 30 minutes added to the 90 (tell them when you book the exam, not when you get to the test center, they can do nothing).
+
+The exam is normally a few drags and drop, a few gimlets, and a good deal of single or multiple answer questions (The look/feel of the exam is in the link above).
+
+Finally, you get a survey after you are done with the exam (before you get your results), I always have a hard time wanting to do it… I WANT MY RESULT NOW!
+I try to, but if too impatient I just click next next next to get my results.
+
+If you pass /high five, go celebrate.
+If you fail, that sucks, sulk for a day or two then look at the report, it will show your weak/strong areas, go re-study the weak areas, and go back when you can (have to wait 5 working days).
+
+
+9.5K views
+View 6 upvotes
+1 of 20 answers
+Related
+Is CCNA exam tough?
+Profile photo for Akshay Verma
+Akshay Verma
+ · 
+Follow
+CCNA and CCNP certified from Network Bulls.
+ · 
+9y
+It takes about about 1month of self study if you have opted for ccna course otherwise it takes 2–2.5 mnths to get prepare for the CCNA. It is definitely not a difficult test, but for those new to networking, there are a lot of new concepts and a lot of things to grasp. You have to learn how to use simulation software like gns3,UNL or packet tracer,practice on real devices are a real benefit factor and you have to dedicate the proper amount of time to reading your book and practicing the material. Just keep your concepts clear and it will seem easy to prepare.
+
+Good luck :)
+Related
+Is a CCNA certification difficult to pass?
+Profile photo for Jessica L Williams
+Jessica L Williams
+ · 
+Follow
+Career Coach at General Assembly (company) (2018–present)8y
+It may seem harder than most tests but you can absolutely pass it. When I took it, I bought a study kit which included a book and a simulation CD (yep back then there were CDs) and practiced as much as I could.
+
+While the multiple choice questions may seem a bit easier, it’s really important to spend time with the equipment - whether simulated or real so that you can get a feel for configuration. I highly recommend using CBT nuggets video training along with the Cisco certification guide as study materials as well. I wrote a post about getting ready for your first exam which you may find helpful but definitely let me know if you have any other questions.
+
+4.5K views
+View 4 upvotes
+1 of 20 answers
+Related
+Where do I learn CCNA? How do I get full preparation for the CCNA exam?
+Profile photo for Doug White
+Doug White
+ · 
+Follow
+Professor, Cybersecurity and Networking at Roger Williams University (2003–present)Jan 24
+Well, there are any number of ways:
+
+Self Study — this would involve you buying a CCNA (check to ensure it is current) book and studying. You will need a book that provides you with packet tracer and the other materials required to prepare.
+Assisted Study — using sites like Free CCNA Workbook | CCNA Labs, Practice Exams and More! or other study sites, can help you to prepare for very low cost.
+A community college or other educational program near you (or online) — these can range from free to quite expensive and often are locked into old fashioned 15 week classes and such. But you may be surprised as well.
+Bootcamps — quick, often expensive, and usually the best way to pass a cert. Spend a week focusing on the material, study up for a couple of days and take the test. These are available online.
+Ensure that whatever you are using, you have practice tests and that you are consistently passing above 80% on the practice tests.
+
+Grave Caution: When you are searching for any cert tests, be very, very careful, brain dump sites, and other scams abound with phishing links, malware, etc. So, as you search for answers, use extreme caution with sites promising free materials, answers, test questions etc.
+
+126 viewsAnswer requested by 
+Umair
+1 of 2 answers
+Related
+Is CCNA exam tough?
+Profile photo for Michael Warne
+Michael Warne
+ · 
+Follow
+Cisco 5 Years experience
+ · 
+9y
+NO. The test could be tough.if you don't study properly. It totally depends on you that how much are you capable. if you are giving proper time & dedication to learning all CCNA concepts. so that The test should not be tough at all.
+
+I would like to suggest you that you give time as much as you can give to make the test seem easier. The one I used was Koenig-Solutions.com and I think their centre is great at preparing you for the actual exam.
+
+Best Of Luck For CCNA Bootcamp Training & Certification Course
+
+Thanks
+Related
+What is the best book or content for CCNA security?
+Profile photo for Rohan Upadhyay
+Rohan Upadhyay
+ · 
+Follow
+Cisco Certified Network Professional
+ · 
+9y
+CCNA Security 640-554 by Keith Barker and Scott Morris
+Publication - Cisco Press
+Read this book meanwhile watch the videos of Keith Barker (CBT Nuggets).
+Related
+Which is the best book for preparation for CCNA R&S?
+Profile photo for Laksh PS
+Laksh PS
+ · 
+Follow
+Consulting Engineer at Cisco (company)
+ · 
+8y
+I will recommend the Official Cert Guide from Ciscopress.
+
+CCNA R&S is split in two. ICND1 and ICND2. The most common book you will find online is the one whose author is Wendell Odom.
+
+Yes, you will not find them in the bookstore in your neighborhood.
+
+These two books are all you need to get your concept cleared from the root and clear the exam.
+Related
+How do I prepare for a CCNA certification exam?
+Profile photo for Madhurima Roy
+Madhurima Roy
+ · 
+Follow
+Wireless Cisco TAC Engineer at Aricent (2018–present)8y
+When I decided to make my career in networking my first step to achieve was to complete CCNA R&S. But completing the certification and understanding it are two completely different things. And unless you are prepared for it there stands no meaning of the certification. Hence I would advice to focus on understanding it and its need and then everything else will come on its own.
+
+Here is how you one can prepare for it:
+
+1.Learn what are other fields except for networking.
+
+2.Understand why you want to chose networking.
+
+3.Open google and type NETWORKING WIKI and read the entire article.
+
+4.Start watching networking basics videos.
+
+5.Get CCNA book of Todd Lammle and install GNS latest version.
+
+You are all set for your certification !
+
+Hope this helps!
+
+19.1K views
+View 30 upvotes
+View 1 share
+1 of 43 answers
+Related
+Which is the best book to study for CCNA (Routing and Switching) exam?
+Profile photo for Charan G
+Charan G
+ · 
+Follow
+Networking Enthusiast
+ · 
+9y
+To pass the CCNA/CCENT exam, there is only thing better than Todd Lammle's book and that is, DUMPS!!. I loved each and every page of this book.Every thing is covered in detail and with entire target of helping you clear the exam.
+
+I believe that if you are able to complete the book and get some hands-on or use some simulation, CCNA will just be a cakewalk and you will not need any useless dumps to pass the exam.
+Related
+What do you suggest to someone who is starting to prepare for the CCNA R/S exams?
+Profile photo for Ken Prewitt
+Ken Prewitt
+ · 
+Follow
+Former Net Admin at C Spire (2018–2024)7y
+Focus Focus Focus.
+
+Since you made your question plural, I assume you are taking the ICND1 first, then ICND2 after. If that is so, then make sure you focus on what is important to each section.
+
+When you are studying for the first exam, make sure you also study IP Subnetting as dedicated as any other portion. You are going to have to come up with addressing in your head, or at least on the paper they provide, on the spot without a calculator. Know it…don’t memorize a chart…know it. It will be important to your career as a network admin forever.
+
+When you get to test 2, you should stop worrying about the stuff you learned in part 1. It will not carry over. You will not be asked to answer questions across the lines here.
+
+So, focus on each section individually and completely while you are prepping. Know how to subnet in your head. Know CIDR.
+
+That’s all I can really say about it, other than best of luck and do great.
+
+946 views
+View 1 upvote
+Answer requested by 
+Bishal Bhusal
+1 of 1 answer
+Related
+What are the best CCNA books for beginners?
+Profile photo for Claire Palmer
+Claire Palmer
+ · 
+Follow
+Former Former Private Practice as an LPC. 4y
+If you have some experience with computers and networks, maybe worked as IT technician or similar role then you can go to the CCNA official Cert guide book by Wendell Odom. CCNA Routing and Switching 200-125 Official Cert Guide Library
+
+If you are kinda new to the IT and networks field, I suggest you to study CompTIA A+ then the CompTIA Network+ before going to the CCNA. Self-Study | Training | CompTIA IT Certifications
+These 2 courses (A+ and Network+) are non-vendor certificates,that will give you basic skills to lean any vendor course. They concentrate in generalists and theories that almost everyone relays on. CompTIA Network+ will give you more than enough understanding and knowledge to go to any network entry level certificate you want.
+
+For people who are finding the best keto diet plan to follow, you can check this guide. I've got great results with it. I lost 8 pounds in my first week. It's my 13th day and I have followed the meal plan food for food as the guide suggested. After 7 years of struggling with my weight and frustrated with diets, the fat is finally coming off.
+
+Good Luck!
+
+1.1K views
+1 of 1 answer
+Related
+How do I crack the CCNA in one month?
+Profile photo for Hazel Aczel
+Hazel Aczel
+ · 
+Follow
+IT Professional at Education (2016–present)3y
+Preparing for CCNA Exam in one month is challenging, but If you have the zeal to achieve something then, nothing can stop you from being successful in life. It is difficult but not impossible to pass the exam, you need to dedicatedly follow these tips:
+
+The first tip is to understand the exam format, to precisely prepare for the exam you must be familiar with the exam format. No. of questions, duration, domains covered, and retake policy.
+Another tip is to find reliable and updated study material, Book My certification provides updated practice questions for CCNA Exam absolutely free of cost. they also provide Live Testing Modules, which replicate the actual exam and provide you with a real experience. there are more than 800 Practice Questions available for CCNA preparation. All answers are verified by certified professionals and followed by a brief explanation of the questions, for better understanding.
+You should review your performance from time to time. Live testing modules provide instant feedback on your performance and they are also adaptive in nature, upcoming questions will be organized according to your previous performance. You must review your performance and point out your weak areas and focus on the same to make a strong base of understanding.
+Theoretical knowledge is not enough so engage yourself with real practical problems, this will help you in gaining hands-on experience on practical problems as well as theoretical problems.
+The best tip is to join professional groups, communities and forums. This way you will have a chance to interact with professionals, you can ask for their advice on real practical problems and discuss the topics where you need more clarity.
+614 views
+1 of 6 answers
+Related
+Which book should I prefer for CCNA (R&S) 200-301?
+Profile photo for Arvindh Siva
+Arvindh Siva
+ · 
+Follow
+Network Engineer (2015–present)
+ · 
+5y
+It is recommended to refer the Cisco CCNA 200–301 Official guide by Wendall Odem. I have this book and it is very good.
+
+Some may prefer CCNA study guide by Todd lammle.
+
+These two books are good for your CCNA preparation.
+Related
+What is the best book to purchase for the CCNA new exam 2021?
+Profile photo for Ashley Garton
+Ashley Garton
+ · 
+Follow
+Network Consulting Engineer at Cisco (company) (2019–present)
+ · 
+4y
+The CCNA 200-301 Official Cert Guide Library by Wendell Odom
+
+ISBN-13: 978-1587147142
+
+ISBN-10: 1587147149
+
+However, if you can, it's best to use numerous resources to study for the exam instead of relying on just one resource. The Official Cert Guide Library does have practice tests in the back and review sections for each chapter within the book to help with preparation.
+Related
+Where do I learn CCNA? How do I get full preparation for the CCNA exam?
+Profile photo for Matthew McKenzie
+Matthew McKenzie
+ · 
+Follow
+35 years flogging dead systems.
+ · 
+Jan 25
+Learning and taking the exam are two different things. The best way is to find a job where your employer will pay for classroom training.
+
+Most people that do this do not sit the exam. The training itself is a micro-qualification.
+Related
+Is Todd Lammle's book good enough to pass CCNA?
+Profile photo for Sheikh Raashid Javid
+Sheikh Raashid Javid
+ · 
+Follow
+Corporate Trainer cyber security
+ · 
+7y
+Yes, that is an awesome book
+Read that book thoroughly
+Make the note of some important points using flash cards
+Use cisco packet tracer for doing practice labs from that book
+Do some practice tests online before attempting final exam
+Related
+How do I crack the CCNA in one month?
+Profile photo for Kanishak Mahajan
+Kanishak Mahajan
+ · 
+Follow
+3 years experience in Networking for Cisco. Given CCNA and CCNP exams
+ · 
+10y
+Sit your ass down for 8-10 hours and sturdy hard. But fortunately Cisco made some change for people like you. You can give exam in 2 variants.
+
+By giving INTRO exam (CCND-1).
+Then giving CCND-2 exam.
+You will be having 3 years window in between CCND-1 and CCND-2 exam.
+Related
+What books and materials should I study for CCNA prep in India?
+Profile photo for Preetpal Saini
+Preetpal Saini
+ · 
+Follow
+Studied at Seth Jai Parkash Mukand Lal Institute of Engineering and Technology6y
+Cisco trainer with an experience of more than 7 years in Networking Industry. I am a CCNP Security certified Instructor having 7 years of industry and teaching experience providing consultancy to different clients in the domain of Routing ,Switching and Security.
+
+Certifications: CCNA RS, CCNA SECURITY, CCNP SECURITY,CISCO ASA SPECIALIST,CISCO VPN SPECIALIST,CISCO IOS SECURITY SPECIALIST.
+
+I can assure you that with me you will have a complete learning experience... you will easily learn all topics and get better with practical labs and workbook designed by me. I will provide you with a study schedule on exactly what to study and when. I will provide you with study materials (or recommend study materials). Prepare lesson plans. This will also provide you a timeline for how long it will take you to obtain CCNA and CCNP certification.
+
+I have no problem in providing free demo classes. I am full time online trainer available as per your convenience and schedule.email id saini.preetpal@gmail.com
+
+344 views
+1 of 2 answers
+Related
+What is the best book for CCNA exam preparation?
+Profile photo for Agona Ivan Kutosi
+Agona Ivan Kutosi
+ · 
+Follow
+Data Clerk at Kfiles Limited (2012–present)8y
+There are a variety of books it depends on your area of interest but I would suggest CCNA 200–125 DUMPS
+
+CCNA ROUTING AND SWITCHING
+
+-DELUXE STUDY GUIDE

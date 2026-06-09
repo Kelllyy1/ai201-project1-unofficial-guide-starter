@@ -1,0 +1,52 @@
+What is the best way to prepare for CCNA
+Certifications
+CCNA R&S
+
+2.1k
+views
+
+
+post by dragonsky2 on Aug 17, 2016
+
+dragonsky2
+Srikanth V
+Aug 2016
+Dear Rene/Andrew,
+
+Based on your technical expertise in various technologies and the way you prepared for your certifications, could you please let me know they best way to prepare for CCNA R&S.
+
+Your videos are superb and the written content is simple and easy to understand. I would be grateful If you could suggest few other material, books, blogs etc which could enhance by knowledge so that I would be able to pass the exam.
+
+Could you please let me know if reading CCNP level material for CCNA helps, as most of the topics match or would it be way too technical to understand.
+
+Any other tips would really help as people like you are our mentors.
+
+Thank you very much.
+
+
+
+2.1k
+views
+
+
+post by lagapidis on Aug 17, 2016
+
+lagapidis 
+Lazarus Agapidis
+Aug 2016
+Hello Srikanth.
+
+Having experienced the CCNA and CCNP examination process, I believe that the best way to prepare for the CCNA R&S exam is to study the theory, and then, within a few days at most, apply what you have learned by performing labs in Packet Tracer, GNS3 or your physical Cisco lab. For example, if you’re studying EIGRP, read the theory about how it works, how it is implemented, and details about the way it operates. Within a very short time, within 24 or 48 hours, you should apply what you have learned in a series of labs. For me, most of the understanding of the concepts I read were made clear with the labs. Do as many labs as you can until the configuration, and the understanding of the behavior of the devices becomes second nature.
+
+As for studying CCNP material, I believe that it would not be as effective, because the CCNA material is already very broad and has a large volumne of information, by studying CCNP you are just adding to that load with information that will not be included in the exam. Unless you are planning to take the CCNP exam almost immediately after the CCNA, it would probably not help.
+
+I believe Rene and Andrew will be able to add some more suggestions for you.
+
+I hope this has been helpful!
+
+Laz
+
+
+post by dragonsky2 on Aug 17, 2016
+post by lagapidis on Aug 22, 2016
+post by dragonsky2 on Aug 22, 2016

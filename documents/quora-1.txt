@@ -1,0 +1,1153 @@
+I’m about to start studying for a CCNA, any suggestions?
+Sort
+Profile photo for Neil Orlando
+Neil Orlando
+ · 
+Follow
+Former Network Engineer8y
+Originally Answered: What tips and things can you tell me before I plan on doing CCNA?
+This is what I did to get my Cisco CCNA. I took the 2 exam option, a year or two apart since I work & have an active social life, as opposed to the 1 exam option, and I am currently repeating this process for CCNP (the next level certification to CCNA) before my CCNA in Routing & Switching expires in end of September 2018. CCNA lasts 3 years.
+
+I do tend to over prepare since the exam cost is around $300 (CCNP), I found the Cisco exams harder then the Microsoft exams that I took for MCSE 15 plus years ago.
+
+I did the following in this order:
+
+Training: in person, online, books -I found Training material from class easier to digest to the official Cisco Press Books. If you can get work to pay for training, books, and exam, the better. I took in person Training from Global Knowledge for 1st exam and online training for the 2nd exam from INE. If you do the 2 exam option, passing the 1st exam makes you a CCENT.
+
+Hands on experience: I did on the job networking for nearly a year before my 1st CCNA class which helped immensely. In order to learn the items I did not yet do, I used “Boson” CCNA product for virtual exercises based on coworker recommendation who already had a CCNA. Training centers also give you this virtual exercise option, some for a few months after a class (Global Knowledge), some are based yearly subscriptions like INE. I think Boson cost me around $100, look for specials after you get on their mailing list.
+
+Exam Cram Book (does not exist for CCNP), read cover to cover, memorize short cut card.
+
+Brain Dumps (google ccna brain dumps), and practice Exams in the few weeks before the exam. Exam Cram book includes a practice exam.
+
+If you don’t pass your first exam, like me, do not beat yourself up over it, it sucks to lose $$$, but use the score card to find out your weak areas for study, but note you do have to schedule RE-TAKE OF EXAM AT LEAST A WEEK in the future. There was no, I will come back tomorrow and retake it like other vendors. However, the good news is now you will now know the exam taking drill on the next attempt.
+
+Check your exam requirements for Certification with Cisco, they did change while I was working on my CCNA.
+
+I hope this helps, Good luck!
+
+-Neil
+
+1.7K views
+View 2 upvotes
+1 of 1 answer
+Profile photo for Vimal
+Vimal
+ · 
+Follow
+change has to come.....11y
+Originally Answered: How can I start to learn CCNA by myself? What are suggestions for some good books or material which can be helpful to me?
+You can watch videos as well as read books . I would suggest you to first go through some videos on youtube about basics of networking.A huge number of options are available there choose as per your convenience , especially try to clear the concepts of OSI model , TCP/IP model and ip addressing , sub netting. After that all other things will be much easier for you . You can follow the book CCNA by Todd Lammle which covers almost everything that comes under CCNA syllabus. You can download its soft copy it is available easily. (in case you did not found it ,message me your mail id i will send it to you.)
+http://www.flipkart.com/ccna-cisco-certified-network-associate-study-guide-with-cd-english-7th/p/itmdytnadygrdbdz
+
+3.2K views
+View 7 upvotes
+1 of 3 answers
+Profile photo for Vijay Anand
+Vijay Anand
+ · 
+Follow
+Working in networking area8y
+Originally Answered: What is your advice for someone who is beginning a network career and wants to take a CCNA certification?
+CCNA is highly recommended for those who intends to pursue a career in networking. It provides a solid understanding of the networking concepts from practical point of view. You would have studied about STP, Ipv4/IPv6 etc during studies. But, CCNA provides a different perspective of the same and provides a good foundation. If you are quite new to networking, you may take CCENT and then ICND2 instead of CCNA directly.
+
+You may also consider Juniper JNCIA which is as good as CCNA and offered by Juniper Networks.
+
+Another good option is to go for MCSA, which is microsoft specific. It is useful for systems administration of Microsoft servers and LAN. CCNA, together with MCSA would be a good career choice and improves job opportunities.
+
+Good luck!
+
+274 views
+View 1 upvote
+1 of 1 answer
+Profile photo for Walter Meier
+Walter Meier
+ · 
+Follow
+Lives in Hua Hin, Thailand (2015–present)8y
+Originally Answered: As a student learning networking for CCNA, what ways/tips can help me in this journey?
+As a student, don’t be content or even anxious about simply preparing for the test. Understand the host-node-transport-node-host concept. Thoroughly comprehend the OSI layers and the protocols defining each layer and at each device. I found that it after I fully grasped this big, end-to-end picture more advanced protocols (both routing and routed) and services were easy to understand, implement and answer questions.
+
+161 views
+View 1 upvote
+1 of 2 answers
+Profile photo for MD.FIROZ ALAM
+MD.FIROZ ALAM
+ · 
+Follow
+Certification in Cisco Certified Network Professionals, Cisco (company) (Graduated 2012)1y
+The time it takes to prepare for the CCNA exam depends on the candidate's experience. New IT professionals may need more than five months to prepare, while network administrators with some experience may be able to pass in less than three months.
+
+Study theory: you need to learn about different networking protocols that we use on routers and switches.
+
+Labs: you need to configure routers and switches. Learn the different commands and outputs.
+
+And also follow the below steps.
+
+Developing a Comprehensive Study Plan, Understanding Networking Fundamentals, Mastering Routing and Switching Protocols, Hands-On Lab Practice for Practical Skills, Leveraging Online Resources and Communities, Effective Time Management and Organization.
+
+295 views
+Profile photo for Aashish Vaghela
+Aashish Vaghela
+ · 
+Follow
+IT Infrastructure Support Manager (2016–present)8y
+Originally Answered: As a student learning networking for CCNA, what ways/tips can help me in this journey?
+If it is only for CCNA level, focus on TCP-IP Protocol Stack, IP Subnetting, Routing Algorithms (OSPF / EIGRP), Switching Protocol (STP), VLANs / VTP, Access Control Lists, Device Configuration.
+
+WAN & IPv6 are almost in Negligible quantum. You can study it but don’t spend too much time on it.
+
+Hope this answers your question and gives you some directives on your focus areas.
+
+638 views
+View 4 upvotes
+Answer requested by 
+Boon Chong
+1 of 2 answers
+Profile photo for Ken Prewitt
+Ken Prewitt
+ · 
+Follow
+Former Net Admin at C Spire (2018–2024)7y
+Originally Answered: What do you suggest to someone who is starting to prepare for the CCNA R/S exams?
+Focus Focus Focus.
+
+Since you made your question plural, I assume you are taking the ICND1 first, then ICND2 after. If that is so, then make sure you focus on what is important to each section.
+
+When you are studying for the first exam, make sure you also study IP Subnetting as dedicated as any other portion. You are going to have to come up with addressing in your head, or at least on the paper they provide, on the spot without a calculator. Know it…don’t memorize a chart…know it. It will be important to your career as a network admin forever.
+
+When you get to test 2, you should stop worrying about the stuff you learned in part 1. It will not carry over. You will not be asked to answer questions across the lines here.
+
+So, focus on each section individually and completely while you are prepping. Know how to subnet in your head. Know CIDR.
+
+That’s all I can really say about it, other than best of luck and do great.
+
+945 views
+View 1 upvote
+Answer requested by 
+Bishal Bhusal
+1 of 1 answer
+Profile photo for Sneha Puri
+Sneha Puri
+ · 
+Follow
+Completed CCNA9y
+Originally Answered: How can I get CCNA?
+First - ask yourself why do you want to do a CCNA.
+
+Second - get a good book (look up used books on Amazon for a good price). There are even exam prep test books if you are interested.
+
+Third - read the books properly. See if you can get GNS3 or packet tracer. These are simulators that can create basic networks for you to play around in. You will need a license for them. Otherwise, get a couple of old layer 3 switches and make your own network.
+
+Don't learn to clear the exam. Learn and understand gain knowledge. I cannot stress how important this step is to have a good foundation you can build on.
+
+1.1K views
+View 6 upvotes
+Answer requested by 
+Joe Franzen
+1 of 43 answers
+Profile photo for Walter Meier
+Walter Meier
+ · 
+Follow
+Lives in Hua Hin, Thailand (2015–present)9y
+Originally Answered: How can I get CCNA?
+First, ensure this is something you truly want to do. Know why you are going to invest the money, time, and effort knowing that it will not end. CCNA Routing and Switching leads to CCNA VoIP, Security, and others. Or directly to CCNP.
+
+Also, in the IT world many successful, senior folks (not all) find it beneficial to learn it this way: first learn the PCs/phone and other host devices (like A+), then learn how to connect hosts (CCNA), then learn how to protect the network, and finally learn how to attack it.
+
+That being said, my answer to your question is this. Use Audio-video lessons like CBT nuggets or TrainSignal for the lectures, the actual Cisco certification book for reading material, Packet Tracer or a similar network simulation product, and finally any of the common test-prep question banks. Do not try to memorize the questions but understand each and every question, answer, and distracting non-answer.
+
+You can augment this with youtube, forums, google, etc. I did several certs like this. But after awhile it becomes exhausting and not fun. Mostly, because I was no longer doing it for the thrill of learning but to keep up with expiring certs or new contract requirements.
+
+1K views
+View 1 upvote
+Answer requested by 
+Joe Franzen
+1 of 43 answers
+Profile photo for Nofri Andi
+Nofri Andi
+ · 
+Follow
+Studied at Cisco Networking Academy9y
+Originally Answered: How can I study so I can become a CCNA?
+Maybe this can help you, Cisco Tutorial Video list:
+
+=========================================
+
+Basic Cisco Router Configuration Commands
+Setting Password Console and Telnet on Cisco Router
+Configure DHCP Server on Cisco Router
+Simple connecting two networks using Static Route on cisco router for beginners
+Configure VLAN on Router and Switch Manageable Cisco
+Configure Static Route on Cisco Router
+Configuration Dynamic Routing RIP on Cisco Router
+Configure EIGRP Routing on Cisco Router
+Configure OSPF Routing on Cisco Router
+===========================================
+
+446 views
+1 of 4 answers
+Profile photo for Hannan Ahmad
+Hannan Ahmad
+ · 
+Follow
+Networking Instructor1y
+Originally Answered: How can I start to learn CCNA by myself? What are suggestions for some good books or material which can be helpful to me?
+Yes, you can absolutely start learning CCNA on your own, but I recommend using free materials such as Jeremy’s IT Lab CCNA course on YouTube and simsfornet.com for labs and configurations.
+
+84 views
+1 of 3 answers
+Profile photo for Muhammad Rizwan
+Muhammad Rizwan
+ · 
+Follow
+SEO Analyst at Awaneducation.com (2020–present)4y
+Originally Answered: How should I go about obtaining a CCNA? What types of classes, books, and other resources would you recommend?
+I don’t get the first part of your question and if you're asking how to get a CCNA certification so you need to look for local networking or any technical college or institute offering CCNA certification from CISCO.
+
+For books I suggest
+
+Cisco Certified Network Associate Study Guide (640-802)
+Cisco CCNA Exam Flash Card Practice Library (640-607)
+CCNA Exam Certification Guide (640-607)
+269 views
+1 of 1 answer
+Profile photo for Vamshi Krishna M
+Vamshi Krishna M
+ · 
+Follow
+Studied at Gandhi Institute of Advanced Computer and Research (GIACR)11y
+Originally Answered: How can I start to learn CCNA by myself? What are suggestions for some good books or material which can be helpful to me?
+you can get a lot of videos on youtube . just type ccna(R and S)200-12o and you may get lot of full length lectures and CCNA Routing and Switching Study Guide - Lammle, Todd...is also a good guide book and after that you can register for certification and appear for the exam . After you register you will get the materials by cisco for free .make sure you are thorough with the comptia N+ .
+
+1.4K views
+View 2 upvotes
+1 of 3 answers
+Profile photo for Debayan Dey
+Debayan Dey
+ · 
+Follow
+Completion certificate​ in Lovely Professional University (LPU) & Ccna Routing and Switching Syllabus (AlphaPrep.net), Cisco Networking Academy6y
+Originally Answered: How can I study so I can become a CCNA?
+To clear CCNA , currently CISCO is offering 2 Options :
+
+1st one is , clear ICND 1 and ICND 2
+
+2nd one is , clear CCNA routing and switching 200-125
+
+Both option will help you to get CCNA Routing & Switching Certification .
+
+Main Question “ What is the difference between ICND1 & 2 vs CCNA (Routing and Switching ) ? “ ..
+
+What is the difference between taking the ICND1 & 2 exams against just taking the one CCNA exam? Now we have all heard the experts such as Todd Lammle, Wendell Odom and Jeremy Cioara. Now I believe in all their products and as far as I am concerned they are the best in business. They will all tell you should be able to do some things quicker in the CCNA exam than the ICND exams. They are correct but, which option is better. The answer is… Not Much Really. They will both set you back 250.00; they both test your knowledge of Cisco networking products. But in the end they get you the same certification, CCNA! Now with the ICND exams you will pick you up the extra certification, CCENT. So if you want to add certifications to you resume then you may want to go this route and if you want the one and done, then go with the CCNA exam. Now, if you think for one minute that you can just go in and take the ICND exams and just breeze through them, then I am here to tell you, you may get your feelings hurt. For the CCNA full exam you will have to be much faster with you answers but then again you can't just take your sweet time in the ICND exams either, or you will run out of time with those as well. So, here take some advice from someone who did take both the ICND1&2 exams. For the ICND1 exam you should be very thorough with subnetting and should be very good with NAT. The ICND2 exam you should be very good with OSPF, and VLSMs. Here are some more tips. If you have not taken a Cisco exam before then you should go to their website and check out how their exams are setup. I was in shock at how much different they were than the other certification vendors. But if you want the best you have to adapt and be successful. So, Good Luck and let me know if you have any questions.
+
+Regards ,
+
+Debayan Dey
+
+1K views
+1 of 4 answers
+Profile photo for Kathe Saccenti
+Kathe Saccenti
+ · 
+Follow
+Manager at A Very Large Company (1994–present)7y
+Originally Answered: What is the best way to learn CCNA?
+I think the approach to study, knowing and using Cisco authorized training and organizing a study plan are important. If you visit the Cisco Learning network website you will find 1) a wealth of training materials 2) study groups where you can interact with other folks pursuing their CCNA as well as some good expert advice from participants who have achieved theirs (3) finally but certainly not least you can organize your study plan based upon the ccna exam blueprint provided in the certification area of the Cisco learning network website. Explore this site to find several different types of learning modalities. Best of success on your pursuit!
+
+1.1K views
+1 of 1 answer
+Profile photo for Sreejith Mammen
+Sreejith Mammen
+ · 
+Follow
+Studied at Cisco Certified Network Associate (CCNA)10y
+Originally Answered: How do I prepare for ccna?
+This is how i prepared.
+
+I took a 5 day classroom course since I was new to networking (Alternatively, you could just use CBT nuggets, it is quite good enough)
+Practiced with packet tracer and on the device.
+Took the exam and passed.
+While referring dumps might help you pass the exam, you need some knowledge when you get to the working industry.
+
+843 views
+View 4 upvotes
+1 of 43 answers
+Profile photo for Obinna Okwuolisa
+Obinna Okwuolisa
+ · 
+Follow
+Cisco Certified.9y
+Originally Answered: What is the best ccna study guide?
+The question is:
+
+what is the best ccna study guide?
+
+
+I haven't seen all the CCNA study guides out there and as a result, I can't tell you the best of all. But from the ones I have come across, CCNA study guide by Todd Lammle is the best.
+
+865 views
+View 1 upvote
+Answer requested by 
+Mihai Ionescu
+1 of 5 answers
+Profile photo for Jan Dawson
+Jan Dawson
+ · 
+Follow
+B.S. Arts & Sciences/experience in lots of things10y
+Originally Answered: What is the best ccna study guide?
+You don't really need a study guide, per se, since the test is open with no prerequisites required. Of course, you should have had some formal training in IT or tech electronics.
+
+Cisco as well as independent and private groups offer CCNA study guides in there presentations.
+
+I can tell you a few important aspects to know.
+
+Understanding Networks, Troubleshooting, diagraming (flow-charts) for cabling and routing, schematic reading, wiring, interfacing, understanding programming procedures, both public and private IP addressing, input/output analysis and B2B awareness are most of the important features.
+
+CCNA is focused on small to medium sized firms or companies, so make your study on these aspects.
+
+There is a "free" CCNA Routing and Switching study guide offered at Free CCNA Study Guide , but nothing is free, you know.
+
+Good luck!
+
+1.5K views
+1 of 5 answers
+Profile photo for LT
+LT
+ · 
+Follow
+Former Teaching and Learning Consultant (2018–2023)10y
+Originally Answered: How can I study so I can become a CCNA?
+You can earn your CCNA by taking a test that is designed to trick you and make you fail. So many folks are discouraged by the 3-year term of the certification, but if you work where you are managing Cisco servers you may just get your boss to pay for the test every 3 years.
+
+Ok, so how? The simplest way (not the cheapest) is to purchase CBT Nuggets with host Jeremy Ciaro, who will break down all those concepts and explain networks and some Cisco particulars.
+
+The better way to study for the CCNA is to get in at a company where you have access to Cisco equipment and the individual responsible for maintaining it, then learn the sever-network relationship as intimat...
+
+Access this answer and support the author as a Quora+ subscriber
+Access all answers reserved by 
+LT
+ for Quora+ subscribers
+Access exclusive answers from thousands more participating creators in Quora+
+Browse ad‑free and support creators
+717 views
+1 of 4 answers
+Profile photo for Vicky Mirpagar
+Vicky Mirpagar
+ · 
+Follow
+Founder (2016–present)5y
+Originally Answered: How can I get CCNA?
+CCNP Enterprise is one of the elitist competence certifications that demonstrates the skills of a professional network engineer. The new CCNP certification takes into account the increasing inter-connectivity of workers, hardware, and applications in the organization. This enables CCNP enterprise certificate holders to compete in the evolving networking space. CCNP is advantageous for those who are IT professionals with 3-5 years of relevant experience who can independently manage Cisco network technologies.
+
+Skills to get it:
+
+Skills gained through CCNP certification:
+
+Some of the skills that are validated through this CCNP certification are recognized by various corporates. Cisco Certified Network professionals have the following benefits:
+
+Implementation and configure an EIGRP based solutions
+Creating a multi-area OSPF Network and configure OSPF routing
+Implement an eBGP based solution and configure eBGP routing
+Setting up an IPv6 based solution and documents implementation results
+Create Layer 3 Path Control Solutions and broadband connections.
+Determine the necessary resources and implement VLAN based solution.
+Plan and implement a Security Extension of Layer 2 solutions.
+Design and configure Switch-based Layer 3 services.
+Implement advanced VoIP, video, and wireless support solutions.
+Implement High Availability and confirm using show & debug commands.
+Maintain the network and develop a plan to monitor performance
+Troubleshoot Multi Protocol systems, such as EIGRP, NAT, and OSPF.
+106 views
+1 of 43 answers
+Profile photo for Ken Prewitt
+Ken Prewitt
+ · 
+Follow
+Former Net Admin at C Spire (2018–2024)8y
+Originally Answered: How should I begin studying for a CCNA certification?
+You should do exactly what I am doing for my own…study guides online and text books, watch tutorials online from trusted sources, find and take online practice tests, use GNU3 or Packet Tracer to practice the craft, and talk to others in the field. Do ALL of this, not some of it. The more immersed you are in the topic, the better prepared and more knowledgeable you will be at test time.
+
+Warnings:
+
+Any and every source of information should be thoroughly vetted; I have a colleague that used a free sketchy source and did not pass his test.
+
+Be wary of people that brush off the test as easy or downplay its significance to the field of networking. Do not let the naysayers reduce your drive or distract you from your goal.
+
+Regardless of whether you take the two part ICND1/2 tests or the composite CCNA test, treat each one of them as the sole goal for that period of study.
+
+Best of luck to you and do great things.
+
+1.6K views
+View 2 upvotes
+Answer requested by 
+Yixin Li
+1 of 43 answers
+Profile photo for Vinay S
+Vinay S
+ · 
+Follow
+Former Software EngineerUpdated 7y
+Originally Answered: How can I get CCNA?
+For CCNA Certification,
+
+You would require a vigorous training followed by the Certification exam.
+
+There are 2 ways of appearing in CCNA Certification:
+
+A composite exam 200 - 125 CCNA
+OR
+
+A two exam mode 100 - 105 ICND1 and 200 - 105 ICND2
+The cost of the exams are USD 325 for composite one and USD 330 for the combination of exam. There are various practice exams on Cisco website that may be accessed before appearing in actual exam.
+
+I would suggest you to take help from a reputed institute such as Networkers Home who are known for their expertise in training aspirants like you.
+
+
+Few benefits of training at institute could be
+
+Peer learning environment is there
+Expert training from the Certified instructors
+Real Cisco devices practice which is not possible otherwise
+24x7 Lab facility
+Placement opportunities are available which becomes more after Certification
+
+So, the training is efficient with completion of vast syllabus in the course program.
+
+More details on training can be asked at +91 8447971084 including Certification details.
+
+213 views
+1 of 43 answers
+Related
+I have completed only CCNA course, will I get any good ,please any body explain how do I get, what I have to study more?
+Profile photo for Niyaz Ap
+Niyaz Ap
+ · 
+Follow
+Former Support Engineer 10y
+Hi
+It means you just done the course, course completion only is not enough to get a job. So keep practicing and write a CCNA exam. After completing CCNA certification
+
+Career outcomes:
+
+Network Engineer
+Network Administrator
+Systems Engineer
+Junior Network Engineer
+Desktop Engineer
+
+and there are lot of opportunity available in the market.
+
+CCNA is just the TIP of the Networking Ice Berg, Networking is a Huge Field. But CCNA with practical Hand on experience is usually enough for Basic Network Administration. Should you aspire to make Networking Your Bread and butter, then go for CCNP and Multi Vendor Certifications.
+
+After completing CCNA certification apply job for small scale industries. Don't expect huge salary. Experience is must. Join any company as a network admin and try to earn practical working experience min one year.
+While you are working try to do CCNP certification. Or if you are interested in server administration there are options are available. Try to learn REDHAT Certification (RHCSA, RHCE).
+
+Redhat certification has very good scope in market.
+
+All the best for your future.
+
+4K views
+View 8 upvotes
+1 of 3 answers
+Profile photo for Terry
+Terry
+ · 
+Follow
+I have read thousands of resumes
+ · 
+9y
+Originally Answered: How can I get CCNA?
+Study. Pass the CCNA exam. It’s no big secret.
+Profile photo for Kiran73
+Kiran73
+ · 
+Follow
+Interested in computer networks
+ · 
+10y
+Originally Answered: How can I study so I can become a CCNA?
+You can start studying by listening to CCNA CBT NUGGETS.... And you can practice through GNS3 and packet tracer.....
+Profile photo for Kiran73
+Kiran73
+ · 
+Follow
+Interested in computer networks
+ · 
+10y
+Originally Answered: How do I prepare for ccna?
+You can learn and prepare for CCNA by studying CBT NUGGETS CCNA.. It's the best study material.
+Related
+I want to do CCNA course, but how?
+Profile photo for Able George
+Able George
+ · 
+Follow
+MARKETING TRAINEE (2021–present)4y
+The Cisco Certified Network Associate (CCNA) is a Cisco networking hardware manufacturer's entry-level information technology (IT) certification. The CCNA is designed to test your knowledge of key networking principles that are frequently required in IT networking professions. Cisco Certified Network Associate (CCNA) is a widely recognised associate-level IT networking certification. The CCNA test content and course flow of our entire CCNA certification training are also covered in this CCNA course. You can get your training from New CCNA 200-301 course in Kochi.
+
+With so much to learn, exams may appear impossible to pass. For all Cisco CCNA exams, I recommend STEPS Kochi as a starting point.
+
+691 views
+1 of 8 answers
+Related
+I want to do CCNA course, but how?
+Profile photo for Network Engineer David
+Network Engineer David
+ · 
+Follow
+CEO (2003–present)4y
+Cisco offers Implementing and Administering Cisco Solutions training in a variety of formats, including e-learning, classroom training, private group training, and a digital subscription for around USD 800. But if you choose the SPOTO CCNA training course, only 59.99$. (entering Promo Code FDOZRT at checkout to save $30, only 29.99$.)
+
+
+Level up your career in IT with this video-based SPOTO CCNA online training. Aligned with 2022 ccna exam, the expert-led certification prep course provides hands-on training with core topics such as networking technologies, IPv4 and IPv6 addressing and more. Prepare for the CCNA exam with SPOTO Learning. Get started now to enjoy the early bird offer, entering Promo Code FDOZRT at checkout to save $30.[1]
+
+2.2K views
+View 7 upvotes
+1 of 8 answers
+Related
+What if I want to learn CCNA by self studying, what should I do?
+Profile photo for Ketan Upadhyay
+Ketan Upadhyay
+ · 
+Follow
+Former Network Engineer
+ · 
+7y
+Some rules to achieve your certification
+
+Buy CCNA official certified guide (hard copy or ebook any of them with hardcopy you get 2 practice sets so it's worth paying)
+Get a series of video lectures or use YouTube for the purpose
+Dedicate 2 to 3 hours daily for your preparation
+Study each topic thoroughly and practice all the concepts on lab
+Download gns3 and packet tracer both they are really helpful you don't need to buy real devices for CCNA after installing these
+And book your exams once you complete all the topics and are confident with them
+Related
+Which is the most demanded certification: CCNA (routing & switching), CCNA (security), CCNA (data center), CCNA (voice) or CCNA (wireless)?
+Profile photo for Digvijay Singh
+Digvijay Singh
+ · 
+Follow
+Aspiring Network Engineer10y
+On the contrary to what others have said I will give you a different answer.
+
+First, the certificates you've mentioned are all entry level. They're not much in demand because they will only build your foundation. But a company will expect more than just foundation.
+
+Also, why bother which one is more demanding?
+
+Why not do CCNA R&S and thereafter pick the domain that interest you the most? There is no point and fun in doing something because it is more in demand. Do something you love instead. You'll ace that domain then.
+
+Anyways, to answer your question. Data center domain is more in demand and highly paid.
+
+Good luck.
+
+If you have anymore questions, please read my bio and get in touch with me :)
+Digvijay Singh
+
+24.9K views
+View 41 upvotes
+1 of 25 answers
+Related
+How far can you take CCNA? What exactly is needed to completely study CCNA?
+Profile photo for Krishna Chaitanya
+Krishna Chaitanya
+ · 
+Follow
+Network Consulting Engineer at Cisco (company)8y
+How far can you take your CCNA?
+
+CCNA will be your first step for a rewarding IT career. Now, beware of the word IT career. It is very specific to a certain set of IT skills that are in demand in the IT industry, such as-
+
+Routing and Switching
+Collaboration
+Voice
+Service Provider
+Security
+Data Center etc.,
+You can only take CCNA so far. It is just an aggregation of basic technical skills that you need to step into a particular segment of the IT world. You must take your CCNA to the next step with a CCNP or a CCIE in the same or an alternate segment.
+
+It is even more beneficial for today’s IT industry to complement your IT skills acquired through CCNA/CCNP/CCIE with other in-demand IT skills certifications like CompTIA+, VMWare, Microsoft, RHCP etc.,
+
+What exactly is needed to completely study CCNA?
+
+I have done my CCNA in Routing and Switching. So, let me tell you my learning path. All you really need to get up to speed is to get your hands on Todd Lamle CCNA R&S book, and read it cover to cover. This will give you a solid foundation on what you can expect from CCNA certification.
+
+If you have some money to spare, you can take INE CCNA R&S course by Brian McGahan or CBT Nuggets CCNA R&S course by Keith Barker. They will give you a better perspective over the topics in CCNA and can make you explore the course deeper.
+
+By this time, you should be ready to take the exam head-on. But, you can refer Cisco Offical Press Books on CCNA. This resource works better compared to either Todd Lamle or video courses. However, Cisco press books are written somewhat dryly compared to Todd Lamle, for CCNA level certification.
+
+Hope this helps!
+
+10K views
+View 9 upvotes
+View 1 share
+1 of 2 answers
+Related
+Which is the most demanded certification: CCNA (routing & switching), CCNA (security), CCNA (data center), CCNA (voice) or CCNA (wireless)?
+Profile photo for Networkers Champ
+Networkers Champ
+ · 
+Follow
+Network EngineerUpdated 9y
+As a fresher the most demanded certification is CCNA Routing and Switching. Because in this course you will be dealing with routers and switches so this is the base for networking courses once you get to know about how to make the connections manually as well as how to put the command and all then you can go for your next next courses like CCNA Security, Datacenter,Voice, Wireless etc…
+
+Please find below content of the CCNA Routing
+
+CCNA R&S Contents
+
+1.0 week 1
+
+•Types of networks, Networking devices, cabling type based on implementation requirements contrast network topologies,
+•Configure, verify IPv4 addressing, Compare and contrast IPv4 address types
+•Describe the need for private IPv4 addressing & Describe following:-
+•a) Unicast b) Broadcast c) Multicast
+•Subnetting a) FLSM b) VLSM
+•Compare and contrast OSI and TCP/IP models & Compare and contrast TCP and UDP protocol
+•Router basic:- Components of router, Router ports, Router modes, Basic commands of Router modes
+•Configure, verify, troubleshoot basic device hardening :-Local authentication, Secure password, Access to device, Source address, Telnet/SSH, Login banner
+•Password Recovery, IOS backup and Recovery
+•Identify the appropriate IPv6 addressing scheme to satisfy addressing requirements in a LAN/WAN environment & Configure, verify, and troubleshoot IPv6 addressing & Configure and verify IPv6 Stateless Address Auto Configuration
+
+2.0 week 2
+
+•Describe and verify switching concepts:- MAC learning and aging, Frame switching, Frame flooding , MAC address table
+•Configure, verify, and troubleshoot VLANs (normal/extended range) spanning multiple switches
+•Configure, verify, and troubleshoot inter switch connectivity ,Trunk ports, Add and remove VLANs on a trunk, DTP, VTP (v1&v2), and 802.1Q, Native VLAN
+•Configure, verify, and troubleshoot STP protocols, STP mode (PVST+ and RPVST+), STP root bridge selection
+•Configure, verify and troubleshoot STP related optional features:- Port Fast, BPDU guard
+•Configure and verify Layer 2 protocols:- Cisco Discovery Protocol, LLDP
+•Configure, verify, and troubleshoot Ether Channel
+•Describe the benefits of switch stacking and chassis aggregation
+
+3.0 week 3
+
+•Describe the routing concepts, Packet handling along the path through a network, Forwarding decision based on route lookup, Interpret the components of a routing table,Describe how a routing table is populated by different routing information sources
+•Configure, verify, and troubleshoot inter-VLAN routing :- Router on a Stick
+•Compare and contrast static routing and dynamic routing & Compare and contrast distance vector and link state routing protocols & Compare and contrast interior and exterior routing protocols
+•Configure, verify, and troubleshoot IPv4 and IPv6 static routing
+•Configure, verify, and troubleshoot single area and multi-area OSPFv2 for IPv4 & OSPFv3 for IPv6 (excluding authentication, filtering, manual summarization, redistribution, stub, virtuallink, and LSAs)
+•Configure, verify, and troubleshoot EIGRP for IPv4& IPv6 (excluding authentication, filtering, manual summarization, redistribution, stub)
+•Configure, verify, and troubleshoot RIPv2 for IPv4 (excluding authentication, filtering, manual summarization, redistribution)
+
+4.0 week 4
+
+•Configure and verify PPP authentication
+•Describe WAN topology options :- Point-to-point, Hub and spoke, Full mesh, Single vs dual-homed
+•Describe WAN access connectivity options :- MPLS, Broadband PPPoE, Internet VPN (site-to-site VPN)
+•Configure and verify single-homed branch connectivity using eBGP IPv4 (limited to peering and route advertisement using Network command only)
+•Describe basic QoS concepts
+
+5. week 5
+
+•Configure, verify, and troubleshoot basic HSRP:- Priority, Preemption, Version
+•Configure, verify, and troubleshoot inside source NAT :- Static, Pool, PAT
+•Configure and verify NTP operating in a client/server mode
+
+6.0 week 6
+
+•Configure, verify, and troubleshoot port security:- Static, Dynamic, Sticky, Max MAC addresses, Violation actions, Err-disable recovery
+•Describe common access layer threat mitigation techniques:- DHCP snooping, native VLAN
+•Configure, verify, and troubleshoot IPv4 and IPv6 access list for traffic filtering
+•Describe device security using AAA
+
+From the above scenario we can clearly understand how important the CCNA routing and Switching for Networking field.
+
+62K views
+View 100 upvotes
+View 7 shares
+1 of 25 answers
+Related
+How do I start studying without distractions?
+Profile photo for Mark Grimshaw
+Mark Grimshaw
+ · 
+Follow
+Project Manager5y
+There are a variety of approaches to dealing with distraction.
+
+Focus, concentration, discipline and such like are related to distraction and worth considering. The variety of views and approaches is shown in answers to the following questions:
+
+How do I study with focus and concentration and avoid distractions and procrastination? 2000+ answers
+
+How can we completely concentrate while studying? – 1700+
+
+How do I concentrate better in my studies? I can’t study for more than 45 min. I get distracted very quickly. 1040+
+
+I want to study, but I waste my whole day without doing anything significant, and am unable to concentrate. What should I do? 530+
+
+I am pretty intelligent, but I'm losing the spark to study and work hard. I am getting lazier and more and more distracted. What should I do? 420+
+
+What are some ways to keep yourself from getting distracted while working or studying? 220+
+
+Searching online you will find more and a wider variety of views and advice.
+
+It’s clear that students are different and there isn’t a single approach to focus, distraction and so on which will help every student; what helps one student with focus will not help another.
+
+You can spend a lot of time and effort searching online and the like, trying to find approaches and advice which may help. You might be lucky and quickly find an approach that works for you, but it appears that many students don’t have such luck. It’s up to you to balance reviewing the enormous and ever-expanding amount of advice and studying, however you go about it.
+
+54 views
+View 1 upvote
+1 of 675 answers
+Related
+Can I study CCNA in one week?
+Profile photo for Daniel Oh
+Daniel Oh
+ · 
+Follow
+quora contributor
+ · 
+11y
+Can it be done? Perhaps so. Would I recommend it? No. I liken this question to taking vitamins. Can you eat a whole bottle of multi-vitamins in one sitting? Sure. Will your body get all the nutrients from it? No. Your body can only absorb so much in one day and will purge out the rest. You may be smart enough to cram all that information in one week, but how much will you retain after a month? I like Pratik's suggestion of pursuing CCENT first and work your way up from there.
+Related
+How do I pass the CCNA exam?
+Profile photo for Ryan Mitchell
+Ryan Mitchell
+ · 
+Follow
+Studied Cisco Collaboration at Cisco Certified Network Associate (CCNA) (Graduated 2015)8y
+Like anything in this world. You will need to be passionate and learn as much as you can. Cisco try and screw you over with the exams but don't let that put you off.
+
+I did the following:
+
+Revise the CCNA book
+CBT Nuggets
+Practise the hell out of subnetting.
+Do labs constantly.
+Try and use the knowledge in your job. Preferably in a managed service support role.
+Don't worry about failing. I did 3 times.
+Also, experience is much more important than exams. But they coincide to get better jobs.
+Lastly, when you feel you are ready to take the exam. Normally around 3–6 months. You can use websites like 9tut which give you some of the real answers in the exam. This is technically cheating but the entire industry does it. But don't just go straight to this otherwise you will never become a successful engineer.
+2.9K views
+View 3 upvotes
+1 of 9 answers
+Related
+Can I study CCNA at home?
+Profile photo for Deepanshu Budhija
+Deepanshu Budhija
+ · 
+Follow
+Learning and Sharing since 20083y
+Yes, you can study CCNA at home. CCNA provides fundamental networking knowledge, which can be acquired from the comfort of your home. There is a lot of study material available online, from YouTube to Udemy, from books to dumps, and whatnot.
+
+You can study from any given resource, be it from YouTube channels such as PyNet Labs, which offers free CCNA training videos, or Udemy paid courses, books, etc. However, it is advised not to stay dependent on one source and diversify your knowledge with additional sources. You must also remember that despite being a basic networking course, CCNA holds great value, and your CCNA knowledge will be crucial to decide your networking future. Therefore, it is suggested to stay focused and dedicated while you are training for CCNA.
+
+Therefore, It can be said that CCNA training can be done from home, but the question is:
+
+Is It worth the Effort?
+
+Well, practically speaking, it isn't worth it because CCNA only consists of 40% theoretical part, and the rest, 60%, is practical training done on Cisco Packet Tracer. So, you will come across many network engineers suggesting to go for training with an institute because that will provide a more focused curriculum with advanced practical training.
+
+However, the Cisco software, Packet Tracer, is available for free online and can be downloaded on any system having at least 2 GB of RAM. So, training from home can be worthwhile if you practice your labs and learn everything side by side. However, that will take more time than training with an Institute.
+
+Considering the cost of CCNA training in India, which is around INR 10k, I suggest going for CCNA training because your time will be utilized better, your knowledge will be better, and you get to clear your doubts during the training. It will reap better rewards for you, and you will have more chances of succeeding when you attempt the CCNA Certification.
+
+Many institutes are offering CCNA training; you can check out their curriculum to find the best institute for yourself. You can also take a sneak peek at PyNet Labs' CCNA training in India page to know more about CCNA training.
+
+To conclude this answer, I am adding one more thing that will help you decide which is better for you. If you want basic CCNA knowledge to move on to other networking tracks, you can do it from your home; however, if you are looking to attempt CCNA certification in future or want to build a networking career with CCNA knowledge. In that case, CCNA training with an institute becomes mandatory for you.
+
+I hope I was able to clear your doubts; if you are still struggling with any, you can connect with me here or on LinkedIn.
+
+Happy to help :)
+
+2.2K views
+View 3 upvotes
+1 of 5 answers
+Related
+Is it enough that completing a CCNA course can place me, or do I have to definitely write a CCNA exam?
+Profile photo for William Emmanuel Yu
+William Emmanuel Yu
+ · 
+Follow
+I did my graduate studies while working.
+ · 
+12y
+You should need a CCNA to get a job even in networking. However, for certain situations like working for a Cisco certified partner, this is a requirement. So in this case, you need to take the exam and not just the course.
+
+If you went through all the trouble of taking the course then just take the exam.
+Related
+I am planning for a Master's in networking from the US. I have done CCNA. What should I do next?
+Profile photo for Rinam
+Rinam
+ · 
+Follow
+Former Network Engineer at Infosys Limited (2019–2021)8y
+Brother, as you have cleared CCNA, you can study for CCNP that would be same as masters or even it would be more beneficial. Just get a job in an ISP that deals with MPLS and BGP. It would help you to build your career.
+You can also learn the transmission part and the software related with it like spotlight, Icube etc.
+In short, I would suggest you to gain practical knowledge from the good company instead of doing masters from US. In ISP, you will not only have to deal with CISCO routers and switches but also with Juniper and Alcatel routers and switches. Gaining expertise in troubleshooting will really help you a lot.
+You need to move from L1 to L3 network engineer and for that you must have practical knowledge as well as experience to deal with different issues faced. Everyday an unknown problem will stand in front of you and you need to solve it based on your experience that's it.
+
+1.6K views
+View 2 upvotes
+Answer requested by 
+Mudassir Sharief
+1 of 2 answers
+Related
+Which is the most demanded certification: CCNA (routing & switching), CCNA (security), CCNA (data center), CCNA (voice) or CCNA (wireless)?
+Profile photo for Sushmil Garde
+Sushmil Garde
+ · 
+Follow
+Former Training Officer and Security Evangelist (2016–2017)
+ · 
+9y
+Data Center and Security are in boom and will stay for a long time!
+
+CCNA (R&S) is the first step in IT networking and hence most of the freshers and newbies are advised to take this course. If you know the basic concepts of Routing and Switching, then you must think about Data Center and Security, depending upon your interest.
+
+I don’t think they have CCNA (Voice) anymore. Wireless is also a great technology to learn, especially considering the importance of mobility today. But it is not as popular as Data center and Security.
+
+Hope this helps!
+Related
+After my CCNA, I want to learn some other technology. I don't have any programming knowledge. What will be best for me?
+Profile photo for Ketan Upadhyay
+Ketan Upadhyay
+ · 
+Follow
+Former Network Engineer
+ · 
+6y
+You may end what you have started ccna is entry level only you must opt for ccnp atleast if not ccie to showcase your knowledge and become expert in the domain of networking stick to one thing till the time you do not become expert in it 👩‍💻
+Related
+Why do we need CCNA?
+Profile photo for Rishabh Goyal
+Rishabh Goyal
+ · 
+Follow
+An Extroverted Introvert INFJ-A7y
+CCNA is just a certification. The main thing is the knowledge that this course offers.The course is designined by the very skilled persons of the IT industry. While pursuing the course you gonna learn the art of networking.
+
+For me,It is an entry level certification in IT industry. But certification can't take you much far. Knowledge is the key. Certification is just important to open the doors of new opportunities for you.
+
+I have seen many people with fake certifications. They got a lot of certs but the don't have even the 10% knowledge required to pass the exam!
+
+If you are looking to learn some strong and fundamental networking skills,go for it. Its good to get certified but please don't use braindumps !
+
+Thanks for reading!
+
+2K views
+View 3 upvotes
+1 of 12 answers
+Related
+I am thinking about taking CCNA exam. What should I focus on ? What are the tutorial I should start with?
+Profile photo for Saajan Dhall
+Saajan Dhall
+ · 
+Follow
+Works at Accenture (company)
+ · 
+9y
+Initially Start with ICND1_640-822 and ICND2_640-816 CBT nuggets, which contains about 38 videos explaining basic to advanced. If you do this and then start using any Network simulator (GNS3) during videos i am pretty much sure you will be soon a networking king…!! :D
+Related
+I have completed only CCNA course, will I get any good ,please any body explain how do I get, what I have to study more?
+Profile photo for Arun Mv
+Arun Mv
+ · 
+Follow
+15 years work experience with multivendor certifications such as CCIE voice
+ · 
+10y
+If you mean that you will get any good job, the answer is it depends !!
+
+Certifications are meant to complement work skills. CCNA alone cannot get you a job, however it will get you interviews. The way you crack your interview is more important. I conduct training for job interviews to prepare the candidate for interviews who have had certifications. Again it is not meant to be a shortcut, it is meant to complement your existing knowledge and add the toppings that an interviewer looks for in your resume.
+
+All the best.
+
+Regards,
+
+Arun
+Related
+How do I study a voluminous CCNA material for the CCNA RS certification exam?
+Profile photo for Sneha Puri
+Sneha Puri
+ · 
+Follow
+Completed CCNA10y
+You start by going over the index page. Atleast that's how I start.
+
+Plan your study, decide what you plan to complete this week. Keep packet tracer or gns3 at hand. Keep a book/laptop to make notes.
+
+Start with the first chapter. Anything you do not understand, look it up on google.
+
+If there are practical parts to the theory, practice them on the simulator. Don't blindly follow the configurations in the book, try to understand the logic behind them.
+
+Once you finish a chapter, review your notes.
+
+Before you start the next chapter, review your notes again. Go over the lab you completed. Then move forward.
+
+It is daunting at the start but by planning your work, you start to take back some control.
+
+I did this for every certification I ever gave. I finished the SRA at Alcatel Lucent and am starting on my CCNP. It helped me keep notes of my previous study sessions so I could simply go back and review if I forgot something.
+
+The most important thing is to understand as much as you can when moving forward. It will give you immense pleasure and you will feel like moving to the next page.
+
+
+
+937 views
+View 1 upvote
+Answer requested by 
+Obinna Okwuolisa
+1 of 1 answer
+Related
+What will I gain if I learn CCNA?
+Profile photo for Manish Sharma
+Manish Sharma
+ · 
+Follow
+Works at Zynom
+ · 
+9y
+CCNA is a starting stage for Networking Profession, i completed my CCNA in 2011 From Delhi Ducat, In CCNA you can learn,Full Routing and switching using console, brief description about ISO Seven layer model, Subnetting, Introduction of Networking Devices, RIP, OSPF, AREA, VLAN, EIGRP
+
+For more information about networking you have to learn CCNP- like Network Security
+
+I am having a good notes on CCNA if any one need please contact me, will happy to help you.
+Related
+How long to study for and pass CCNA Security? I'm Cisco CCNA (R&S) certified
+Profile photo for Peaceful4You
+Peaceful4You
+ · 
+Follow
+An Advocate For Meditation & Mental Relaxation 9y
+I got my CCNA May 15th of 2015. I was still in college and had no networking experience so that's the reason I went for my CCNA. Anyways, the CCNA alone landed me a good internship which turned out to be a job as a network cable tech. After 2 months with my CCNA and working as a tech and studying for my CCNA security, by July 15th I had my CCNA security. It was alot easier to obtain for me because everything feel in place for me in the exact order I wanted it to. Someone with none of my experience, I would assume would take much longer to get their CCNA security. I know a guy that had no college, no certifications and no experience in networking study and got his CCNA security within 1 year. I guess it all depends on the individual. Something that only took me 2 months, took a buddy of mine 1 whole year to get.
+
+8.6K views
+View 6 upvotes
+1 of 6 answers
+Related
+How do I sincerely study CCNA?
+Profile photo for Joseph McKeown
+Joseph McKeown
+ · 
+Follow
+Network Engineer, CCNA R/S, Security+ce9y
+One method does not work for everyone.
+
+For me:
+
+I started by buying the CCNA R/S course on Udemy with instructor Lazarro Diaz. I would just listen to it in the background while I was doing other stuff.
+I then watched the course again and took notes.
+Now I knew I wanted to pursue this further so I purchased the study guide by Todd Lammle.
+Read through the book the first time without notes and took the quizzes.
+Read through a second time and took quizzes again. Also, I did the final exam at the back of the book.
+Then, I started doing the practice labs in Packet Tracer. I must have done them 2 or 3 times each.
+Finally, I used the Boson practice exam. This gave me an idea where I needed work.
+Reviewed the portions where I struggled in the practice exam.
+I then decided to split the exam in 2 rather than take the comprehensive exam.
+I passed both portions on the first try.
+This worked for me, but it was an investment of time and money. Though, I will say it was well worth it.
+
+8.8K views
+View 11 upvotes
+1 of 2 answers
+Related
+How do I self study CCNA & CCNP?
+Profile photo for Noorur Choudhury
+Noorur Choudhury
+ · 
+Follow
+BSc in Computer Science and Mathematics & Network Engineering, Queen Mary, University of London (Graduated 2009)
+ · 
+6y
+IMO, the best way to self study ccna & ccnp is by doing lots & lots of labs. If you don't have real physical equipments ie Cisco routers or Switches, then there's Packet Tracer but that's only good for CCNA. For CCNP, I'd recommend Boson, it's a very good software for both CCNA & CCNP, with virtualised scenarios with switches & routers. It may not be cheap, but it definately is a worthy investment which lasts lifetime. There's hundreds of labs on there. And no, I'm NOT a sales person for Boson btw, otherwise I would have been rich.
+Related
+How do I pass the CCNA exam?
+Profile photo for Sreejith Mammen
+Sreejith Mammen
+ · 
+Follow
+Studied at Cisco Certified Network Associate (CCNA)
+ · 
+10y
+Learn. Practice. (Use packettracer simulator if you dont have cisco switches or router)
+
+Tip: Being able to calculate subnets fast would help you have more time for other questions.
+Related
+What will I gain if I learn CCNA?
+Profile photo for Pradeep Giddappa
+Pradeep Giddappa
+ · 
+Follow
+10 years experience as Corporate Trainer, Trained more than 5000 students so far9y
+You gain Knowledge on Networking technologies.
+
+you have to ask these questions weather you are doing CCNA for passion or for profession.
+
+Having only CCNA certification on paper will not get job for any one.
+
+Many people will take illegal ways to get their certification done. Remember knowledge cannot be purchased, knowledge can only be gained by efforts.
+
+Along with CCNA Certification you should also have talent. some times your academic qualification & performance will also be a decider.
+
+CCNA will never assure a job in IT networking domain it will just will easy your first step in getting job.
+
+Read my other answers in below mentioned links , which are very much related to your question.
+
+Pradeep Giddappa's answer to Will my poor academic performance ruin my chances of getting a job after CCNA and CCNP?
+
+Pradeep Giddappa's answer to What is the salary of a fresher with ccna?
+
+Thank you
+
+Pradeep.G
+
+3.2K views
+View 3 upvotes
+Answer requested by 
+Sritharini
+1 of 7 answers
+Related
+I want to do CCNA course, but how?
+Profile photo for Braid Lee
+Braid Lee
+ · 
+Follow
+Former Blogger at XYZ.4y
+
+Many candidates find it daunting to get started with the CCNA (Cisco Certified Network Associate) certification. Candidates have to choose a CCNA course depending on their IT experience, interests, objectives, targeted job roles, etc.
+
+Cisco CCNA Certification
+
+CCNA (Cisco Certified Network Associate) is an entry-level certification for the IT industry. In this certification, you'll learn about fundamental concepts of fixing, configuring, troubleshooting and networking. You can make your career in the networking field after this certification.
+
+It's a widely recognised certification that helps you get opportunities for your career growth.
+
+Benefits of CCNA Certification:
+
+After getting Cisco CCNA certification, you'll get so many benefits like:
+
+● You'll unlock job opportunities widely
+
+● High-salary positions
+
+● Become skilful and expert in the field
+
+● Recognised in-crowd and in-demand
+
+● Help you in career growth.
+
+What's on the CCNA Exam?
+
+If you're preparing for the CCNA course online, then you need to prepare and gain knowledge about:
+
+● Network fundamentals
+
+● Network access
+
+● IP connectivity
+
+● IP services
+
+● Security fundamentals
+
+● Automation and programmability
+
+These areas will be a part of the CCNA certification exam, so you need to learn more detail and become an expert in this field.
+
+Eligibility for CCNA certification
+
+There are no formal requirements for anyone to become eligible for this certification. If you're a beginner or fresher, you're qualified to do this certification for your career. And the CCNA certification cost is $300 (USD).
+
+How to get the CCNA Certification?
+
+If you want to do CCNA certification to get certified, then follow the given steps:
+
+● Find a valuable certification course with CCNA course fees
+
+● Learn all necessary details and become knowledgeable
+
+● Take this certification and pass the exam
+
+● Get CCNA certified
+
+Now you'll have clear information about the CCNA certification course and how it's beneficial for your career growth. So it's time to pick a CCNA training course, learn via training and get certified.
+
+754 views
+View 2 upvotes
+1 of 8 answers
+Related
+I want to do CCNA course, but how?
+Profile photo for Raghav Batra
+Raghav Batra
+ · 
+Follow
+B.tech(ece) in Maharaja Agrasen Institute of Technology, Guru Gobind Singh Indraprastha University
+ · 
+5y
+Heyy brother i am from delhi and currently pursuing my btech in electronics and communications from MAIT rohini. I also come across this question a few months back and i joined CCNA coaching at jetking rohini and with my experience i want you to know that this is the best opportunity or a best certification which you can get for your better future placements or job opportunities
+Related
+Can I study CCNA in one week?
+Profile photo for Deepanshu Budhija
+Deepanshu Budhija
+ · 
+Follow
+Coach. Guide. Network Engineers Placement Expert at PyNet Labs (2020–present)3y
+Yes, perhaps it is possible if you choose a fast-forward way such as boot camp. There are various CCNA boot camps, you can enrol in any of those, and it will provide you with CCNA knowledge in just 5 to 7 days.
+
+See, networking is considered tough and mastering most of the networking skills take a lot of time. However, CCNA is just the first step in networking that provides fundamental networking knowledge. So, one can take the shortcut depending on their goals.
+
+If you aim to brush up on your already-acquired CCNA knowledge or get an overview of what CCNA offers, you can do it in one week. But if you plan for a networking career or attempt CCNA certification, then there is no way of doing it in a week.
+
+For a novice, it is impossible to get a hold of anything CCNA offers within a week; they have to revise everything at home again to get a good grip on CCNA topics. Per Cisco recommendations, a person must give 100 hours at least to train for CCNA.
+
+Therefore, it also depends on your goals. Moving on, let's understand if learning CCNA in one week is even beneficial or not.
+
+Is it really worthwhile?
+
+To be honest with you, if you don't already have CCNA knowledge, then there is no point in going for CCNA in a week. It will be a waste of time and effort as learning CCNA in mere 7 days is impossible.
+
+Another thing to consider is the importance of CCNA in a network engineer's life. CCNA might be the most basic networking certification, but it is still the make-or-break point of a networking career. CCNA knowledge provides the foundation on which your entire networking career is built. So, forget the 7-day option if you want to build a networking career and learn everything at a suitable pace, get in-depth knowledge of everything, and practice everything you learn.
+
+Moreover, CCNA is not only about theoretical knowledge; more than 50% of CCNA is about practical knowledge which you can only master with a lot of practice.
+
+What are the best option?
+
+The best option would be training with an institute where you learn everything at a steady pace, where you get to clear your doubts, which is impossible in a 5 to 7-day boot camp.
+
+You can also try free CCNA training, like the one PyNet Labs is launching to help all aspiring network engineers or study CCNA from YouTube or other resources at your own pace.
+
+Epilogue: CCNA can be done in 7-days but only if you have prior knowledge of it. If you want to build a networking career, it is advisable not to try such things and focus on learning CCNA steadily.
+
+All the best. :)
+
+2.8K views
+View 2 upvotes
+1 of 10 answers
+Related
+Is the CCNA useful or not?
+Profile photo for Digvijay Singh
+Digvijay Singh
+ · 
+Follow
+Aspiring Networking Engineer10y
+CCNA alone is not useful. It will just teach you the basics of networking. But, if you plan to pursue networking as a career, then yes, it is important because it builds your foundation. I did my CCNA and took it very lightly. Moved to CCNP and saw 60 to 70% of the topics are from CCNA only but little more in-depth. Then again I studied for my CCNA and got my basics right.
+
+In short, if you just want a certificate in your hand, I hardly doubt CCNA alone will be that helpful, but it is a must for your career in networking :)
+And if you plan to take CCNA just so that you can land a basic job, then there is no guarantee that it will get you a job. It might, it might not.
+
+Good luck. Comment here or PM me if you have more questions :)
+
+7.3K views
+View 7 upvotes
+1 of 12 answers
+Related
+I am planning for a Master's in networking from the US. I have done CCNA. What should I do next?
+Profile photo for Aniket Mahajan
+Aniket Mahajan
+ · 
+Follow
+Studied at National Institute of Construction Management and Research (NICMAR)12y
+you should first prepare for GRE
+which is the entrance exam, you should appear and qualify for doing MS in USA
+then apply for visa and the other things
+
+this is the official website for GRE-
+GRE
+
+and coaching class for GRE ahould preferably be
+
+http://www.dilipoakacademy.com/
+
+
+this class will help you regarding all your problems and will give you proper coaching and guidance for doing masters's in US.... best luck

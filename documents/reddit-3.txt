@@ -1,0 +1,295 @@
+Go to Cisco
+r/Cisco
+•
+2y ago
+JosyBang
+
+Best way to study for CCNA?
+Hi everyone,
+
+Im very new in IT making a career change someone suggested getting first the CCNA wondering if you have valuable tips before a leave my current job
+
+18
+·
+45
+Comments Section
+[deleted]
+•
+2y ago
+Jeremys IT lab is pretty popular
+
+
+14
+lrs9
+•
+2y ago
+This, and it’s free. I did the official self study course through Cisco and Jeremy’s IT Labs were way more detailed and not 800 dollars
+
+
+7
+u/carterwest36 avatar
+carterwest36
+•
+2y ago
+I am wondering, can someone who’s not based in the US do self study courses through Jemery’s IT labs? I have been looking around in my country and seen ridiculous prices like 1635 euros but that included an actual teacher, class, access to hardware.
+
+I been looking around how much it would cost me and still know very little about it but it looks like the exam itself is 300-350$ regardless and then study material you can get through various instances?
+
+Since it’s internationally recognized and so the same language for all of us I am going to take a wild guess that doing self study courses through places in the US such as Jeremy’s IT labs shouldn’t be an issue but that taking the exam will have to happen in the country I am based in.
+
+Sorry to reply to a 60d old comment, I’m a bit new to certificates and been trying to figure out how much it would cost if I choose selfstudy.
+
+
+3
+lrs9
+•
+2y ago
+Jeremy’s IT Labs are on YouTube. Completely free
+
+
+2
+u/carterwest36 avatar
+carterwest36
+•
+2y ago
+Yeah, I've seen that when I googled after you mentioned his name.
+
+I did notice he also offers courses for which you have to pay which includes a few extras on top of the youtube videos like "detailed lecture videos" but I'm unsure if that just are the YouTube videos ad-free or if those are other videos altogether, quizzing, bonus flashcards and a completed set of practice labs which are pre-made with the Packet Tracers to get hands-on experience.
+
+https://courses.jeremysitlab.com/p/ccna - this is what he offers additionally
+
+He also offers a course that is just the labs for hands on practice, his "ccna lab series".
+
+But I talked to someone else since I made that comment and he's shown me the Cert book on amazon and then some other sources for study material to use with the YouTube videos that doesn't cost a whole lot at all (like it's not in the 1000-1600 price range, I think the 1600euro one was simply because it was day classes with a teacher, so it's similar to paying for a year of college.) He advised some of the additional study material on top of the youtube video, especially the Packet Tracer labs for hands-on practice but if people can do it with only the YouTube video then that's totally awesome of course.
+
+To do the exam and get certified it costs 300$ though right?
+
+1
+Continue this thread
+u/Zagrey avatar
+Zagrey
+•
+2y ago
+Start with Network+ with Professor Messer, pass that cert and then attempt CCNA. Actually my best advice is to start with Network Chuck on YouTube as he explain networking very very simply and very interesting, although it falls off quickly. That’s when you get hooked and start the hard studies with Network+ but be aware, Network+ is a walk in the park compared to CCNA. If you start studying straight for CCNA, I’m almost certain you’d quit the first week. Also I forward Jeremy’s IT Lab. This guy has given me a career and one him a lot!
+
+11
+SeptemberRival8021
+•
+2y ago
+The thing that helped me more than anything was labs that I could open in Packet Tracer to practice troubleshooting networking issues. I think I found them on Udemy. It's been about 5 years ago or so, but I imagine you can find them or something like it still
+
+5
+[deleted]
+•
+2y ago
+Neil Anderson on Udemy, Cisco Press books, Boson practice exams. Jeremy’s IT Lab is comprehensive, but Neil Anderson’s instruction is more modular with excellent PDF’s for each section and sub-section.
+
+5
+gsxrjason
+•
+2y ago
+The boson netsim was by far the biggest help for myself. Might be a 4th sale right now, but is usually $180. It offers pre built labs and course work to complete them with grading. Building your own lab is also fairly vital if you decide to focus networking. It is also worth if you're not already familiar with virtual machines to spend some time with esxi free if that's a thing anymore, virtualbox, or hyperv. I cant speak for proxmox, but I hear good things. Other simulation tools like gns3, eve-ng, packet tracer can be very helpfulbuy take some time to setup. I find building out a specific lab can be time consuming and tedious which is why I really appreciate netsim as there's premade templates to the tech I'd like to study.
+
+Hope that helps!
+
+3
+hocinedh
+•
+2y ago
+Get an official cert guide (Todd Lammle's is one of the best) and some videos training CBT nuggets or Jeremy it's lab in youtube are pretty good,you have to lab a lot.Good luck!
+
+3
+[deleted]
+•
+1y ago
+Recently got my CCNA, Packet Tracer along with Jeremy’s IT lab on YouTube is literally ALL you need! And it’s FREE! Put in the hours, absorb everything from his course, do the labs, learn the Flashcards and you’ll be fine!
+
+
+3
+u/Sudden_Meal3212 avatar
+Sudden_Meal3212
+•
+1y ago
+Awesome thank you for sharing! And CONGRATZ!!!!!
+
+2
+u/Business-Waltz-3056 avatar
+Business-Waltz-3056
+•
+1y ago
+Did you end up getting a job because of Ccna ?
+
+
+1
+[deleted]
+•
+1y ago
+I got it whilst working.
+
+
+1
+u/Business-Waltz-3056 avatar
+Business-Waltz-3056
+•
+1y ago
+Good for you, is it okay if I shoot you a dm?
+
+1
+Continue this thread
+u/sels1997 avatar
+sels1997
+•
+1y ago
+Did you have prior networking experience? I’m on the fence between net+ and ccna
+
+
+1
+[deleted]
+•
+1y ago
+Yup, 3 years on the job.
+
+
+1
+u/sels1997 avatar
+sels1997
+•
+1y ago
+Doing what exactly or what role?
+
+1
+Continue this thread
+duck__yeah
+•
+2y ago
+r/ccna, read the pinned post.
+
+2
+Former_Progress8461
+•
+2y ago
+Hey, I have a somewhat perfect solution. Im going to DM you. Im doing a free online CCNA study starting tomorrow night. I have 7 people onboard but only 3 of them confirmed tomorrow nights date.
+
+
+2
+Former_Progress8461
+•
+2y ago
+Im going to shoot you a DM about it
+
+1
+u/thesaoexpress avatar
+thesaoexpress
+•
+1y ago
+Please send me this
+
+1
+u/Business-Waltz-3056 avatar
+Business-Waltz-3056
+•
+1y ago
+Can I have it as well.
+
+1
+u/EchidnaFuzzy9783 avatar
+EchidnaFuzzy9783
+•
+8mo ago
+Surely send it homie
+
+1
+Dry_Dust5612
+•
+5mo ago
+is it still there? Can i join?
+
+1
+vector5633
+•
+2y ago
+You need to get your network basics down 1st. Start with Network+.
+
+I took the CCNA in R/S about 15 years ago and it was tough. Now I hear it is even much tougher. So, as a newbie, you are going to struggle if you don't have the very basics and foundation down in networking 1st.
+
+1
+RekklessFeh
+•
+2y ago
+I recommend Kevin Wallace on YouTube, he has some massive deepdives on most routing protocols both other things aswell.
+
+I know most of the things might be to advanced for CCNA but for me getting more details helps me understand the overview better. So give his videos a few looks
+
+1
+u/ampankajsharma avatar
+ampankajsharma
+•
+2y ago
+I am enrolled with Neil Anderson's ccna bootcamp, the one on his on website, as it has more labs than the one on Udemy.
+
+1
+Former_Progress8461
+•
+2y ago
+Just sent you a DM
+
+1
+CaucasianHumus
+•
+2y ago
+I just got my ccna a couple months back. I found boson to be good, and sources from udemy, and youtube. Though boson was the best in terms of info, while also simultaneously being the worst as they updated their stuff in the middle of me studying lol. Do recommend it though practice tests are good, and reading material goes indepth.
+
+
+1
+u/Sudden_Meal3212 avatar
+Sudden_Meal3212
+•
+1y ago
+What is Boson? Is that a book? A YouTube channel? A course on Udemy? Could you please clarify?
+
+
+2
+CaucasianHumus
+•
+1y ago
+Boson.com
+
+They sell sim and labs, as well as courses and books for alot of certs. It gives you a kind of experience with possible stuff yoy may fix/see in an environment.
+
+1
+Leo_techfreak4u
+•
+2y ago
+Study but don't get certified unless you have work experience in IT. My strong advice.
+
+CCNA alone won't land you a job if you have 0 real world experience in IT.
+
+
+1
+ArizaWarrior
+•
+1y ago
+How are you supposed to land a job if you have no experience though? Wouldnt the CCNA help you get an entry level job? Even in IT?
+
+2
+[deleted]
+•
+2y ago
+!RemindMe in four days
+
+
+1
+u/RemindMeBot avatar
+RemindMeBot
+•
+2y ago
+I will be messaging you in 4 days on 2024-07-11 13:04:03 UTC to remind you of this link
+
+CLICK THIS LINK to send a PM to also be reminded and to reduce spam.
+
+Parent commenter can delete this message to hide from others.
+
+Info	Custom	Your Reminders	Feedback
+0
+[deleted]
+Comment has been removed

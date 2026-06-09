@@ -1,0 +1,3643 @@
+Cisco
+Learning Network
+Menu
+Login
+Join now
+Search Icon
+CCNA Certification Community
+
+Bryan McGann asked a question.
+
+Edited April 2, 2026 at 10:54 PM
+BEST STUDY METHODS FOR CCNA, These are my suggestions, please comment and I'll try to include yours as well.
+Please like, comment, and share if you find this worthwhile. Thank you.
+
+This is a little long, but worth it.   Please give a couple thumbs up and comment if find useful. Thanks
+
+
+I have taught CCNA, or others, for about 25 years and have many certified successful students. 
+
+The result: Be competent, be able to DO the job. Be Certified and QUALIFIED, be able to DO the job.
+
+
+Be sure to reference the CCNA blueprint (exam topics) to follow along on your study plan:
+
+https://learningnetwork.cisco.com/s/ccna-exam-topics 
+
+ 
+
+1. I recommend guided learning thru a Cisco Networking Academy – if feasible
+
+Excellent courses given by live instructor thru the Cisco Networking Academy available at community colleges, high schools, vocational colleges, universities, and non-profit organizations worldwide. You can find here: https://www.netacad.com/academy-locator
+
+There are free course materials, labs, and Packet Tracer activities available at NetAcad.com
+ This series from Wendell Odom on YouTube is excellent:  Wendell’sYouTube
+
+Cisco U: https://u.cisco.com
+
+ALSO
+
+﻿Taking Cisco Learning Network’s “Study Groups” for discussion and troubleshooting practice.
+
+Wendell Odom's video on YouTube: Video-based labs at YouTube: https://www.youtube.com/playlist?list=PLhDAmDsTz9XeObMAUL-vW-a9ESTb-O-Ay 
+
+Wendell's https://www.certskills.com/config-labs/
+
+ 
+
+2. Books – This absolutely the best book, in my opinion: I have used, and recommend, Wendell Odom’s book exclusively
+
+Cisco Official Cert Guide Library (CCNA 200-301) by Wendell Odom 
+The industry standard; comprehensive, detailed, with review questions and practice exams.
+If you practice, practice, practice, you will learn the commands
+ 
+
+3. Simulators and Labs – the best approach is to lab, lab, lab, configure, configure, configure, over and over until it is simple to do any command needed. Use the Packet Tracer (Free from Cisco) – it provides everything you need to master the CCNA material
+
+Allows you to created your own networks and simulate network devices and topologies.
+Download from the Cisco NetAcad website.
+You can set up labs, save unconfigured, and configure many times to practice, this is an excellent approach to master the material
+I suggest trying to simulate every diagram in your study text
+By labbing, you build the neural muscles needed to do the job
+GNS3 – awesome but more advanced and requires you to provide Cisco IOS file
+
+More advanced, allows real Cisco IOS images (requires more resources).
+Excellent for more complex topologies and real-world scenarios.
+Boson is another simulator, not my favorite and has some cost to it, but worthwhile to mention.
+
+LIVE GEAR - Setting up a home lab (even with a couple of old routers/switches or virtual devices) is awesome @Sadra​ 
+
+ 
+
+Wendell Odom's labs: Written labs: www.certskills.com/config-labs 
+
+ 
+
+Subnetting practice, as recommended by binary_whisperer473, there is a subnetting practice master app that you should consider for mastering subnetting practice, and subnettingquestions.com.
+
+ 
+
+4. Online and digital resources
+
+ Cisco Networking Academy – see above - NetAcad.com
+Cisco Learning Network     https://learningnetwork.cisco.com
+Cisco Learning Network Videos link
+Cisco U: https://u.cisco.com
+YouTube: Channels hosted by Wendell Odom, Jeremy Cioara, and Aaron Jayachandaran, and more, have very informative and useful videos.
+CBT Nuggets source on Youtube or their own site. Jeremy, Keith and NetworkChuck.
+Practice Tests
+
+Some books have simulators and questions in the text, utilize them
+Avoid “Brain Dumps,” as these will disqualify your certification and abilities
+ExamCompass has free practice questions
+Take as many practice tests as possible to familiarize yourself with how to take exams and determine relevant details in the questions, what are they really asking?
+ 
+
+5. Study Methods
+
+Structured Study Plan
+
+Allocate a few months for preparation, depending on your experience and training.
+Break down topics: Study one chapter at a time, master and move to the next, review
+Daily schedule: 1-2 hours of study/lab practice. LAB, LAB, LAB, apply through practice labs
+Hands-On Practice
+
+Spend as much time as possible setting up topologies, configuring and practicing on simulators.
+Design, build, configure, and troubleshoot your own network topologies in Packet Tracer or GNS3.
+Practice, practice, practice, there is no substitute for quality practice
+Practice Exams
+
+Take practice exams after each topic to reinforce learning. conquer test anxiety
+Simulate real exam conditions by using timed exams and no extra tools
+Flashcards and Notes – buy online or create your own(, which is best)
+
+Group Study and Discussion – find others to study with and share labs
+
+Important/Critical
+
+Focus on weak areas
+Take practice exams
+Master the “difficult” subjects like subnetting, ACL’s, network summarization (for multiarea OSPF), if you find it confusing/hard, put extra effort on that difficult/hard material, master it. A winner trains his weaknesses, a loser his strengths. Focus on your weaknesses and master them.
+ 
+
+6. Exam Tips
+
+Learn by repeated practicing, the Cisco CLI: be comfortable navigating and configuring routers and switches. Practice, practice, practice, there is not other way
+Focus on subnetting using the “magic number” method from Wendell Odom’s certification guide: practice, repeatedly, until you’re fast and accurate. Be able to do many in your head
+Read questions carefully to discern important, relevant details, learn to look out for keywords to identify specific details of the question
+Finally
+
+Stay consistent and study,then practice, hands-on, regularly, as much as you can, and take your time to understand. Understanding concepts deeply will help you not only pass the exam but ensure that you can actually DO the job.
+
+
+Use ChatGPT to ask questions for immediate answers or other AI tools, Google, etc
+
+For transparency, a very small portion of this text was originally AI generated, then heavily edited to personalize and make more relevant. The above are my own words and recommendations.
+
+
+Please add your own suggestions in the comments and I’ll try to include.
+
+ 
+
+Wendell Odom added the following to a post about passing on first attempt. It is a great program to give a second chance in the unlikely event things don't go as planned.
+
+"The Cisco Exam SafeGuard. Basically, Cisco will sell you a voucher, for 25% more than the cost of the exam. The voucher lets you sign up for the exam, and if you don't pass, take it again. You get 90 days from when you buy the voucher to sign up, make attempt 1, sign up again, and make attempt 2. But you get some peace of mind about that second attempt and the cost.
+
+https://u.cisco.com/store/exam-voucher?offer=Safeguard "
+
+This content is a preview of a link.www.netacad.com
+www.netacad.com
+
+https://www.netacad.com/academy-locator
+
+CCNA Certification Community
+Share
+347 answers
+8.93K views
+Ramiro jr, Jovito Dee, and 117 others like this.
+
+Andreas Foerby
+
+a year ago
+Great resource @Bryan McGann​!
+
+ 
+
+See this @YAVUZYİLDİZ​ regarding your CCNA journey. 😊
+
+
+YAVUZYİLDİZ
+
+a year ago
+😊
+
+
+BAKEBA
+
+11 days ago
+Cool
+
+
+Bryan McGann
+
+2 months ago
+Thanks @Andreas Foerby​  I hope many find it useful and achieve certification and their dreams.
+
+
+BAKEBA
+
+11 days ago
+Good luck 🤞
+
+
+dominiquebastien
+
+a year ago
+Very good summary. Wendell's books are excellent for the CCNA. While reading his books, I reproduced all the examples in the books with packet tracer (lab, lab, lab). And as Bryan Adams said in the summer of '69:
+
+ 
+
+I got my first real six-string.
+
+Bought it at the Five and Dime.
+
+Played it 'til my fingers bled.
+
+Was the summer of '69.
+
+ 
+
+
+Bryan McGann
+
+a year ago
+@dominiquebastien​  Thanks, and you are totally right do it till your fingers bleed. lol. But really kind of true, do it over and over till you have it right.
+
+
+BAYOAKINS
+
+7 months ago
+This is the key: "do it till your fingers bleed....over and over till you have it right".
+
+
+BAKEBA
+
+11 days ago
+Thank you
+
+
+Wendell Odom
+
+Edited July 10, 2025 at 12:41 PM
+Great advice, @Bryan McGann​ . And thanks for the shout-outs (shouts-out?). But mostly... Joe vs the Volcano! Great movie.
+
+
+BAKEBA
+
+11 days ago
+Graduation 🎓
+
+
+Shubert
+
+a year ago
+@Bryan McGann​ That was some well formulated thought and advice ... Thank you.
+
+ 
+
+If possible can you elaborate on this section: 6: Exam tips
+
+ 
+
+Read questions carefully to discern important, relevant details, learn to look out for keywords to identify specific details of the question
+ 
+
+I have found some questions extreme confusing to decide sometimes what exactly the question is asking. Time constrains put pressure on your brain to discern. Is there a technique that can help one master how to discern and answer quickly and accurately?
+
+ 
+
+Thanks.
+
+ 
+
+
+Bryan McGann
+
+a year ago
+@Shubert​  On this, every question is different so you have to be careful. Sometimes when you skim through a question, you think you know what they are asking. I'll repeat this below, Take the time to think(something we often dismiss), then work logically thru the answers to find the best one.
+
+My suggestion, stop, reread it, read it again, and look for keywords that might provide guidance. Keywords can be NOT, except, most likely, and more. Once you have done that, evaluate each answer based upon what you believe they are looking for. You'll usually be able to eliminate a couple answers right away as red herrings. Then you have narrowed it down. Evaluate the remaining "possible" answers against your understanding of the question and chose the best one.
+
+If the question involved subnetting or summarization, ACL configuration, double check everything.
+
+As an example, if the question asks what first action a switch will do with a frame destined for an unknown MAC address, what are the keywords? First action and unknown MAC. What will a switch do first with that frame, use your brilliance with the basics to think thru the process of inbound frame handling. I.e. the switch just learned or relearned the source mac address(if that's an available answer), then since it's destination is unknown, what does a switch do with unknown destination frames - it floods it out all ports except the port that it was received on.
+
+Take the time to think(something we often dismiss), then work logically thru the answers to find the best one. Don't grab the first likely answer you think is correct, go thru the process again.
+
+On rare occasions, you might find two that seem to match, slow down and evaluate each carefully to see if one is better than the other.
+
+I could go on, but I hope this helps. The more practice tests you do, the more example test questions you work thru, the more you will build test taking skills, and confidence.
+
+At some point, once you've developed this skill, as you read books, you'll be able to create your own possible test questions, and likely might see some of them in the future. Good luck on your journey!!
+
+
+Matt Saunders | Community Manager
+
+a year ago
+💛 For me it's always the littlest of things that will trip me up. When this happens my first reaction is frustration with myself, but then I can usually settle that down with knowing that I did know that actual correct answer, I just needed to slow down a bit and read bit more carefully.
+
+
+kminihane
+
+a year ago
+@Matt Saunders | Community Manager​ I think this applies to us all.....in the early days of taking exams, I'd rush through the question and 'think' I knew what they were asking. Experience (and perhaps age!!!) made me slow down and re-read all questions over and over until I was confidant of what was being asked.
+
+ 
+
+On a related note; We actually have a lot more time in the exam than you would initially think. While the time appears daunting, its often a case that "slower is steadier"...The analogy of the tortoise and the hare comes to mind. If I could offer any advice to any candidate it would be to take the time as @Matt Saunders | Community Manager​ to slow down and read the question more carefully
+
+
+Matt Saunders | Community Manager
+
+a year ago
+100% agree! It's definitely a challenge that practice/experience helps with. 💯
+
+
+BAYOAKINS
+
+6 months ago
+Real talk! Thank you.
+
+
+BAYOAKINS
+
+6 months ago
+Thank you for your advice.
+
+
+Abigail Nnaude
+
+6 months ago
+This is amazing... thanks
+
+
+Bryan McGann
+
+3 months ago
+@Jolly​  Comment above are some exam tips that you should find useful. Good luck!
+
+
+Bryan McGann
+
+11 days ago
+@User17457865778697387177​ Utilize this post to assist in your studies. You can do this!
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+BAKEBA
+
+11 days ago
+Thank you for network
+
+
+BAKEBA
+
+11 days ago
+Thank you
+
+
+Shubert
+
+a year ago
+@Bryan McGann​ Thank you so much that is very helpful. I value your input thanks.
+
+ 
+
+That is what make it difficult for me. I get stressed quickly in situation where two answers can be the right answer. I guess time management is another skill to deal with that.
+
+ 
+
+What is your take in this case?
+
+
+Bryan McGann
+
+a year ago
+@Shubert​  When you get to the point where you see two answers are correct, review the question again, there is no going back as I recall. Look at it closely, again. If still cannot definitively pick the one best, the pick which one you think is correct, failing that "c." Let that be one of the one or two that maybe you miss. There is some room for a few misses. But, if you practice, lab, lab, lab, and master the material, you will not find many that you won't be able to figure out a best answer for.
+
+ 
+
+
+Shubert
+
+a year ago
+@Bryan McGann​ Thanks again, that is very encouraging and makes me a bit more confident. You have made some great points. I like " Let that be one of the one or two that maybe you miss. There is some room for a few misses."
+
+ 
+
+Build up on your strengths, but also know your weaknesses. I guess that strategy can help one to pivot quickly.
+
+ 
+
+@Bryan McGann​ You have help me and others forward.
+
+ 
+
+Thanks
+
+
+BAKEBA
+
+11 days ago
+Thank you
+
+
+nit4_s
+
+a year ago
+Thanks for sharing!
+
+
+Anish Hanwat
+
+a year ago
+it is very helpful for me.. as a beginer
+
+
+Bryan McGann
+
+a year ago
+@Anish Hanwat​  Thanks, if you follow the steps through it, and practice, you will succeed. Good luck on your journey!
+
+
+BAKEBA
+
+11 days ago
+Congratulations 👏 🎉
+
+
+rkthapa9
+
+a year ago
+@Bryan McGann​  Thank you for generously sharing this valuable and well-organized resource. It offers practical guidance, addresses common challenges, and supports better decision-making.
+
+Your contribution reflects a strong spirit of community and continuous learning,
+
+Thanks🙏
+
+ 
+
+
+Bryan McGann
+
+a year ago
+@rkthapa9​  Thanks, best wishes on your journey and success!!
+
+
+BAKEBA
+
+11 days ago
+Good luck
+
+
+alexanderwellington
+
+a year ago
+This a great approach.
+
+
+BAKEBA
+
+11 days ago
+Cool
+
+
+kaif
+
+a year ago
+Thank you for sharing these amazing study tips and resources!
+
+I recently completed my graduation in Computer Science and I’m currently preparing for the CCNA certification. Your advice about “being able to DO the job” really inspired me to focus more on hands-on practice with labs and simulations. I will definitely follow the structured study plan and practice exams as you suggested.
+
+👍👍 Thanks again for the guidance! Looking forward to learning more from this community.
+
+
+Bryan McGann
+
+a year ago
+@kaif​  You are very welcome, I hope you find them useful. Reach out if find any issues or troublesome areas and we can all work together to conquer them.
+
+
+BAKEBA
+
+11 days ago
+Congratulations 👏 🎉
+
+
+JULES
+
+a year ago
+Thanks for taking the time and effort to write this down!!
+
+
+Bryan McGann
+
+a year ago
+@JULES​  You are very welcome and thank you. Best wishes on your journey!!
+
+
+BAKEBA
+
+11 days ago
+Thank you
+
+
+Bryan McGann
+
+a year ago
+@Anish Hanwat​  This may assist in your journey.
+
+
+Bryan McGann
+
+a year ago
+@SHOLA SAMUEL​  Here are some suggestions for your study. You can do it!! Best wishes on your journey. If you have any questions or suggestions, ask in this forum, you'll get great answers and suggestions.
+
+
+Bryan McGann
+
+a year ago
+@YAVUZYİLDİZ​ I highly recommend you earn the CCNA as a foundation for further studies. If you are advanced, you might be able to expedite your learning, certify, and move forward. Good luck on your journey. I hope you are able to utilize the information above.
+
+
+ShahBaig126
+
+a year ago
+Thank you so much for supporting and providing resources and your great contribution.
+
+
+Bryan McGann
+
+a year ago
+@ShahBaig126​  You are very welcome, I hope you are able to utilize as best fits your needs and achieve success!!
+
+
+ShahBaig126
+
+Edited July 24, 2025 at 10:14 AM
+Yes definitely sir, Thanks you so much for your response and kindness.
+
+@Bryan McGann​ 
+
+
+Patrick_BLANC
+
+a year ago
+Thank you Bryan for these information.
+
+I'll add the CBT Nuggets source on Youtube or their own site. Jeremy, Keith and NetworkChuck. an updated, funny and very informative videos.
+
+
+Bryan McGann
+
+a year ago
+@Patrick_BLANC​  Thanks for that suggestion, I've added it above for the future. Good luck on your journey!!
+
+
+manthanpatel
+
+a year ago
+@Bryan McGann​ This resource is really helpful to start my journey in CCNA.
+
+Thank you soo much.
+
+
+Bryan McGann
+
+a year ago
+@manthanpatel​  Thank you, I'm glad it's useful. Remember, others came before and have made it, you can too. What seems like a high mountain, can be tackled step by step, you've got this!
+
+
+valvarado
+
+a year ago
+Completely agree—being able to do the job is what really sets you apart. Certification opens doors, but hands-on skills keep them open. My best study method has been combining lab practice (Packet Tracer, GNS3, or real gear) with scenario-based problem solving—breaking networks, fixing them, and documenting the process. It cements theory into real-world application.
+
+ 
+
+
+Bryan McGann
+
+a year ago
+@valvarado​  Thanks, and you are correct, being able to do the job is the most important. The certification proves you have some level of skills and have passed the exam, but being able to do it will soon show up on the job.
+
+Basically, to me, it builds a solid foundation on networking, which if done properly, will allow you to easily add new skills and levels. Best wishes!
+
+
+Bryan McGann
+
+a year ago
+@Vanel​  Here are some study materials that you may find useful. Good luck!!
+
+
+Bryan McGann
+
+10 months ago
+@Benjamin332​  Here are some materials to guide your studies, if you are still looking.
+
+
+Bryan McGann
+
+10 months ago
+@candrade2707​  Here are some study suggestions you might try.
+
+
+Bryan McGann
+
+10 months ago
+@Jaxkondox89​  Here are some suggestions! Good luck
+
+
+Bryan McGann
+
+10 months ago
+@Zaheer Ali​  If you are looking for study instructions, here you go.
+
+
+Junior_1999
+
+10 months ago
+Great post, @Bryan McGann. From my experience, the CCNA certification is highly valuable for all professionals who want to start a career in networking. Despite its vendor-specific focus on commands and configurations, this certification provides a comprehensive understanding of networking concepts. I dedicated nearly six months to studying for this exam, and the journey was a rewarding and enriching experience for me
+
+
+JULES
+
+10 months ago
+Absolutely, agree!
+
+
+Bryan McGann
+
+10 months ago
+@Junior_1999​  Thanks. One good thing is that since Cisco is the granddaddy of them all, the commands you use for Cisco apply to many other platforms, often exactly, and very close if not exact. That will help all engineers immensely.
+
+I agree that the journey is very rewarding and enriching, you learn the basics very well and it makes it easy to build on your knowledge
+
+ 
+
+
+Junior_1999
+
+10 months ago
+thanks @Bryan McGann​ for your kind words
+
+
+BAKEBA
+
+11 days ago
+Congratulations 🎉
+
+
+BAKEBA
+
+11 days ago
+Cool
+
+
+Bryan McGann
+
+10 months ago
+@Samuel7​  Here are the study suggestions. Hope you find them useful!
+
+
+BAKEBA
+
+11 days ago
+Graduation
+
+
+BAKEBA
+
+11 days ago
+I am analyst SOC cyber security
+
+
+Abdulkadir_OGTeks
+
+10 months ago
+You are absolutely right, I have used cisco learning networks, cisco u, netacad and I've been using Jeremy resources for over four years, from CCNA to CCNP ENCOR on youtube and Udemy. You have recommended great resources and it's worth the studies
+
+
+Bryan McGann
+
+6 months ago
+Thanks @Abdulkadir_OGTeks​ 
+
+
+BAKEBA
+
+11 days ago
+Congratulations 🎉
+
+
+BAKEBA
+
+11 days ago
+Thank you for network
+
+
+Bryan McGann
+
+10 months ago
+@Mohamed Shifan Salideen​ Here is the original post. I wish you the best on your journey and certification.
+
+
+Bryan McGann
+
+10 months ago
+@Luis Enrique SA​  Here are some study suggestions. Good luck!
+
+
+Bryan McGann
+
+10 months ago
+@Mohamed Shifan Salideen​  I think you may find this post helpful in your journey. As you move forward remember, many have done this before, you can too! Work a plan, and practice, practice, practice. You got this!
+
+
+BAKEBA
+
+11 days ago
+Good luck
+
+
+Bryan McGann
+
+10 months ago
+@Eng-Hamzah​  Here are some resources I hope assist you on your journey. Best wishes!!
+
+
+terrence.w
+
+10 months ago
+Thank you, Bryan.
+
+
+Bryan McGann
+
+6 months ago
+You are very welcom @terrence.w​ , I hope they assist you on your journey!
+
+
+Roble
+
+10 months ago
+Hello @Bryan McGann,
+
+ 
+
+Thank you for sharing such a well-structured and comprehensive study guide for CCNA preparation. You’ve highlighted the most critical aspects—guided learning, books, labs, online resources, and effective study methods. I particularly agree with your emphasis on hands-on practice and labbing; it truly makes the difference between just passing the exam and being able to do the job in real-world environments.
+
+ 
+
+One suggestion I’d add is to incorporate time management and review cycles. Setting milestones (e.g., subnetting mastery, OSPF configuration, ACL practice) and reviewing them weekly helps reinforce retention. Also, mixing theory with lab practice daily keeps the knowledge active and practical.
+
+ 
+
+Overall, your recommendations provide a solid roadmap for anyone aiming to succeed in CCNA. Thanks again for putting this together—definitely a resource worth bookmarking and sharing.
+
+ 
+
+Best regards,
+
+Abdifatah Hassan Roble
+
+ 
+
+
+Bryan McGann
+
+10 months ago
+@Roble​  Thanks for that suggestion, I'll try to add that for the future, it's a really great suggestion.
+
+
+Eng-Hamzah
+
+10 months ago
+Thank you so much for these valuable resources and detailed tips.
+
+
+Bryan McGann
+
+6 months ago
+Thank you @Eng-Hamzah​  I hope you find them worthwhile, best wishes on your certification journey!
+
+
+Tiagobsb
+
+10 months ago
+👍
+
+
+Bryan McGann
+
+6 months ago
+Best wishes on your journey @Tiagobsb​ 
+
+
+Bryan McGann
+
+9 months ago
+@shaikraquee​  Here is some information I put together for CCNA certification, CCST is part of the path. I hope you find useful and best wishes on your journey!!
+
+
+shaikraquee
+
+9 months ago
+Great resource @Bryan McGann​ 
+
+
+SLIMER
+
+9 months ago
+Thanks for sharing @Bryan McGann​. Indeed, it is a great resource. Cheers
+
+
+Bryan McGann
+
+9 months ago
+@Istiaq Arefeen​  This post has many details and references for your studies, I hope you find it useful. Good luck on your journey!!
+
+
+Istiaq Arefeen
+
+9 months ago
+@Bryan McGann​
+
+ 
+
+Sir,
+
+ 
+
+That’s wonderful! This will really help me, and I truly enjoy seeing that your guidance is pointing me in the right direction.
+
+Also, I found this practical guide for anyone preparing for the CCNA exam extremely useful. It focuses not just on passing, but on becoming confident and capable in networking.Recommending learning through the Cisco Networking Academy, using Wendell Odom’s official CCNA books, and getting plenty of hands-on practice with tools- Packet Tracer. Online tutorials, practice tests, and study groups can - very helpful. The key is to follow a structured study plan, spend extra time on tricky topics like subnetting and ACLs, and get confident in real exam conditions. Goal is to become not just certified, but truly skilled and ready to do the job.
+
+
+Bryan McGann
+
+9 months ago
+@RODRICK​  I hope this is of use to you!! Good luck on your journey!
+
+
+Bryan McGann
+
+9 months ago
+@Dawit Mengistu​  I posted this a while back, I hope it helps you to study and gain confidence. Good luck, you can do this!!
+
+
+Bryan McGann
+
+9 months ago
+@elmarodi​  I hope this helps
+
+ 
+
+
+FILDERSON
+
+9 months ago
+I love the way you emphasized practice, am studying for CCNA certification and this is a great advice. Thanks 👍
+
+
+Bryan McGann
+
+9 months ago
+@FILDERSON​  Thank you. I've always recommended to do lots of practice. In my years of experience teaching, it is the one thing that helps more than anything. Do the commands, do the configuration, over and over. Some are reluctant to try cuz they think they will fail. They won't if they just do it and do it, over and over.
+
+
+FILDERSON
+
+9 months ago
+With this community advice, I'm going to ace the exam by the time I take it
+
+
+Bryan McGann
+
+9 months ago
+@FILDERSON​  Awesome attitude. I'm looking forward to seeing you post your success!!! Best wishes on your journey!!
+
+
+FILDERSON
+
+9 months ago
+Thanks.
+
+Could you also talk about OSPF single and multi area as well
+
+
+Mohamed Shifan Salideen
+
+9 months ago
+Thanks for sharing
+
+
+Bryan McGann
+
+9 months ago
+@Anees​  I hope this helps you on your journey.
+
+
+Bryan McGann
+
+9 months ago
+@Hito​  I hope you find this useful in your studies. Best wishes and much success!
+
+
+Hito
+
+9 months ago
+Thanks
+
+
+Bryan McGann
+
+9 months ago
+@svrsvr1311596​  Here are some study suggestions for your certification journey. Good luck!
+
+
+svrsvr1311596
+
+9 months ago
+Very helpful suggestions. Thank you.
+
+
+Istiaq Arefeen
+
+9 months ago
+This is such a solid guide for anyone working toward CCNA. I really like how you emphasized real hands-on labs, mastering subnetting, and consistent practice, that’s exactly what helps not just pass the exam but actually be ready for the real job. Definitely sharing this with others.
+
+
+Bryan McGann
+
+9 months ago
+@JIBRIN SALIHU​  I hope you find this useful. Best wishes on your journey.
+
+
+Farman Elahi
+
+9 months ago
+@Bryan McGann​ 
+
+This is the great resource you have shared for learning. Thank you
+
+
+LawrenceFiore4209
+
+8 months ago
+"mute"
+
+Bryan McGann
+
+8 months ago
+@Henda Paim​  I hope this is of assistance. Good luck on your journey!!
+
+
+Henda Paim
+
+8 months ago
+Good job @Bryan McGann  👌🏅
+
+
+Bryan McGann
+
+8 months ago
+@Keoagile​  Here is the study guide, good luck on your journey!!
+
+
+Bryan McGann
+
+8 months ago
+@IMS1369​  Here is a study guide I put together. Best wishes on your journey!!
+
+
+kaif
+
+8 months ago
+GOOD
+
+ 
+
+
+Bryan McGann
+
+8 months ago
+@ZubairAhmad007​  I hope you find this useful. Thanks
+
+
+Bryan McGann
+
+8 months ago
+@Alagie Trawally​  I hope this helps
+
+
+Alagie Trawally
+
+8 months ago
+Thank you so much for taking the time to share your advice on my CCNA studies. Your guidance really helped me understand how to focus better and plan my preparation more effectively. I truly appreciate your support and insight.
+
+
+Alagie Trawally
+
+8 months ago
+Thank you so much for your guidance on my CCNA studies. Your advice really helped me see things more clearly and motivated me to keep pushing forward. I truly appreciate your support!
+
+
+Zain Hassan
+
+8 months ago
+Thank you for the advice. I am preparing for my second attempt and look forward to following these steps...
+
+ 
+
+Can you please recommend full-scale practice tests?
+
+
+Pritam N.
+
+8 months ago
+Hi @Bryan McGann​ , Really solid breakdown - appreciate the clarity and depth. Totally agree with the emphasis on labs and hands-on practice. there’s no substitute for doing the work yourself. I’d also add that consistent review and spaced repetition (like flashcards) helps lock in the theory over time. Thanks for putting this together definitely a valuable resource for anyone on the CCNA path!
+
+
+Bryan McGann
+
+8 months ago
+@Wpthomas​ @Simphiwe Ndlovu​  Here is the article, good luck. Even after certifying, it is well worth your time to keep studying and doing many, many labs to continue to build skills and abilities.
+
+Good luck on your journey!
+
+
+Simphiwe Ndlovu
+
+8 months ago
+Solid advice here @Bryan McGann​. Staying consistent and labbing daily is challenging yet very important in building that muscle memory.
+
+
+Rajkumar Neupane
+
+8 months ago
+I never knew there was Odom Wendell's Video Course for CCNA. Thank you so much for the resources, Bryan.
+
+
+Bryan McGann
+
+8 months ago
+@lnietog​  Here is some information I put together, some study suggests I've used for years. Good luck on your journey.
+
+
+Bryan McGann
+
+8 months ago
+@Wirkkarl​ Welcome, it's great to see you looking into CCNA, it is an awesome place to build the foundation for a great career in networking. Having experience is a bonus, especially when looking to move up.
+
+I put the below together to assist in how to study for this comprehensive certification. I hope it helps:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+8 months ago
+@Laith123​ I put this together, a list of resources and effective study methods, I hope it assists you:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+8 months ago
+@NetErr​ I put this together, a list of resources and effective study methods, I hope it assists you:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+7 months ago
+@Yasmeen Seddeek​  I hope this helps you if CCNA is your next step. Good luck on your journey.
+
+
+Bryan McGann
+
+7 months ago
+@Haran​ @Haran​ I put together these study suggestions, I hope you find them useful:
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+7 months ago
+@DreadfulSol​  I hope you find these suggestions useful.
+
+
+Bryan McGann
+
+7 months ago
+@Readwon08​ Congratulations on taking the step to obtain CCNA certification. This is a process and takes a little time and diligence. I put together the suggestions below to assist. These are tried and true and I have used for years when I was teaching CCNA. I hope you find them useful.
+
+
+Readwon08
+
+7 months ago
+This is so powerful. Thank you very much.
+
+
+Bryan McGann
+
+7 months ago
+Welcome @Njiestito​ , I've put together the below docs to assist in preparation, I hope you find it useful.
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+7 months ago
+Welcome @Durgesh Jadhav​ , I've put together the below docs to assist in preparation, I hope you find it useful.
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+7 months ago
+Welcome @THOMSON 46​ , I've put together the below docs to assist in preparation, I hope you find it useful.
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+7 months ago
+Welcome @meabbar​ , I've put together the below docs to assist in preparation, I hope you find it useful.
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+7 months ago
+Welcome @Phumla Sithole​ , I've put together the below docs to assist in preparation, I hope you find it useful.
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+
+Bryan McGann
+
+7 months ago
+Welcome @Andre Jones​ Cybersecurity is a great, and growing field. I'd suggest CCST at a minimum to gain the foundation that will serve you well in your studies and on the job. Knowing basic networking thoroughly is a prerequisite to going to cybersecurity, I've put together the below docs to assist in preparation, I hope you find it useful.
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+7 months ago
+@Mbali Tembe​ Cybersecurity is a great, and growing field. I'd suggest obtaining CCST, or CCNA, at a minimum to gain the foundation that will serve you well in your studies and on the job. You may have already gained much of that knowledge in the school system, I'm just emphasizing that knowing basic networking thoroughly is a prerequisite to going to cybersecurity.
+
+I've put together the below docs to assist in preparation, I hope you find it useful.
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+7 months ago
+@Igamberdi​  Welcome. Our organization had many DevOps in various positions. It is really a critical skill today for network engineers to learn automation through programming, python in particular. I highly recommend those certifications, CCST/CCNA, and also to learning linux, to gain the foundation that will serve you well in your studies and on the job.
+
+You'll find, understanding networks and having the ability to run connection commands, curls, etc, very beneficial in your future. Best wishes on your journey, it takes diligence and regular application of skills to excel.
+
+That said, Cybersecurity is a great, and growing field. You may have already gained much of that knowledge in the school system, I'm just emphasizing that knowing basic networking thoroughly is a prerequisite to going to cybersecurity.
+
+I've put together the below docs to assist in preparation, I hope you find it useful.
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+ 
+
+ 
+
+ 
+
+@Igamberdi​  Welcome. Our organization had many DevOps in various positions. It is really a critical skill today for network engineers to learn automation through programming, python in particular. I highly recommend those certifications, CCST/CCNA, and also to learning linux, to gain the foundation that will serve you well in your studies and on the job.
+
+You'll find, understanding networks and having the ability to run connection commands, curls, etc, very beneficial in your future. Best wishes on your journey, it takes diligence and regular application of skills to excel.
+
+That said, Cybersecurity is a great, and growing field. You may have already gained much of that knowledge in the school system, I'm just emphasizing that knowing basic networking thoroughly is a prerequisite to going to cybersecurity.
+
+I've put together the below docs to assist in preparation, I hope you find it useful.
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+7 months ago
+@User17102274911154630177​ Congratulations on deciding to get certified, it is a step that confirms your skills, and you will feel a huge satisfaction completing the journey.
+
+ 
+
+I put together the below study materials to assist, I hope they help:
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+7 months ago
+Congratulations @Cdill815​ You are in the right place for encouragement, support, and guidance in your journey to get certified. Regardless of cert desired, the following will give you some suggestions on getting there:
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+
+Bryan McGann
+
+7 months ago
+Congratulations @Junnu​  You are in the right place for encouragement, support, and guidance in your journey to get certified. Regardless of cert desired, the following will give you some suggestions on getting there:
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+My advise, lab anything you are less than totally comfortabe with, and especially ACL configuration. Be able to do ACL's without giving it a thought, practice, practice, practice. Good luck on the exam!!
+
+
+Bryan McGann
+
+7 months ago
+@Blessings Msimanga​  Welcome, you are in the right place for asking questions, motivation, and guidance. Good luck on your journey. I put together the below post as study suggestions, I hope they are of good use to you.
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+7 months ago
+@George Senyo​ With your experience, I think you will find the CCNA journey and certification a great fit. You are in the right place for asking questions, motivation, and guidance. Good luck on your journey. I put together the below post as study suggestions, I hope they are of good use to you.
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+7 months ago
+@Hungwe@d12345​ With your education and BS degree, I think you will find the CCNA journey and certification a great fit, which will assist i finding a new opportunity. You are in the right place for asking questions, motivation, and guidance. Good luck on your journey. I put together the below post as study suggestions, I hope they are of good use to you.
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+7 months ago
+@nachocode​ That is a great screen name. Welcome and good luck on your journey. I did tech support for WordPress, very limited Drupal, several years ago. My networking certs and background helped me to find a dream job. I think you will likely find a similar result. For cybersecurity, I highly recommend obtaining your CCNA for a sold base of understanding of how networks operate. All of our cybersecurity guys area also really solid in networking, it is really a prerequisite.
+
+I put together the below to assist with study suggestions, I hope they help:
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+7 months ago
+@Junnu​ I put the below together, tried and true process and suggestions to learn the material, get certified, and be qualified.
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Sadra
+
+7 months ago
+This is one of the most comprehensive and practical CCNA study guides I’ve seen. The emphasis on doing the job rather than just getting certified really stands out — that’s exactly what separates a real network engineer from someone who’s memorized answers.
+
+ 
+
+Wendell Odom’s guides and Packet Tracer labs are truly the foundation, and I couldn’t agree more about lab, lab, lab! Repetition builds confidence and muscle memory.
+
+ 
+
+I’d also suggest adding:
+
+ 
+
+Setting up a home lab (even with a couple of old routers/switches or virtual devices).
+Using Boson ExSim for realistic exam simulations.
+Taking Cisco Learning Network’s “Study Groups” for discussion and troubleshooting practice.
+ 
+
+Thank you for sharing such detailed insight — it’s clear it comes from real teaching and field experience.
+
+
+Bryan McGann
+
+7 months ago
+@Sadra​  Thanks for the reply. I'll try to include those suggestions. Good luck on your journey!
+
+
+George Senyo
+
+7 months ago
+Thank you, This very very helpful
+
+
+Bryan McGann
+
+7 months ago
+@George Senyo​  Thanks for that, I will say I've had students follow that approach and the ones that actually do the work, get certified. Follow the process and achieve the outcome. Good luck Sir
+
+
+Bryan McGann
+
+7 months ago
+@User17628320029606571148​ Welcome Mari, you are in the right place for motivation, assistance and guidance. I share the below with many, I think you will find useful in your quest for certification:
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+7 months ago
+@Antonio Victor Manuel​ I wish you well on your journey. I'm attaching a link to a post I did with many study and mastery suggestions. Good luck on your certification path:
+
+ttps://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+7 months ago
+@166640684048170​ I remember Cisco Aspire, sadly Google says: Current status: The game was retired in 2013 and is no longer available for download. 
+
+ 
+
+I'm not sure how much I used it before then. But my suggestion is to grab the Cisco Packet Tracer and build almost every diagram and completely configure every diagram in Wendell Odoms CCNA Certification Series. It's not totally a game environment, but you can make it into a game, try to do it faster, try to do without looking at command guide, etc. Build more complex labs and configure. I found it fun and rewarding.
+
+ 
+
+Practice helps you learn the command and master the material.
+
+ 
+
+I'll also share the foolproof way to learn, get certified, and be qualified:
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+7 months ago
+@Sunil Shah​ Welcome and good luck on your journey, it appears you are trying to recertify, awesome.
+
+My suggestion is to grab the Cisco Packet Tracer and build almost every diagram and completely configure every diagram in Wendell Odoms CCNA Certification Series.
+
+It's not totally a game environment, like the candidate this was originally posted for, but you can make it into a game, try to do it faster, try to do without looking at command guide, etc. Build more complex labs and configure. I found it fun and rewarding. Keep working thru them, erase and reconfigure.
+
+ 
+
+Practice helps you learn the command and master the material.
+
+ 
+
+I'll also share the foolproof way to learn, get certified, and be qualified:
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+
+BAYOAKINS
+
+7 months ago
+These all make sense. Thank you.
+
+
+Bryan McGann
+
+7 months ago
+@kyleh11​ Welcome to this forum. I'm sure you will find it helpful and motivating. Good luck on the Network+ exam, it'll be a good step in the right direction.
+
+ 
+
+I put together the following I believe you will find useful. I followed a similar path and made it to network engineer, you can too!
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+7 months ago
+@Tomas Martinez​  Welcome, please use this channel for motivation, questions, support, or whatever you have questions about. Good luck on your CCNA journey, you can do it!
+
+ 
+
+I put together the following I believe you will find useful. I followed a similar path and made it to network engineer, you can too!
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+7 months ago
+@henrya123​ I can offer some, I obtained at 54, had been, and continued teaching it for several years. I obtained Network Engineer position at 62. Proof that old dogs can, not only learn, but apply new tricks. Below is a link to my, tried, and true, learning process, used by many to get certified, and be, qualified.
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+7 months ago
+@Network Junkie​ I put the below together, I hope you find it useful. Good luck on your journey and success!
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+7 months ago
+@Elma​ Good luck on your journey and much success. I suggest using packet tracer to build every diagram in whatever book you are using. I love Wendell Odom's CCNA Certification series and have used for over 20 years thru hundreds of students certified.
+
+ 
+
+I put together the below suggestions and hope you find useful!
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Zain Hassan
+
+7 months ago
+Hello! After failing my first attempt, I’m happy to share that I passed the exam on my second try. Thank you to this group. Your posts and answers kept me motivated, focused, and reminded me that I wasn’t alone. The main difference between my first and second attempts is LAB... Spend as much time as possible in Labs ...
+
+
+Znagovan
+
+7 months ago
+Congrulations @Zain Hassan​ , the road is free for new challenges and new opportunities.Good luck farther, 😊
+
+
+Bryan McGann
+
+7 months ago
+@Miokleno23​ The above suggests are good ones. I'd add that, using packet tracer, create a lab(modify and move it forward as a copy), for every diagram in whatever book you are studying. Work to configure all the devices and make it work as designed. There is no substitute for diligent practice and practical application.
+
+Please also, know your ACL's backwards and forwards. Be able to setup and permit/deny an ip and a port using extended ACL's. I assume that they are still going to have a challenging simulation based upon these on the exam.
+
+It's all fun though as you learn.
+
+Good luck.
+
+ 
+
+I'll share these study suggestions:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+7 months ago
+Awesome @Ian K​, to have your employer suggest CCNA in order to transition you to a role you desire is truly awesome. You really have a golden opportunity to grow, and a challenge as CCNA is not easy, but it is certainly attainable. I've outlined study suggestions in the below post, I think you will find it useful. Go section by section through the learning, master each section, then move on. As you move on, you'll keep reviewing and implementing previous sections, so you will retain the material. Good luck and best wishes on your journey. This forum and it's members are here for support and questions along the way.
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+7 months ago
+@Abubakar Idris​ Welcome and good luck on your studies. The below post suggests methods to get certified, whatever your subject matter area.
+
+Awesome @Ian K​, to have your employer suggest CCNA in order to transition you to a role you desire is truly awesome. You really have a golden opportunity to grow, and a challenge as CCNA is not easy, but it is certainly attainable. I've outlined study suggestions in the below post, I think you will find it useful. Go section by section through the learning, master each section, then move on. As you move on, you'll keep reviewing and implementing previous sections, so you will retain the material. Good luck and best wishes on your journey. This forum and it's members are here for support and questions along the way.
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+7 months ago
+@Abdulaziz Muhammad​ Welcome and best wishes on your journey. Your background in Python will provide you a great opportunity to expand your skills as python is used extensively in network automation and security.
+
+Having a really strong foundation in how networks work is critical to succeeding in cybersecurity. At our company our security guys are regularly troubleshooting connectivity issues, as well as updating security settings on routers/switches, and firewalls. Good luck on your journey! I put together the below post that I think will give you some good guidance on study approach:
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Joe Rinehart
+
+7 months ago
+Great minds think alike! I literally just did a session at Cisco Live Melbourne on how to build your own CCNA lab, including options and methodologies:
+
+https://www.ciscolive.com/on-demand/on-demand-library.html?search=RINEHART#/session/1760461944856001tp0y
+
+In addition, just for fun, I created a practice lab based on Packet Tracer (see attached).
+
+Unknown file type
+CCNA-Lab-11-13-2025 Startup Configs
+
+148KB
+
+
+BAYOAKINS
+
+6 months ago
+Thank you for sharing here.
+
+
+Joe Rinehart
+
+7 months ago
+And the guide as well...
+
+BRKCRT-2024 - CCNA Practice Lab PT Version 11-2025 V2
+
+Znagovan
+
+6 months ago
+Super nice, it's ideal for the exam. I glanced through it and I really like it. I think I'll use it as a basis for my practical studies, especially since there will be practical questions on the exam.😊
+
+
+BAYOAKINS
+
+6 months ago
+Thank you for sharing the lab guide.
+
+
+Bryan McGann
+
+6 months ago
+@PJ Zeilstra​ Congratulations on your decision, it will require some diligent effort, but mastery of the material is possible. I've taught CCNA for years and put together the below materials for study:
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+
+Bryan McGann
+
+6 months ago
+@SACHIN PATRA​ That is a great place to start, and work through, labbing is critical to build skills as you do this. I put together the following suggestions based upon my experience:
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+6 months ago
+@january1073​ Congrats on your decision, it will serve you well. You are correct, you cannot read and watch videos and master the logic and commands, you must do. To that end, I put together the following suggestions, I hope you find them useful:
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+6 months ago
+@Madiha Yasin​ Congrats on your decision, best wishes on your journey to CCNA and beyond. You are smart to develop strong IT and networking skills as you proceed into the tech field. I put together the following and I hope you find these suggestions useful:
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+6 months ago
+Welcome @Ahmedali1​ Best wishes on your journey to certification, labbing while you learn is, in my mind, most important to learn the commands and understand the material. I put together the following and I hope you find these suggestions useful:
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+6 months ago
+Welcome @Lutaaya​ Best wixhes on your journey, mastering the CCNA material will serve you very well in pursuing Security certs and skills.
+
+ 
+
+I put together the following and I hope you find these suggestions useful:
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+6 months ago
+Welcome @sriramcm​ Best wishes on your journey to get a networking certification. Mastering the CCNA material and getting certified is certainly a great place to start.
+
+I put together the following and I hope you find these suggestions useful:
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Abigail Nnaude
+
+6 months ago
+Thank you for this advice... really appreciate ​💐
+
+
+Bryan McGann
+
+6 months ago
+@Abigail Nnaude​ Welcome to the group. If you are doing cybersecurity, I highly recommend CCNA to build the firm foundation you will need to leverage in the future. All our security engineers are also well versed in networking and device configuration. The security engineers also leverage python extensively. Best wishes on your path!
+
+ 
+
+I put the below together to assist in how to study for this comprehensive certification. I hope it helps:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+
+Abigail Nnaude
+
+6 months ago
+@Bryan McGann​ thank you for this thoughtful message. I appreciate and I will make good use of the information provided. 💐
+
+
+Bryan McGann
+
+6 months ago
+@Paul Kenney​ Welcome and best wishes on your path to CCNA. It is a journey, be diligent, practice, and you can achieve your goal.
+
+There is a lot to learn on this path and I put together the following suggests to obtain certification. I hope it helps:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Joe Rinehart
+
+6 months ago
+As part of my Cisco Live Melbourne presentation (BRKCRT-2024), I created a CCNA practice lab based on Packet Tracer 9.0.0. Nearly all of the items covered in the exam blueprint are covered, and the guide includes step-by-step instructions, annotations, final configurations and even the .pkt startup file (I clicked on the link to test it and it loads in PT). For those preparing for the exam, I hope you find it helpful.
+
+BRKCRT-2024 - CCNA Practice Lab PT Version 11-2025 V2
+
+Wendell Odom
+
+6 months ago
+That's AMAZING! Wow, what a lab! Wonderful, @Joe Rinehart​ !
+
+I see a mention of the .pkt file in the PDF, but it's not a link in the PDF. PDF downloads fine... are you intending to make the .pkt accessible to all?
+
+Looking forward to experimenting with your lab and letting folks know about it - great resource.
+
+
+SLIMER
+
+6 months ago
+Good catch @Wendell Odom​, indeed to have please @Joe Rinehart​.
+
+image
+
+
+BAYOAKINS
+
+6 months ago
+Rightly said, there is no link to the .pkt file.
+
+image 
+
+Can you please explain more clearly? Thank you for the great job.
+
+
+SLIMER
+
+6 months ago
+Thanks for sharing @Joe Rinehart​, just on time to share it with my colleague looking for this kind of CCNA LAB practice. Cheers
+
+
+BAYOAKINS
+
+6 months ago
+Thank you for sharing. Great job!
+
+
+Bryan McGann
+
+6 months ago
+@JefeG​ First off, thanks for your service, and congratulations on your retirement. Now starts a new chapter in the life of @JefeG​ !!
+
+It sounds like you have a great background, training, and previous certification so that CCNP enterprise is well within reach. It is a journey for sure!
+
+ 
+
+There is a lot to learn on this path and I put together the following suggests to obtain certification, it works for CCNP also, even more so. I hope it helps:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+6 months ago
+@Dicktallest​ Welcome!! Cybersecurity is a blossoming field of study with a great future. Obviously you are technology minded as EE is highly technical.
+
+With your interest in cybersecurity, I highly recommend a solid foundation of networking basics, minumum Net+, recommended CCNA/CCNP, as you will use the foundation to implement security updates. Our security team works with several brands of gear so having a solid base in configuration is essential, as is automation with python.
+
+ 
+
+@JefeG​ First off, thanks for your service, and congratulations on your retirement. Now starts a new chapter in the life of @JefeG​ !!
+
+It sounds like you have a great background, training, and previous certification so that CCNP enterprise is well within reach. It is a journey for sure!
+
+ 
+
+There is a lot to learn on this path and I put together the following suggests to obtain certification. It works for any subject, but some resources are specific to CCNA. I hope it helps:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+Edited December 17, 2025 at 3:46 PM
+@Dicktallest​ Welcome!! Cybersecurity is a blossoming field of study with a great future. Obviously you are technology minded as EE is highly technical.
+
+With your interest in cybersecurity, I highly recommend a solid foundation of networking basics, minumum Net+, recommended CCNA/CCNP, as you will use the foundation to implement security updates. Our security team works with several brands of gear so having a solid base in configuration is essential, as is automation with python.
+
+ 
+
+There is a lot to learn on this path and I put together the following suggests to obtain certification. It works for any subject, but some resources are specific to CCNA. I hope it helps:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+6 months ago
+@Mutale Mwaka​ Welcome to the community, you will be able to learn and acquire knowledge, many here have been involved in the field for decades and enjoy assisting others in their journey. I recommend starting with CCNA and have put together the following information for that path(though it applies to others, but some resources are different.)
+
+ 
+
+There is a lot to learn on this path and I put together the following suggests to obtain certification. It works for any subject, but some resources are specific to CCNA. I hope it helps:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+6 months ago
+@Anees-Mbrk​ I have taught networking for 20 years and have many certified and successful program graduates.
+
+There is a lot to learn on this path and I put together the following suggests to obtain certification. It works for any subject, but some resources are specific to CCNA. I hope it helps:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Joe Rinehart
+
+Edited December 17, 2025 at 7:15 PM
+@WendellOdom4936​, I embedded the .pkt file in the PDF in an appendix. I clicked on it to make sure it worked, let me know if it's not working. I am toying with making a CML version as well. Mainly I wanted it accessible to everyone easily. Here is a screenshot of the location of the file, let me know if it doesn't work.
+
+image.png
+
+
+Wendell Odom
+
+6 months ago
+Thanks. I found it, the last page of the PDF. I see the link - displays a paper clip icon. Hovering over the paper clip displays a filename. But nothing is clickable, nothing downloads. Could be a problem on my end? Just letting you know. FYI.
+
+
+Joe Rinehart
+
+6 months ago
+I noticed that the paper clip icon doesn't seem to have a link but when I double-click on it, it shows this dialog box. Once I click on OK, it opens up PT. Maybe I'd be better off just posting an MS Word document what do you think? If I could post the .pkt file somewhere that might be an option but I cannot seem to find a place to host it.
+
+image
+
+
+Wendell Odom
+
+6 months ago
+Well, no kind of clicks do that for me, but I figured it out. Looks like Adobe might call it an attachment. So I googled it, and here's the how to: Open the PDF in Acrobat, mouse point to the right-side bar, right click, pick the attachment icon (paperclip), brings up a menu, select to display attachments, and you see the .pkt file. Obvious clicks from there.
+
+Thanks for the help, Joe!
+
+
+SLIMER
+
+Edited December 18, 2025 at 1:01 AM
+Thanks @Wendell Odom​, indeed works for me but need 9.0.0 due not able to open using 8.2.x. Cheers
+
+
+BAYOAKINS
+
+6 months ago
+Thank you for sharing here.
+
+
+BAYOAKINS
+
+6 months ago
+Thank you for sharing here.
+
+
+Bryan McGann
+
+6 months ago
+@Joe Rinehart​  That is awesome, I could not download due to policies on the computer I use regularly. I'll try when have opportunity from my personal box.
+
+
+BAYOAKINS
+
+6 months ago
+Thank you for sharing here.
+
+
+Martin L
+
+6 months ago
+Awesome, Thank You for sharing!
+
+
+SLIMER
+
+6 months ago
+Great sharing @Bryan McGann​. Thanks a lot! Cheers
+
+
+Znagovan
+
+6 months ago
+Thank you for sharing, good to practice, special now for the exam.😊
+
+
+rkthapa9
+
+6 months ago
+@Bryan McGann​ Thank you very much for the sharing here!
+
+
+Joe Rinehart
+
+6 months ago
+I realize that not everyone may be running PT 9.0.0, so I dug up an older version and rebuilt the startup file for PT Version 8.2. Hopefully that makes things easier for everyone. This time I embedded it in MS Word for simplicity.
+
+BRKCRT-2024 - CCNA Practice Lab PT  Version 8.2 PKT Startup File
+
+Bryan McGann
+
+6 months ago
+@Joe Rinehart​  Very nice, thanks for making that effort.
+
+
+Joe Rinehart
+
+6 months ago
+Maybe the actual PKT file will attach as well
+
+Unknown file type
+CCNA-Lab-11-13-2025 Startup Configs PTV-8-2
+
+92KB
+
+
+BAYOAKINS
+
+6 months ago
+Thank you, good job!
+
+
+jeec
+
+6 months ago
+Great list of ressources @Bryan McGann​ !!!
+
+ 
+
+Really helpfull!!! 👍
+
+
+Bryan McGann
+
+5 months ago
+@Chernor​ I agree with @kminihane​ He lists CCNA and then others. CCNA is an awesome first step that will provide a really solid foundation in networking and technologies. It is an awesome place to start. I've put together the below study suggestions, I hope you find them useful. Good luck on your journey!!
+
+ 
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+5 months ago
+@User205100​ Not knowing the areas of your specific learning, it is hard to say if 4 months is enough, or not enough. What I can suggest is to study, learn, lab, repeat each section and see how your timeline goes. The number of hours per day, days per week, ability, etc. can impact your schedule. Wendell Odom also mentioned some advice, above, that is well worth considering and including in your study. He literally wrote the book on CCNA certification.
+
+I'll also say that CCNA is an awesome first step that will provide a really solid foundation in networking and technologies. It is an awesome place to start. I've put together the below study suggestions, I hope you find them useful. Good luck on your journey!!
+
+ 
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Znagovan
+
+5 months ago
+Thank you @Bryan McGann​ , as usual, for your very nice and realistic answer. I was convinced by what you said and came to the same conclusion, especially after failing the first CCNA test.😊
+
+
+Bryan McGann
+
+5 months ago
+Welcome @Gheorghe Tarlev​ to the CCNA community. If you are aspiring to certification, I have put together the materials below to assist. Good luck on your journey. If you have questions, concerns, etc, please do not hesitate to reach out to me or this community.
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Znagovan
+
+5 months ago
+Hello @Bryan McGann​ , I'm not totally sure, but I'm guessing that the person you mentioned @Gheorghe Tarlev​ might be from my country, so I found not only people with the same passion in the community, but also people from my country. Thanks, and have a great day!😊
+
+
+Bryan McGann
+
+5 months ago
+Welcome @CésarOB​ to the CCNA community. If you are aspiring to certification, I have put together the materials below to assist. Good luck on your journey. If you have questions, concerns, etc, please do not hesitate to reach out to me or this community.
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+
+Bryan McGann
+
+5 months ago
+Welcome @Mlungisi Sibeko​  to the CCNA community. I have put together the materials below to assist. Good luck on your journey. If you have questions, concerns, etc, please do not hesitate to reach out to me or this community.
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+5 months ago
+Welcome @Robert glorioso​ to the CCNA community. I wish you the best on your studies. With that in mind, I have put together the materials below to assist. Good luck on your journey. If you have questions, concerns, etc, please do not hesitate to reach out to me or this community.
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+5 months ago
+Welcome @Wiresharky​  to the CCNA community. With your CompTIA Secuirty+ certification knowledge, you have a huge leg up on the CCST/CCNA certification track. I wish you the best on your continued studies. With that in mine, I have put together the materials below to assist. Good luck on your journey. If you have questions, concerns, etc, please do not hesitate to reach out to me or this community.
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+5 months ago
+Welcome @Iceborg​ Glad to have you join the community. You'll find great resources here to guide you on your path, and peers to answer questions and provide guidance. For CCNA, I put together the following post, to give you some useful suggestions, Good luck on your journey!!
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+5 months ago
+Welcome @edwin.javier​ to the community. It looks like you have some great background to leverage as you continue learning and certifying. CyberSecurity is an awesome, blossoming field. Along the way, you might consider knocking out the CCNA exam, it's networking basics will serve you well in your CyberSecurity studies and practice. All of our security guys are very knowledgeable on networking and continually working with Cisco gear and technologies.
+
+You'll find great resources here to guide you on your path, and peers to answer questions and provide guidance.
+
+For CCNA, and the methodology works for CyberSecurity, I put together the following post, to give you some useful suggestions, Good luck on your journey!!
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+5 months ago
+Welcome @PubuduA​ to the community. It looks like you have some great experience in technology. With your background, you might consider knocking out the CCNA exam, it's networking basics will serve you well.
+
+You'll find great resources here to guide you on your path, and peers to answer questions and provide guidance.
+
+For CCNA, and the methodology works for all networking areas, I put together the following post, to give you some useful suggestions, Good luck on your journey!!
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+5 months ago
+Welcome @SammyTex​ Best wishes on your journey to CCNA certification. I've put together the below, which I hope you find useful, to assist in your certification path:
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+5 months ago
+Novell NetWare, I haven't heard much about that in such a long time @Charles11​ . I, too, learned Novell as my first class on my journey to Microsoft certification. I learned the CCNA much later after getting years of experience. You'll find CCNA certification to be a challenge, but certainly achievable. I put the below resources together to assist you in your path:
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+jluisdc05
+
+5 months ago
+Gracias por la informacion muy productiva
+
+
+Bryan McGann
+
+5 months ago
+@B.Anil6669​ The suggestions that @Ing_Percy​ provided are excellent. I also put together some materials, and suggestions, that my students have used very successfully over the years. I hope the below is of assistance, have a great journey:
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+ShahBaig126
+
+4 months ago
+Thanks for sharing,
+
+Some of my colleagues accessing self paced free CCNA course in NetAcad but if I go from the same link it's showing find near Academy. Please can anyone help out of this.
+
+
+Bryan McGann
+
+4 months ago
+@Vakashchander​ There are several posts with resources. I created this one a while back with suggestions that my students have used successfully for many years. I hope it serves you equally well. Best wishes on your journey!
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+4 months ago
+@Tech Net​ You have not stated your current situation so, it depends upon where you are starting from.
+
+First, you must master the basics, that can be done by achieving CCNA certification and really mastering the material along the way.
+
+You will also want to really learn Linux, WireShark, and other tools. Having strong Python programming skills will serve you well. All of our security folks have wicked skills in many areas.
+
+You must know how the network operates and have great skills.
+
+ 
+
+Regardless of what you choose to study first, I recommend CCNA as the launch point, get certified, get experience, build on it and master the security side. Obtaining a CCNP security cert will be an awesome step on the path.
+
+ 
+
+I put together the below material to assist in your journey. It has lead to many certified, and successful, graduates. Good luck on your journey.
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Huixiang Xiao
+
+4 months ago
+These are great suggestions, especially the emphasis on consistency. I’ve found that short, focused study sessions combined with labs are often more effective than long, infrequent study blocks.
+
+Even 30–45 minutes a day can make a big difference when it’s done regularly.
+
+
+Znagovan
+
+4 months ago
+I can't disagree with these golden words.I agree with the above comments by @Huixiang Xiao​ and @Bryan McGann​ , some useful tips and a path to success.The phrase "if you want to obtain CCNA, you must first become CCNA, and then you can obtain it on merit"😊
+
+
+milo_rd
+
+4 months ago
+Nice summary
+
+ 
+
+
+Farman Elahi
+
+4 months ago
+Thank You for sharing great source @Bryan McGann​ 
+
+
+Anoop Jacob
+
+4 months ago
+Good One Absolutely!
+
+
+Bryan McGann
+
+4 months ago
+Welcome @Kip H.​ Glad to have you here. If you done it before, you can do it again. I put together the below to assist, I hope you find it useful:
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+4 months ago
+@agivens​ Congratulations on your journey to certification. I'd suggest obtaining Wendell Odom's certification guide series and start and follow the chapters as he suggests in the introduction. I also have put together these suggestions for study:
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+I hope they are of assistance. That said practice, practice, practice, and practice some more.
+
+
+Bryan McGann
+
+4 months ago
+@Msanga​ Welcome self paced is how I did it, many years ago. You will want to follow a path with consistent study, and LOTS of hands on practice with simulator or gear.
+
+ 
+
+I've posted this before, but think you will find it worthwhile. To obtain certification, and the knowledge that leads to it, I recommend following a path of success. To that end, I put together the below to assist, I hope you find it useful:
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+Edited February 13, 2026 at 6:42 PM
+@Judi Perez​ I have taught students in CCNA, Net+, A+, Sec+, MCSE(various tracks) for many years. You will want to combine study of a text(I recommend Wendell Odom's CCNA Official Cert Guide), tons of lab work using simulator(you can use live gear, but it takes longer and much more involved) the Cisco Packet Tracer specifically, video training, and practice exams using end of chapter guides, etc.
+
+I did put a post together with the resources I recommend, I hope you find it useful:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+@Squozen​ @Ing_Percy​ @Do Tien Dung​ Have also provided excellent information.
+
+
+Do Tien Dung
+
+4 months ago
+Thanks you
+
+
+WizzIT
+
+4 months ago
+Practice, Practice, Practice...... & Practice....
+
+
+Znagovan
+
+4 months ago
+I completely agree with @WizzIT​ 😊
+
+
+Bryan McGann
+
+4 months ago
+@WizzIT​  And never stop. Truly, it's a great way to keep skills sharp.
+
+
+Bryan McGann
+
+4 months ago
+@IChaudhuri​ Welcome to the community. Best wishes on your path, it sounds from your NOC engineer that you already have some applicable experience. I put together the following suggestions to provide assistance for those desiring knowledge and certification:
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+
+Bryan McGann
+
+4 months ago
+Welcome @33datalife​ This is a great place for those desiring certification. As an engineer, you should do well with the learning and knowledge needed for CCNA. Thanks for the mention @Znagovan​ I appreciate it.
+
+ 
+
+I put together the following suggestions to provide assistance for those desiring knowledge and certification:
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+4 months ago
+Welcome @Engine​ Best wishes as you prepare to get ccna certified. It is a great learning path and will serve you well in the future. From your post, it sounds like you have a lot of great knowledge and experience so that should help immensely.
+
+To assist on your journey, I put together the following suggestions to provide assistance for those desiring knowledge and certification:
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+Please comment if you find useful. Thanks
+
+
+Bryan McGann
+
+Edited February 19, 2026 at 6:38 PM
+Welcome @leconte​ It is never too late is correct. I got certified at about 42 and taught for many years. I can say, that helped immensely. At 62 I got my first official network engineer position, and love it, it's a new challenge every day. Your experience will help quite a bit as many concepts are going to be familiar.
+
+ 
+
+To assist on your journey, I put together the following suggestions to provide assistance for those desiring knowledge and certification:
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+Please like or comment if you find useful. Thanks
+
+
+Bryan McGann
+
+4 months ago
+Welcome @Abiola​ let us know how we can provide assistance, or answers as you progress towards certification.
+
+ 
+
+For CCNA I recommend: Read Wendell Odom's Official Cert Guide, study chapter by chapter, reinforce with videos and test questions, learn the material, be brilliant with the basics, master it, practice, practice, practice. To that end, I did put a post together with the resources I recommend, I hope you find it useful:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+Please like or comment if you find useful. Thanks
+
+
+Bryan McGann
+
+4 months ago
+Welcome @Engr. Gidado​ to the community. Based upon your engineer studies, you should enjoy, and be able to apply, much that you learn on your CCNA journey.
+
+ 
+
+For CCNA I recommend: Read Wendell Odom's Official Cert Guide, study chapter by chapter, reinforce with videos and test questions, learn the material, be brilliant with the basics, master it, practice, practice, practice. To that end, I did put a post together with the resources I recommend, I hope you find it useful:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+Please like or comment if you find useful. Thanks
+
+
+Engr. Gidado
+
+4 months ago
+Great 😃
+
+
+Bryan McGann
+
+4 months ago
+Welcome @Aathikesan​ to the community. Having Linux and Python skills will serve you well in cybersecurity, I recommend mastering CCNA on your journey. All of our cybersecurity guys are great with networking skills.
+
+ 
+
+For CCNA I recommend: Read Wendell Odom's Official Cert Guide, study chapter by chapter, reinforce with videos and test questions, learn the material, be brilliant with the basics, master it, practice, practice, practice. To that end, I did put a post together with the resources I recommend, I hope you find it useful:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+Please like or comment if you find useful. Thanks
+
+
+Bryan McGann
+
+4 months ago
+Welcome @Yogi Ram Kumar​ Best wishes on your exploring networking. I recommend starting with CCNA and there is lots of information and books, videos, practice tests, etc, to help you master the material.
+
+ 
+
+For CCNA I recommend: Read Wendell Odom's Official Cert Guide, study chapter by chapter, reinforce with videos and test questions, learn the material, be brilliant with the basics, master it, practice, practice, practice. To that end, I did put a post together with the resources I recommend, I hope you find it useful:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+Please like or comment if you find useful. Thanks
+
+
+Bryan McGann
+
+4 months ago
+Welcome @Daniel_Magizh​ Best wishes on your exploring networking. I recommend starting with CCNA and there is lots of information and books, videos, practice tests, etc, to help you master the material.
+
+ 
+
+For CCNA I recommend: Read Wendell Odom's Official Cert Guide, study chapter by chapter, reinforce with videos and test questions, learn the material, be brilliant with the basics, master it, practice, practice, practice. To that end, I did put a post together with the resources I recommend, I hope you find it useful:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+Please like or comment if you find useful. Thanks
+
+
+Bryan McGann
+
+4 months ago
+Welcome @Philip Nartey​ Same as the other post I saw: best wishes on your exploring networking. I recommend starting with CCNA and there is lots of information and books, videos, practice tests, etc, to help you master the material.
+
+ 
+
+For CCNA I recommend: Read Wendell Odom's Official Cert Guide, study chapter by chapter, reinforce with videos and test questions, learn the material, be brilliant with the basics, master it, practice, practice, practice. To that end, I did put a post together with the resources I recommend, I hope you find it useful:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+Please like or comment if you find useful. Thanks
+
+
+Bryan McGann
+
+4 months ago
+@User17714289227404333706​ It sounds as if you may be new to the field. Welcome.
+
+I recommend starting with CCNA and there is lots of information and books, videos, practice tests, etc, to help you master the material. The packet tracer is a key tool for learning, it is so useful, and easy to use, save, and reconfigure devices to master the skills needed. When I first obtained it, it was my key tool to learn and it is wonderful.
+
+ 
+
+For CCNA I recommend: Read Wendell Odom's Official Cert Guide, study chapter by chapter, reinforce with videos and test questions, learn the material, be brilliant with the basics, master it, practice, practice, practice. To that end, I did put a post together with the resources I recommend, I hope you find it useful:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+Please like or comment if you find useful. Thanks
+
+
+Hakeem Mumuni
+
+4 months ago
+Thanks
+
+
+Bryan McGann
+
+4 months ago
+Welcome @bhumijamadagni​ to the community, it looks like you've got some good technical background that should help you on this path.
+
+ 
+
+For CCNA I recommend: Read Wendell Odom's Official Cert Guide, study chapter by chapter, reinforce with videos and test questions, learn the material, be brilliant with the basics, master it, practice, practice, practice. To that end, I did put a post together with the resources I recommend, I hope you find it useful:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+Please like or comment if you find useful. Thanks
+
+
+Bryan McGann
+
+4 months ago
+Welcome @Lokesh Rokkam​ to the community, it looks like you've got some good technical background with four years of network support, that should help you tremendously on this path. Best wishes, let us know how we can help.
+
+ 
+
+For CCNA I recommend: Read Wendell Odom's Official Cert Guide, study chapter by chapter, reinforce with videos and test questions, learn the material, be brilliant with the basics, master it, practice, practice, practice. To that end, I did put a post together with the resources I recommend, I hope you find it useful:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+Please like or comment if you find useful. Thanks
+
+
+Bryan McGann
+
+4 months ago
+Welcome @Hakeem Mumuni​  to the community, You experience as a data center technician should help on this journey. I remember my first time in a enterprise DC, I asked the technician I was working with which servers ran this, or that, app, major stuff. He replied he had no idea, they just take care of the network gear. It was a learning experience. Now as a network engineer, it is somewhat similar, since I don't see the physical gear, only the CLI for 99.9% of what we do. Fun times. Best wishes, let us know how we can help.
+
+ 
+
+For CCNA I recommend: Read Wendell Odom's Official Cert Guide, study chapter by chapter, reinforce with videos and test questions, learn the material, be brilliant with the basics, master it, practice, practice, practice. To that end, I did put a post together with the resources I recommend, I hope you find it useful:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+Please like or comment if you find useful. Thanks
+
+
+Bryan McGann
+
+4 months ago
+Welcome @crystyd​ to the community. I've worked with Cisco gear, CCNA, and student for many years, it is a great path and journey. Best wishes.
+
+For CCNA I recommend: Read Wendell Odom's Official Cert Guide, study chapter by chapter, reinforce with videos and test questions, learn the material, be brilliant with the basics, master it, practice, practice, practice. To that end, I did put a post together with the resources I recommend, I hope you find it useful:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+Please like or comment if you find useful. Thanks
+
+
+Bryan McGann
+
+4 months ago
+Welcome @Abdul4thewin​ ​ to the community. I understand learning with free products, if you can get the text, that is job one. Job two is then the Cisco Packet Tracer - from which you can practice and learn so much foundation and routing knowledge. It is a really great tool.
+
+For CCNA I recommend: Read Wendell Odom's Official Cert Guide, study chapter by chapter, reinforce with videos and test questions, learn the material, be brilliant with the basics, master it, practice, practice, practice. To that end, I did put a post together with the resources I recommend, I hope you find it useful:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+Please like or comment if you find useful. Thanks
+
+
+Bryan McGann
+
+4 months ago
+Welcome @angelf86​ ​ to the community. You can learn this material, it is a matter of consistent practice and application of what you learn.
+
+For CCNA I recommend: Read Wendell Odom's Official Cert Guide, study chapter by chapter, reinforce with videos and test questions, learn the material, be brilliant with the basics, master it, practice, practice, practice. To that end, I did put a post together with the resources I recommend, I hope you find it useful:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+Please like or comment if you find useful. Thanks
+
+
+Bryan McGann
+
+4 months ago
+@AlfaBeta​ You are definitely NOT too old to enter a new workforce at 53. I taught for more than 25 years, it was networking and computers, but still I had not been an official network engineer, until 62 years old. It was at 62 that I took an opportunity for official network engineer position, with a very, very large web hosting and domain company. I'm one of about 40 "network engineer," in our organization not including the security and networking devs. It is a big organization and I'm thrilled to be here. I said all that to say, it's not too late, if you know your stuff, you can do it.
+
+ 
+
+To master the material, here is a post I put together to describe why I always have told my students, many are certified, and qualified, and working in the networking field.
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+If this helps, please give a like or comment, thanks.
+
+
+Bryan McGann
+
+4 months ago
+@Genesis Joshua​ Welcome to the community. You likely are learning some of the material in your college program, you'll master that portion with CCNA. I had a student who mastered subnetting and when he started his masters program, a professor chose him to be his teaching assistant to teach much networking information. Good luck on your journey.
+
+ 
+
+To master the material, here is a post I put together to describe why I always have told my students, many are certified, and qualified, and working in the networking field.
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+If this helps, please give a like or comment, thanks.
+
+
+Bryan McGann
+
+4 months ago
+Welcome @AlejandroReyes​ Best wishes on your journey, let us know how we may assist if you have issues, questions, or whatever.
+
+ 
+
+To master the material, here is a post I put together to describe why I always have told my students, many are certified, and qualified, and working in the networking field.
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+If this helps, please give a like or comment, thanks.
+
+
+Bryan McGann
+
+4 months ago
+Welcome @Max_be​ If you are an enthusiast, you should enjoy learning, and mastering, the CCNA material. I wish you the best on your journey.
+
+ 
+
+To master the material, here is a post I put together to describe why I always have told my students, many are certified, and qualified, and working in the networking field.
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+If this helps, please give a like or comment, thanks.
+
+
+Bryan McGann
+
+4 months ago
+Welcome @Manibharathi​ You don't say if you are already certified. If not, I wish you the best on your journey. I became an official NetEng at 62 years of age, after teaching for many years. Best wishes as you progress forward.
+
+ 
+
+To master the material, here is a post I put together to describe why I always have told my students, many are certified, and qualified, and working in the networking field.
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+If this helps, please give a like or comment, thanks.
+
+
+Bryan McGann
+
+4 months ago
+Welcome @Sheraz Khan​ Having hands on experience is a key to mastering the material, truly practice, practice, practice. Best wishes on your journey.
+
+ 
+
+To master the material, here is a post I put together to describe why I always have told my students, many are certified, and qualified, and working in the networking field.
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+If this helps, please give a like or comment, thanks.
+
+
+Bryan McGann
+
+4 months ago
+Welcome @Ivan Owori​ to the community. Taking the Cisco NetAcad courses is a great way to get an introduction to the material. Your key is to do the study, and practice, practice, practice. Master subnetting. If it is hard, study it harder. If it seems difficult and elusive, study that material harder. Master it. Then move forward. Best wishes on your journey!
+
+ 
+
+To master the material, here is a post I put together to describe why I always have told my students, many are certified, and qualified, and working in the networking field.
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+If this helps, please give a like or comment, thanks.
+
+
+Bryan McGann
+
+4 months ago
+@Natasyah​ There is no surefire way, but my suggestion is to get Wendell Odom's CCNA Official Cert Guide, and study chapter by chapter, watch videos to supplmement, and use Cisco Packet Tracer to practice practice practice. There are no shortcuts, master the material, and you will succeed.
+
+To that end, here is a post I put together to describe why I always have told my students, many are certified, and qualified, and working in the networking field.
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+If a subject seems hard, read, reread, study, reread, watch video, practice practice practice, until it is no longer hard and you have mastered it, then move on.
+
+ 
+
+If this helps, please give a like or comment, thanks.
+
+
+Ivan Owori
+
+4 months ago
+So great
+
+
+Bryan McGann
+
+4 months ago
+Welcome @Raneem Kamal​ to the community. As you move forward in your journey, please post, reach out, etc., if have issues. We are a community to support each other on this path, and if CCNA is in your plans:
+
+ 
+
+To master the material, here is a post I put together to describe why I always have told my students, many are certified, and qualified, and working in the networking field.
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+If this helps, please give a like or comment, thanks.
+
+
+Raneem Kamal
+
+4 months ago
+Thank you, Mr. McGann, for the warm welcome and for sharing your detailed study guide. I truly appreciate the time and effort you put into helping students not only get certified but become truly qualified. I’m looking forward to applying your advice in my CCNA journey.
+
+ 
+
+
+Genesis Joshua
+
+4 months ago
+That's Great idea for 💯 achievements
+
+
+moshe lupu
+
+4 months ago
+Thank you so much for this profound contribution. It’s truly hard to quantify the immense value of the insights you’ve shared here; this is a definitive milestone for any professional in the field. Your attention to detail and expertise make this a masterclass for the entire community. Much appreciated!
+
+
+Bryan McGann
+
+3 months ago
+Welcome @John Wanyeki​ Best wishes on your journey to CCNA certification.
+
+ 
+
+To master the material, here is a post I put together to describe why I always have told my students, many are certified, and qualified, and working in the networking field.
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+If this helps, please give a like or comment, thanks.
+
+
+Bryan McGann
+
+3 months ago
+Welcome @SRizvi​ to the community, you are in the right place. Mastering CCNA material will assist greatly in becoming a Network Engineer. I achieved that title at 62 years of age, so you can certainly do it.
+
+ 
+
+To master the material, here is a post I put together to describe why I always have told my students, many are certified, and qualified, and working in the networking field.
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+If this helps, please give a like or comment, thanks.
+
+
+Bryan McGann
+
+3 months ago
+Welcome @GWakefield​ Best wishes on your path to CCNA certification. I like to provide this post to assist in the journey:
+
+ 
+
+To master the material, here is a post I put together to describe why I always have told my students, many are certified, and qualified, and working in the networking field.
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+If this helps, please give a like or comment, thanks.
+
+
+Bryan McGann
+
+3 months ago
+Welcome @SAIFELDIN​ to the community, you are in the right place. In regards to resources:
+
+To master the material, here is a post I put together to describe why I always have told my students, many are certified, and qualified, and working in the networking field.
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+If this helps, please give a like or comment, thanks.
+
+
+Bryan McGann
+
+3 months ago
+Welcome @Kevin Mugabe​ You are in the right place to gain more knowledge and expertise in networking. To that end, I recommend the CCNA as a first step. Obtain Wendell Odom's Official Certification Guide, start reading, go chapter by chapter. Watch videos related to the material from Wendell himself or others on youtube or buy a subscription from one of the best sources. Practice everything you study using Packet Tracer (free and awesome) and/or Cisco Modeling Labs(CML- at a small cost). Build labs, configure, reconfigure, experiment and break your configuration, troubleshoot and fix, practice, practice practice.
+
+ 
+
+To master the material, here is a post I put together to describe why I always have told my students, many are certified, and qualified, and working in the networking field.
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+If this helps, please give a like or comment, thanks.
+
+
+Bryan McGann
+
+3 months ago
+@Jolly​ Welcome to the community! I put together this post, which I believe has the information you requested on resources for certification on CCNA. Please do not hesitate to reach out with questions, we are a community geared to assist in reaching your goals.
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+3 months ago
+@Jolly​ Welcome to the community! I put together this post, which I believe has the information you requested on resources for certification on CCNA. Please do not hesitate to reach out with questions, we are a community geared to assist in reaching your goals.
+
+ 
+
+Get Wendell Odom's Official Certification Guide, study chapter by chapter, as you go watch videos to supplement and provide explanation and demonstrations. Then take the time to build nearly every, if not every, diagram in the book using the Cisco Packet Tracer and configure, configure, configure. Master the material by doing the job that you will be doing after you get certified. Best wishes on your journey.
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+3 months ago
+Welcome @Dhrubojit​ to the community, and congratulations on building your skills. If you desire to be CCNA certified, an awesome first step on your path to become a Network Engineer, it was the only Cisco cert I had when I obtained that title at 62 years of age. It should serve you well and provide tremendous knowledge. Master the material, practice, practice practice, and you can achieve your goal. Let us know how we can assist in this journey. Best wishes.
+
+ 
+
+To master the material, here is a post I put together to describe why I always have told my students, many are certified, and qualified, and working in the networking field.
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+If this helps, please give a like or comment, thanks.
+
+
+Bryan McGann
+
+3 months ago
+@ScorpionGod06​ I started studying MCSE for certification at 40, then worked supporting exchange administrators before, certifying in several CompTIA areas, then CCNA. I can say that CCNA was of the most interest to me and I loved studying it, then I taught it for years.
+
+At 62 I got my official Network Engineer position with a large web hosting company, and have never looked back. You can do this too.
+
+ 
+
+I put together this post, which I believe has the information you will require as far as resources for certification on CCNA. Please do not hesitate to reach out with questions, we are a community geared to assist in reaching your goals.
+
+ 
+
+Get Wendell Odom's Official Certification Guide, study chapter by chapter, as you go watch videos to supplement and provide explanation and demonstrations. Then take the time to build nearly every, if not every, diagram in the book using the Cisco Packet Tracer and configure, configure, configure. Master the material by doing the job that you will be doing after you get certified. Best wishes on your journey.
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+FILDERSON
+
+3 months ago
+great work done, thanks
+
+
+Bryan McGann
+
+3 months ago
+Welcome @Petirow​ to the community. What specific issues are you having getting Cisco Packet Tracer to run, what OS, where did you download? Maybe someone here can provide guidance, tho I will do what I can.
+
+ 
+
+In terms of study, once you get your packet tracer going, read and study Wendell Odom's Official Certification Guide, use videos to supplement, and Packet Tracer to lab, lab, lab, and them lab some more. Practice is what will cement the skills and knowledge for you.
+
+ 
+
+I put together the following post, I hope it helps you to achieve your goals.
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+ 
+
+
+Bryan McGann
+
+3 months ago
+Welcome @mdaffe17​ to the community, we are here to help. It sounds like you are in the right place to learn the networking side of computer science. To move to cybersecurity, it is critical to have a solid understanding of network fundamentals. To that end:
+
+ 
+
+Read and study Wendell Odom's Official Certification Guide, use videos to supplement, and Packet Tracer to lab, lab, lab, and them lab some more. Practice is what will cement the skills and knowledge for you.
+
+ 
+
+I put together the following post, I hope it helps you to achieve your goals.
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+ 
+
+ 
+
+
+M R A Shaik Abdul Kader Soofi
+
+3 months ago
+Great information.
+
+One place to easliy find all the details for CCNA course.
+
+Thanks @Bryan McGann​ 
+
+
+Bryan McGann
+
+3 months ago
+@Ryan McC​ Wow, what a story, and lots of experience to go with it. Welcome.
+
+ 
+
+If you are studying and desiring to learn, possibly obtain CCNA certification, I put together the below. Key concepts: get and study Wendell Odom's Official Certification guide, chapter by chapter, supplement with videos(see post), and lab, lab, lab with Cisco Packet tracer. Good luck on your journey.
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+3 months ago
+@Usman EU​ It's the same for CCNP as for Cisco,
+
+ 
+
+If you are studying and desiring to learn, possibly obtain CCNP certification, I put together the below but you will have to adapt for CCNP, same approach will get you there. Key concepts: get and study the latest CCNP Official Certification guide, chapter by chapter, supplement with videos(see post), and lab, lab, lab with Cisco Packet tracer, CML, and/or live equipment. Good luck on your journey.
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+3 months ago
+Welcome @Joonty​ Welcome to the community! I put together this post, which I believe has information you requested on resources for certification on CCNA, to learn "from the Experts." Please do not hesitate to reach out with questions, we are a community geared to assist in reaching your goals.
+
+ 
+
+Get Wendell Odom's Official Certification Guide, study chapter by chapter, as you go watch videos to supplement and provide explanation and demonstrations. Then take the time to build nearly every, if not every, diagram in the book using the Cisco Packet Tracer and configure, configure, configure. Master the material by doing the job that you will be doing after you get certified. Best wishes on your journey.
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Marco Antonio Gutierrez Barrera
+
+3 months ago
+There are great suggestions!! @Bryan McGann​ 
+
+
+Bryan McGann
+
+3 months ago
+Welcome @Ken Walsh​ to the community. Glad to hear you working to change careers and become CCNA certified, an awesome first step.
+
+Work to master the material, practice, practice practice, and you can achieve your goal. Get Wendell Odom's Official Certification Guide and study each chapter, watch videos to supplement, and practice, practice, practice with the Cisco Packet tracer
+
+ 
+
+To master the material, here is a post I put together to describe why I always have told my students, many are certified, and qualified, and working in the networking field.
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+If this helps, please give a like or comment, thanks. Let us know how we can assist in this journey. Best wishes.
+
+
+Bryan McGann
+
+3 months ago
+Welcome @Tsegchrist@123​ to the community, a great place to be when taking your first step towards certification.
+
+Here are some suggestions and a post: work to master the material, practice, practice practice, and you can achieve your goal. Get Wendell Odom's Official Certification Guide and study each chapter, watch videos to supplement, and practice, practice, practice with the Cisco Packet tracer
+
+ 
+
+To master the material, here is a post I put together to describe why I always have told my students, many are certified, and qualified, and working in the networking field.
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+If this helps, please give a like or comment, thanks. Let us know how we can assist in this journey. Best wishes.
+
+
+Bryan McGann
+
+3 months ago
+Welcome @ady7774real​ to the community. In regards to your question, I put together the following post, information my students have successfully followed for years:
+
+ 
+
+For CCNA I recommend: Read Wendell Odom's Official Cert Guide, study chapter by chapter, reinforce with videos and test questions, learn the material, be brilliant with the basics, master it, practice, practice, practice. To that end, I did put a post together with the resources I recommend, I hope you find it useful:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+Please like or comment if you find useful. Thanks
+
+ 
+
+
+Bryan McGann
+
+3 months ago
+Welcome to the communit @EtienneVG​ Best wishes on your journey to CCNA certification. I put together the following post, information my students have successfully followed for years, I hope you find it useful:
+
+ 
+
+For CCNA I recommend: Read Wendell Odom's Official Cert Guide, study chapter by chapter, reinforce with videos and test questions, learn the material, be brilliant with the basics, master it, practice, practice, practice. To that end, I did put a post together with the resources I recommend, I hope you find it useful:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+Please like or comment if you find useful. Thanks
+
+
+Bryan McGann
+
+3 months ago
+Welcome @Aidar Mussabek​ to the community. Great comments on your experience with the NetAcad, it is a great place to learn.
+
+ 
+
+I put together the following post, information my students have successfully followed for years, I hope you find it useful:
+
+ 
+
+For CCNA I recommend: Read Wendell Odom's Official Cert Guide, study chapter by chapter, reinforce with videos and test questions, learn the material, be brilliant with the basics, master it, practice, practice, practice. To that end, I did put a post together with the resources I recommend, I hope you find it useful:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+Please like or comment if you find useful. Thanks
+
+
+Bryan McGann
+
+3 months ago
+@Usman EU​ Welcome to the community, you will find lots of support, guidance, and encouragement here. Many here are willing to help with questions as you progress on this path. SInce you are working towards CCNA certification(and beyond), I'll provide the following, the process will be useful for all of those certs:
+
+ 
+
+I put together the following post, information my students have successfully followed for years, I hope you find it useful:
+
+ 
+
+For CCNA I recommend: Read Wendell Odom's Official Cert Guide, study chapter by chapter, reinforce with videos and test questions, learn the material, be brilliant with the basics, master it, practice, practice, practice. To that end, I did put a post together with the resources I recommend, I hope you find it useful:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+Please like or comment if you find useful. Thanks
+
+
+Bryan McGann
+
+3 months ago
+@dust​ Welcome to the community, you will find lots of support, guidance, and encouragement here. Many here are willing to help with questions as you progress on this path. With our background in telecom industry, you should have some knowledge already on how some of the networking works. You mention studying for your CCNA certification, I'll provide the following, the process will be useful for all of those certs:
+
+ 
+
+I put together the following post, information my students have successfully followed for years, I hope you find it useful:
+
+ 
+
+For CCNA I recommend: Read Wendell Odom's Official Cert Guide, study chapter by chapter, reinforce with videos and test questions, learn the material, be brilliant with the basics, master it, practice, practice, practice. To that end, I did put a post together with the resources I recommend, I hope you find it useful:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+Please like or comment if you find useful. Thanks
+
+
+Bryan McGann
+
+3 months ago
+Welcome @Jemwel​ to the community and congratulations on your goal to obtain CCNA certification. I put together the following that my students have successfully followed for years:
+
+ 
+
+Get Wendell Odom's Official Certification Guide, work chapter by chapter, study, lab, review videos on the material, lab some more, practice, practice, practice with the Cisco Packet Tracer. Build a lab of every diagram possible and configure as you go through, erase, configure again till it does not require much thought to remember the commands, make the second nature.
+
+ 
+
+To that end, I've put together this post with resources for your journey:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+3 months ago
+Welcome @SIBTIALI​ to the community, and congratulations on your impending move from store to corporate. It is great to have a hiring manager provide direction to enable this fantastic opportunity. To obtain CCNA certification, I put together this post:
+
+ 
+
+Get Wendell Odom's Official Certification Guide, work chapter by chapter, study, lab, review videos on the material, lab some more, practice, practice, practice with the Cisco Packet Tracer. Build a lab of every diagram possible and configure as you go through, erase, configure again till it does not require much thought to remember the commands, make the second nature.
+
+ 
+
+To that end, I've put together this post with resources for your journey:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+3 months ago
+@Cybergirllumina​ I recommend obtaining the CCNA as a first step, ALL of our security teams is very conversant with how the network operates and CCNA is the minimum level of knowledge you should achieve.
+
+ 
+
+I put together the following that my students have successfully followed for years:
+
+ 
+
+Get Wendell Odom's Official Certification Guide, work chapter by chapter, study, lab, review videos on the material, lab some more, practice, practice, practice with the Cisco Packet Tracer. Build a lab of every diagram possible and configure as you go through, erase, configure again till it does not require much thought to remember the commands, make the second nature.
+
+ 
+
+To that end, I've put together this post with resources for your journey:
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+ 
+
+
+Bryan McGann
+
+3 months ago
+@deline​ Best wishes on your CCNA journey, it is a journey. I put together the following post geared for CCNA certification path, though the process works for all.
+
+ 
+
+Basically, obtain Wendell Odom's Official Certification Guide, study chapter by chapter, supplement with video trainings, and lab, lab, lab. Try to build every diagram in the book, study each chapter and subject until you understand, then move forward. Study practice questions to build comfort with exam taking. Practice, practice, practice and you will do this!
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+3 months ago
+@juandaospinacas​ Wow, it's great to see someone who has goals and has thought and laid them out clearly. Congratulations on your plans!
+
+ 
+
+I put together the following post geared for CCNA certification path, though the process works for all you have listed and more. Please like and add comments on anything pertinent and I'll try to add to the post. This process has been used by my students for over 20 years, it works, if you work it.
+
+ 
+
+Basically, obtain Wendell Odom's Official Certification Guide, study chapter by chapter, supplement with video trainings, and lab, lab, lab. Try to build every diagram in the book, study each chapter and subject until you understand, then move forward. Study practice questions to build comfort with exam taking. Practice, practice, practice and you will do this!
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+3 months ago
+@marcelo nunez​ Congratulations on your primary goal to obtain CCNA certification. Best wishes on your journey, take you time, master the material, and move forward.
+
+ 
+
+I put together the following post geared for CCNA certification path, though the process works for all you have listed and more. Please like and add comments on anything pertinent and I'll try to add to the post. This process has been used by my students for over 20 years, it works, if you work it.
+
+ 
+
+Basically, obtain Wendell Odom's Official Certification Guide, study chapter by chapter, supplement with video trainings, and lab, lab, lab. Try to build every diagram in the book, study each chapter and subject until you understand, then move forward. Study practice questions to build comfort with exam taking. Practice, practice, practice and you will do this!
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+3 months ago
+@Jorge_Rivera​ Welcome to community, we are here to assist you on your journey. Obtaining your CCNA certification is an awesome goal. Best wishes on your journey, take you time, master the material, and move forward.
+
+ 
+
+I put together the following post geared for CCNA certification path, though the process works for all you have listed and more. Please like and add comments on anything pertinent and I'll try to add to the post. This process has been used by my students for over 20 years, it works, if you work it.
+
+ 
+
+Basically, obtain Wendell Odom's Official Certification Guide, study chapter by chapter, supplement with video trainings, and lab, lab, lab. Try to build every diagram in the book, study each chapter and subject until you understand, then move forward. Study practice questions to build comfort with exam taking. Practice, practice, practice and you will do this!
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+Edited April 3, 2026 at 3:10 PM
+@Leop​ Best wishes on your journey. I have been in a datacenter on more than one occasion, it is impressive.
+
+What is more impressive, and what I like a whole lot more, is to work from home, hotel, campsite, or wherever I happen to be, and connect to devices located on the other side of the world to configure, troubleshoot, and repair, thank you Elon and StarLink.
+
+The added flexibility of connection via the internet is so liberating, I think you will discover that, too(and likely it pays better).
+
+ 
+
+Now, if you desire to be a DC tech, that is awesome, and the CCNA will provide the opportunity to master many of the basics of how the equipment functions. I highly recommend CCNA Certification as a first step. If you should chose it, I put together the below link/post with some useful suggestions that will serve you well.
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+3 months ago
+@Wetners​ Well done and best wishes on your journey. The post by @Ing_Percy​ Has many great resources and Ideas for success. I also have the below post and recommend you get Wendell Odom's CCNA Official Certification Guide, read chapter by chapter, build the diagrams in the Cisco Packet Tracer, configure, reconfigure, reconfigure again, study till you fully understand the topics. Watch videos to supplement and fill in gaps. Practice test questions over and over till you have them commited, and the knowledge that goes with it. Lab, lab, lab, then lab some more. There are no shortcuts.
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+ 
+
+
+Bryan McGann
+
+3 months ago
+@Joshwah​ Welcome to the community. I highly recommend the CCNA certification as it will improve your skills in network engineering, filling in many gaps of knowledge.
+
+ 
+
+I hope the below resources and study suggestions are helpful on your journey!
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Eurven Hosé
+
+3 months ago
+Thanks
+
+
+Bryan McGann
+
+2 months ago
+@WilliamASier​ I put together the below post to provide resources and direction, I hope you find it useful.
+
+First get Wendell Odom's Official Certification Guide, study chapter by chapter, build Cisco Packet Tracer labs for every diagram in the book(name them after the diagram name). Practice configuring, repeatedly, each diagram. View views to fill in gaps and build knowledge. Take as many study questions as you can find, and practice tests to build comfort in test taking environments. Lab, lab, lab, when you are done labbing, lab some more. Build the neural muscles to build networks without a thought.
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+javijimez
+
+2 months ago
+Hi. I'm very "new" to the I.T environment, I'm coming from being an automotive tech, I'm pursuing the CCNA course, thank you for the information, what I really don't like is that Cisco has too many website that they seem redundant to me...
+
+
+Bryan McGann
+
+2 months ago
+@javijimez​  Welcome to the community, good luck on your path. Take your time, find time to enjoy your learning, and master the concepts. You can do it!!
+
+
+constanceconnie
+
+2 months ago
+Thank you
+
+
+Bryan McGann
+
+2 months ago
+You are very welcome @constanceconnie​  Best wishes on your journey!!
+
+
+DEKACODES
+
+2 months ago
+Good
+
+
+cherifi.m85
+
+2 months ago
+Very interesting @Bryan McGann​  this will help student tackling CCNA certification
+
+
+Znagovan
+
+2 months ago
+for 100%😊
+
+
+rkthapa9
+
+2 months ago
+Great infromation @Bryan McGann ! Thank you very much!😉
+
+
+Bryan McGann
+
+2 months ago
+Congratulations @NagariBhanu​ on your decision, it will require some diligent effort, but mastery of the material is possible. I've taught CCNA for years and put together the below materials for study:
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Iceinc
+
+2 months ago
+Thanks. It’s indeed a great point. Glad to have good people with good mentoring like this.
+
+Wish I knew this community earlier.
+
+ 
+
+
+reaulin
+
+2 months ago
+Thanks
+
+
+Habraam G.E.
+
+2 months ago
+Thank you Brian, I'll be looking through this over and over again! God bless you brotha!
+
+
+Bryan McGann
+
+a month ago
+@Bene​ There are several simulators you can utilize, but I have used, and highly recommend the Cisco Packet Tracer (link in attached post), as it is easy to setup and use, runs great, you can save partial configs, networks, total configs, run through lots of network designs lightning fast, it is really all you should need for CCNA. I'm not discounting other simulators(also discussed on attached post), but they are more involved, tend to be slower and/or require more resources to run. GNS is great, but it does require customer supplied IOS, the Cisco Operating System file in order to run. This will give you pretty much all commands available for Cisco, but most, 95%, of those are beyond CCNA level, and many are rarely, if ever used.
+
+ 
+
+You'll find great resources here to guide you on your path, and peers to answer questions and provide guidance.
+
+For CCNA, and the methodology works for all networking areas, I put together the following post, to give you some useful suggestions, Good luck on your journey!!
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+20 days ago
+Best wishes on that journey @Rob78​ I've done a similar thing and can tell you it is a challenge, but you can and will rise to it. I put the below to assist learners on the path to CCNA, remember to practice, practice, practice. and you will ge there.
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+11 days ago
+@User17457865778697387177​ Utilize this post to assist in your studies. You can do this!
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+11 days ago
+@Lydia Greene​ Here is an approach I have used with students for many years, I hope you find it useful in mastering the material and achieving certificatoin. You can do this!
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+11 days ago
+@regev​ Here is an approach I have used with students for many years, I hope you find it useful in mastering the material and achieving certificatoin. You can do this!
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+11 days ago
+@Jolegeek​ Congratulations on your decision, it's a big step with great potential outcomes. I put this post together and recommend spending a few minutes perusing it and working thru the options. Most of all, study and practice, practice, practice.
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+11 days ago
+@Owais Chohan​ Congratulations on your decision, it's a big step with great potential outcomes. I put this post together and recommend spending a few minutes perusing it and working thru the options. Most of all, study and practice, practice, practice.
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+11 days ago
+@Rdrowner​ Congratulations, you never be sorry after accomplishing the journey and certification.
+
+I put this post together and recommend spending a few minutes perusing it and working thru the options. Most of all, study and practice, practice, practice.
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+Expand Post
+
+Lydia Greene
+
+10 days ago
+Thank you so much, much appreciated, i will definately utilise this information. There is no room for failure.Bless you
+
+
+ajbozdar
+
+9 days ago
+This helps. Thank you.
+
+
+Bryan McGann
+
+7 days ago
+@HabtamuW​ I put this together a while back. Many are free, you can also get other resources that might have small cost. Nothing extraordinary. I wish you the best on your certification path!
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+
+Bryan McGann
+
+7 days ago
+@regev​ I personally think you are good with Wendell Odom's series, that said, there are other books out there that may fill in gaps, or be a style more to your liking. Some will be on this post:
+
+I put this together a while back. Many are free, you can also get other resources that might have small cost. Nothing extraordinary. I wish you the best on your certification path!
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+Expand Post
+
+Bryan McGann
+
+6 days ago
+@Lydia Greene​ For a beginner, I recommend a structured approach, reading, videos, and practice, repeat. I recommend Wendell Odom's series for the reading, there are many videos on many platforms, some free ones a Jeremy's series on YouTube. Practice can easily be had with the Cisco Packet Tracer product from the Cisco Networking Academy. Many links are in this post:
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+Expand Post
+
+Bryan McGann
+
+7 hours ago
+@Pontso Makgato​ What you said is exactly accurate. Be the CCNA, be the network engineer, before you try to certify. Certification is a step to show you have a level of knowledge, you should shoot to be way over that level in as many areas as possible. The CCNA is an awesome foundation for network. CCNA has broad studies to build that strong base and networking understanding. Know, master, the material as you move thru the study. Of course, massive practice builds your skills.
+
+ 
+
+I put together the below post, I hope you find it useful. Best wishes!!
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+Expand Post
+
+Bryan McGann
+
+7 hours ago
+@User17791051264302930160​ Best wishes on your studies. I've trained and mentored many, many CCNA candidates with many successful certifications. I recommend a combination of read, watch view, practice test questions, and practice, practice, practice. That is the way to master the material, which is critical for your success in networking. Best wishes!!
+
+The CCNA is an awesome foundation for network. CCNA has broad studies to build that strong base and networking understanding. Know, master, the material as you move thru the study. Of course, massive practice builds your skills.
+
+ 
+
+I put together the below post, I hope you find it useful. Best wishes!!
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+Expand Post
+
+Bryan McGann
+
+7 hours ago
+@Indoz​  Best wishes on your studies. I've trained and mentored many, many CCNA candidates with many successful certifications. I recommend a combination of read, watch view, practice test questions, and practice, practice, practice, lab, lab, lab. That is the way to master the material, which is critical for your success in networking and certification success. Best wishes on the path!!
+
+The CCNA is an awesome foundation for network. CCNA has broad studies to build that strong base and networking understanding. Know, master, the material as you move thru the study. Of course, massive practice builds your skills.
+
+ 
+
+I put together the below post, I hope you find it useful. Best wishes!!
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+Expand Post
+
+Bryan McGann
+
+7 hours ago
+@ajbozdar​ I can recommend packet tracer as our go to tool for labbing CCNA level material. The advantage with Packet Tracer is:
+
+It is free
+You can save labs, configured, partially configured, intentionally broken, and repeat over and over again, each lab.
+It is so simple to setup, add interfaces, add cabling, customize each diagram in your study book. I recommend Wendell Odom's CCNA Official Certification Guide
+It is so fast to use, it saves hours and hours.
+In you book, build a lab for every diagram you can, practice, practice, practice. They key is mastery of the material.
+There are many more. I may not do everything the paid for simulators do, but you will quickly, and easily be able to lab and learn the material. MASTERY IS THE GOAL
+ 
+
+I've trained and mentored many, many CCNA candidates with many successful certifications. I recommend a combination of read, watch view, practice test questions, and practice, practice, practice, lab, lab, lab. That is the way to master the material, which is critical for your success in networking and certification success. Best wishes on the path!!
+
+The CCNA is an awesome foundation for network. CCNA has broad studies to build that strong base and networking understanding. Know, master, the material as you move thru the study. Of course, massive practice builds your skills.
+
+ 
+
+I put together the below post, I hope you find it useful. Best wishes!!
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+Expand Post
+
+Iceinc
+
+7 hours ago
+👌On Point👌
+
+
+Bryan McGann
+
+5 hours ago
+Thanks @Iceinc​ 
+
+
+Bryan McGann
+
+5 hours ago
+@Rahmat Sidik​ Best wishes on your studies. The CCNA is an awesome foundation for network. CCNA has broad studies to build that strong base and networking understanding. Know, master, the material as you move thru the study. Of course, massive practice builds your skills.
+
+I've trained and mentored many, many CCNA candidates with many successful certifications. I recommend a combination of read, watch videos, practice test questions, and practice, practice, practice. That is the way to master the material, which is critical for your success in networking. Best wishes!!
+
+ 
+
+I put together the below post, I hope you find it useful. Best wishes!!
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+Expand Post
+
+Bryan McGann
+
+5 hours ago
+@Cyubahiro Eric​ ​ Best wishes on your studies. The CCNA is an awesome foundation for network. CCNA has broad studies to build that strong base and networking understanding. Know, master, the material as you move thru the study. Of course, massive practice builds your skills.
+
+I've trained and mentored many, many CCNA candidates with many successful certifications. I recommend a combination of read, watch videos, practice test questions, and practice, practice, practice. That is the way to master the material, which is critical for your success in networking. Best wishes!!
+
+ 
+
+I put together the below post, I hope you find it useful. Best wishes!!
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+Expand Post
+
+Bryan McGann
+
+5 hours ago
+@adolfoholic​  ​ Best wishes on your studies. The CCNA is an awesome foundation for network. CCNA has broad studies to build that strong base and networking understanding. Know, master, the material as you move thru the study. Of course, massive practice builds your skills.
+
+I've trained and mentored many, many CCNA candidates with many successful certifications. I recommend a combination of read, watch videos, practice test questions, and practice, practice, practice. That is the way to master the material, which is critical for your success in networking. Best wishes!!
+
+ 
+
+I put together the below post, I hope you find it useful. Best wishes!!
+
+ 
+
+https://learningnetwork.cisco.com/s/question/0D5Kd0000BfjMwfKQE/best-study-methods-for-ccna-these-are-my-suggestions-please-comment-and-ill-try-to-include-yours-as-well
+
+Expand Post
+
+adolfoholic
+
+4 hours ago
+Thank you @Bryan McGann​ 
+
+
+Share
+
+
+
+
+Trending Articles
+Cisco Packet Tracer: Software de Simulación para Redes
+Packet Tracer Labs
+CCIE/CCDE: Book your Lab/Practical Exam
+POSTING GUIDELINES QUICK REFERENCE/ACCEPTABLE USE AGREEMENT
+Fundamentos del Cableado Ethernet en una Red de Datos Empresarial
+Events
+Virtual Events
+Blogs
+Blogs
+Discussions
+Discussions
+X
+Facebook
+Instagram
+LinkedIn
+YouTube
+Podcasts
+Certifications Center
+Help
+Welcome
+Cisco U. Store
+Certification Tracker
+Cisco Learning Network Podcast
+Stay Connected
+Member Directory
+Privacy Statement
+Terms & Conditions
+Cookie Policy
+Trademarks
+Cisco.com
+© Copyright 2026 Cisco, Inc. All Rights Reserved.
+
+Cisco Logo
+BEST STUDY METHODS FOR CCNA, These are my suggestions, please comment and I'll try to include yours as well.

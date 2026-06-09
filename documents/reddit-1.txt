@@ -1,0 +1,318 @@
+Go to ccna
+r/ccna
+•
+8mo ago
+vithuslab
+
+How to prepare for the CCNA the most effective and efficient way (from someone who’s seen hundreds go through it)
+I run a study community for CCNA learners, and one of the most common questions I see, both there and here, is: How do you prepare for the CCNA in the most efficient way?
+
+This question comes up all the time, so here’s a single post I (and hopefully others) can point to whenever it does.
+
+Over time, I’ve seen what actually works and I’ve lived it myself. When I studied for my own CCNA, I had a full-time job, a newborn at home, and on top of that, I had just started a side job to make ends meet financially. It was chaos. But with the system below, I managed to stay consistent, learn effectively, and pass the exam on my first try.
+
+Stick to ONE video course. Pick one instructor and commit. Jumping between multiple YouTube or Udemy courses will slow you down. Every instructor has a different style, and switching means constantly readjusting. Find one that clicks with you (for many, Jeremy’s IT Lab on YouTube is a great free option) and stick with it to the end.
+
+Don’t fall for the “you need the book” misconception! You don’t need to buy the official CCNA book unless you genuinely enjoy reading. I bought it myself when I started and honestly, it didn’t help me. I’m not someone who learns well from dry theory or long reading sessions. I tend to forget what I read or even fall asleep halfway through. If you’re like that too, don’t waste time or money forcing yourself to study from a book. It only makes sense if reading is truly your preferred learning style. Otherwise, the return on investment is close to zero.
+
+Study in complete chapters. Never stop in the middle of a chapter. Each study session should cover one full topic from start to finish. That’s how you keep your momentum, otherwise, you’ll waste time re-reading or re-watching and trying to remember where you left off. Finishing a full chapter per session gives you a small win every time, and that compounds into serious progress.
+
+Do hands-on labs right after learning. Right after finishing a topic, lab it out. Use Packet Tracer, GNS3, or whatever tool you prefer, but apply the concept immediately. Watching theory is passive. Doing labs is what transforms knowledge into real understanding.
+
+Use flashcards instead of notes. Taking long notes feels productive but usually isn’t. Use Anki instead, with spaced repetition - a scientifically proven system that helps you remember information long-term with minimal effort. When I prepared, I used the free Jeremy’s IT Lab Anki deck and built my own cards along the way. I’ve never been a good “memorizer,” but this system changed everything. I memorized hundreds, even thousands of flashcards without it ever feeling like hard work. Months after passing my exam, I still remembered MAC addresses, multicast ranges, and port numbers.
+
+Don’t study alone! join a community. Accountability is a massive game-changer. A study community keeps you consistent, helps you when you’re stuck, and gives you people who truly get what you’re going through. Even with a job, family, and life’s chaos, surrounding yourself with others on the same journey makes all the difference. You’ll share labs, discuss topics, and stay motivated when you’d otherwise quit.
+
+Once you’ve completed your study material, it makes sense to do practice exams. After finishing your main course and labs, it might be worth considering practice exams like Boson ExSim. They help identify weak spots and simulate the real exam environment. It’s not a must, I personally didn’t use them, but I’ve met many people who said it helped them a lot to pinpoint what to focus on before the actual test.
+
+If you’re juggling a full-time job, university, a family, and maybe even a side job on top, don’t let that discourage you. It’s absolutely possible to pass the CCNA. I’ve done it, and so have many others in the same situation.
+
+Keep it simple: one course, one full chapter per session, a lab after each topic, review with spaced repetition, and stay connected with others. Do that consistently, and you’ll not only pass, you’ll actually understand networking.
+
+I truly believe that this is the most effective and efficient system. Change my mind!
+
+214
+·
+40
+Comments Section
+Great_Dirt_2813
+•
+8mo ago
+i'd add finding a study buddy helps. keeps you accountable & motivated. also, don't underestimate the power of practice exams, they pinpoint weak spots. your system is solid, but everyone tweaks it to what works for them.
+
+
+8
+u/vithuslab avatar
+vithuslab
+OP
+•
+8mo ago
+Thanks for pointing it out! I agree with the practice exams. When you are at the finish line of your studies, practice exams really do help you to identify your weak areas. I will include it
+
+
+3
+[deleted]
+Comment has been removed
+
+u/Proper-Way-6471 avatar
+Proper-Way-6471
+•
+8mo ago
+Wow I really appreciate this detailed post. I’m currently studying for CCNA, working full time with a 5 month old at the house so it sounds like we were in the same boat.
+
+How long did it take for you to feel confident enough to take the exam? What communities are out there where I can get some group study done?
+
+
+7
+u/vithuslab avatar
+vithuslab
+OP
+•
+8mo ago
+Yea, it does 😄 I booked my exam when I was able to answer all the questions on the flashcards with ease and I labed out every topic. I didn’t really feel „ready“. But I knew that I covered everything that gets tested on the exam according to the blueprint. That‘s when I went all in and took the exam
+
+4
+u/vithuslab avatar
+vithuslab
+OP
+•
+8mo ago
+There are a bunch of Discord servers out there
+
+If you want to check out the community I am hosting, you can follow this link
+
+https://www.skool.com/ccna-success-academy-5848/about?ref=3fcb95d937b84fbb80e96fa4488c3fdb
+
+
+3
+u/Active_Selection_706 avatar
+Active_Selection_706
+•
+7mo ago
+hey, i have sent a request for the group, can you approve it once you get free? Thanks!
+
+1
+itslordnotorous
+•
+1mo ago
+I have also joined, Please accept my request
+
+1
+u/Active_Selection_706 avatar
+Active_Selection_706
+•
+7mo ago
+damn! congrats for the baby man
+
+1
+YoungAspie
+•
+8mo ago
+Disagree with points 1 and 2. Different people have different learning styles. I learn better from reading (e-)books than watching videos. The Official Cert Guide book also includes a code that provides access to additional practice questions and exams (per point 7).
+
+
+4
+u/vithuslab avatar
+vithuslab
+OP
+•
+8mo ago
+What‘s your thought on point 1? Would you recommend to watch more than one course at a time? About point 2: I‘m not saying you should never buy the book. I‘m just saying that if you don’t like reading, forcing yourself reading that 1000-pager and trying to memorize everything will not help you at all. Of course, if you enjoy reading and prefer learning with a book, there‘s no problem with that at all, go for it. But this is actually exactly what I already wrote in the post 😅 Also: you only get the bonus material if you purchase the premium bundle. Instead of spending money on that, you could invest in something like Boson for you final exam prep
+
+
+4
+YoungAspie
+•
+8mo ago
+What‘s your thought on point 1? Would you recommend to watch more than one course at a time?
+
+If your emphasis is on "at a time" and the learner is at the "learning the material" stage with reasonable (Network+) background, then I agree that focusing on one video course or book is usually a good idea. However, the learner must be able to realise when they do not understand an important concept and have to refer to a second resource (which may explain said concept differently).
+
+Of course, if you enjoy reading and prefer learning with a book, there‘s no problem with that at all, go for it. But this is actually exactly what I already wrote in the post
+
+Sorry for misreading that part!
+
+ Also: you only get the bonus material if you purchase the premium bundle. Instead of spending money on that, you could invest in something like Boson for you final exam prep
+
+Looks like Amazon sells the Official Cert Guide Kindle edition as the premium bundle by default (or makes the premium bundle appear much higher in its Kindle results). The CCNA material is too much to cover in a single book: the OCG, Sybex Study Guide and even Jeremy's Ace the CCNA Exam all require two volumes.
+
+If I recall correctly, the OCG premium bundle costs less than Boson, but things may have changed (and prices may vary by country). The bonus material includes both topical practice and full exams, while Boson does not have topical practice.
+
+2
+u/VividNecessary4381 avatar
+VividNecessary4381
+•
+8mo ago
+Many community colleges offer classes for credit. Not free but a deeper understanding where a student can ask questions and have really great labs. I think the entire subject is typically covered in three courses I passed with ease by doing this and learned a lot more.
+
+
+3
+u/vithuslab avatar
+vithuslab
+OP
+•
+8mo ago
+That’s interesting! Didn’t know community colleges offer something like that
+
+3
+Common_Celebration41
+•
+8mo ago
+I tried Jeremy's flash card but it seems overwhelming as it stacks up with every "days" how do you guys do all of them?
+
+
+2
+u/vithuslab avatar
+vithuslab
+OP
+•
+8mo ago
+I imported all new cards to one big deck so I was basically just studying with that one deck. I found it very helpful because Anki would test me with everything I already knew and should retain
+
+
+3
+Common_Celebration41
+•
+8mo ago
+How many cards a day is a good amount to study ?
+
+
+1
+u/vithuslab avatar
+vithuslab
+OP
+•
+8mo ago
+Depends on how much time you have 😄 I did like 200 a day. So I would revise flashcards for at least 30m a day
+
+2
+Continue this thread
+u/Active_Selection_706 avatar
+Active_Selection_706
+•
+7mo ago
+hey can you provide me a link to that flashcards?
+
+
+1
+u/vithuslab avatar
+vithuslab
+OP
+•
+7mo ago
+You can just click on any of JITL‘s YouTube videos from his CCNA playlist snd you‘ll find the link to the resources in the video description 😊
+
+1
+u/Ivar_the_H0meless avatar
+Ivar_the_H0meless
+•
+8mo ago
+100% agree. The book and the notes didnt help me. It was the Anki flashcards, JITL, and labbing
+
+
+27
+cowboysfromhell1999
+•
+6mo ago
+Do you just read the anki flashcards and quiz yourself? What is your exact strategy and recommendation?
+
+1
+cowboysfromhell1999
+•
+6mo ago
+Do you just read the anki flashcards and quiz yourself? What is your exact strategy and recommendation?
+
+
+1
+u/Ivar_the_H0meless avatar
+Ivar_the_H0meless
+•
+6mo ago
+Yea as I went through Jeremys IT lab videos I would take notes and do the labs in packet tracer. Whenever I had a moment and wasn’t watching the videos I would do the Anki flash cards up until the last topic I watched a video for.
+
+It’s a lot of material so the Anki cards really help with actually keeping it in your memory as you study. Labbing helps with hands on practice and troubleshooting when something goes wrong.
+
+I also did boson practice exams since they were recommended. Don’t think it was 100% necessary but it certainly didn’t hurt.
+
+3
+u/KimchiFitness avatar
+KimchiFitness
+•
+8mo ago
+i would add 1 more thing:
+
+always start each day by reviewing the previous day's material BEFORE starting new material
+
+so easy to think "yeah i remember everything. next"
+
+7
+Itsonlydasmellz
+•
+8mo ago
+Yeah, I've pretty much done that and I just got 72% on final boson, and I have no idea where to go now. I failed my first attempt with overall score of 38% after getting 56% on first boson. I have no idea how people find the ccna easier than boson.
+
+
+2
+MathmoKiwi
+•
+8mo ago
+Keep on doing practice exams? You will learn more from each one you take, indentifying what you are getting wrong.
+
+And go through a second video lectures series (a different one to what you used the first time), the extra reinforcement of the material from a slightly different perspective might help it extra "click" for you.
+
+1
+u/PsychologicalDare253 avatar
+PsychologicalDare253
+•
+8mo ago
+I didnt read the book just went through JIT and was genuinely interested in the content, No flashcards either just video then lab.
+
+1
+u/HugeRecommendation53 avatar
+HugeRecommendation53
+•
+8mo ago
+Does anyone have any discord servers I can join for study buddies?
+
+1
+u/VividNecessary4381 avatar
+VividNecessary4381
+•
+8mo ago
+Everything I have gone back to community college for gets me through the cert. Not fee, not expensive.
+
+1
+u/maticsbb avatar
+maticsbb
+•
+8mo ago
+How long did you study like this, before you took the exam?
+
+1
+u/Due-Plantain-4236 avatar
+Due-Plantain-4236
+•
+8mo ago
+Thanks man
+
+1
+cantstopthehussle
+•
+4mo ago
+Well i disagree with not getting the book. Even if reading is not your perferred style , you can alway refer back to the book to help you understand something you completely dont. thats Coming from someone who will fall asleep reading as well. However that comes with Going at your own pace which you didnt mention. i have my days where i have other stuff today and i only would finish one chapter for a entire month but i take notes.
+
+1
+[deleted]
+•
+8mo ago
+Comment deleted by user
+
+
+u/vithuslab avatar
+vithuslab
+OP
+•
+8mo ago
+You‘re welcome 😊
+
+1

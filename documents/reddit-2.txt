@@ -1,0 +1,586 @@
+Go to ccna
+r/ccna
+•
+3mo ago
+Apollo_iw
+
+I studied for 45 days here’s my experience
+I just passed the CCNA today and I wanted to share my experience because I know how stressful this exam can feel.
+
+I studied for about 45 days total. I went through the lectures at around 2x speed just to understand the concepts, but what really made the difference for me was labbing at the end.
+
+And I mean a lot of labbing.
+
+That’s honestly the biggest thing I want to emphasize:
+
+labbing turns theory into cemented knowledge.
+
+Reading and watching videos is one thing, but actually configuring OSPF, STP, VLANs, ACLs, WLC, etc… that’s when things started to click. The labs forced me to understand what was actually happening instead of just recognizing terms.
+
+---
+
+Boson Scores:
+
+I averaged around 60–65% on Boson.
+
+I never scored above a 70.
+
+If you’re in that range, do NOT get discouraged.
+
+Boson is harder and more detailed than the real exam. It exposed my weak areas, and I used that to guide my labbing. That’s what helped me improve.
+
+---
+
+My actual exam section scores:
+
+Automation and Programmability — 70%
+
+Network Access — 95%
+
+IP Connectivity — 76%
+
+IP Services — 60%
+
+Security Fundamentals — 93%
+
+Network Fundamentals — 85%
+
+---
+
+I’m not going to lie — halfway through the exam I felt like I was failing.
+
+There were questions where I wasn’t 100% sure, and I started doubting myself. But I just kept pushing, stayed calm, and focused on reading each question carefully and eliminating wrong answers.
+
+Also, I want to be real about this part too —
+
+I prayed and asked God for help through this process.
+
+There were moments where I felt overwhelmed and unsure if I was ready, but I trusted that the work I put in mattered and that everything would play out the way it was meant to.
+
+---
+
+If I could give advice to anyone studying right now:
+
+Don’t rely only on videos — LAB
+
+Use Boson as a diagnostic tool, not a confidence killer
+
+Focus on weak areas and attack them directly
+
+Stay calm during the exam — don’t let a few hard questions shake you
+
+I used netsim 90% of the time to lab 
+
+---
+
+If you’re in the middle of studying and feel like you’re not ready, I promise you I felt the same way.
+
+Just keep going.
+
+You’re closer than you think.
+
+193
+·
+63
+Comments Section
+u/Connect-Cockroach872 avatar
+Connect-Cockroach872
+•
+3mo ago
+Took me 8th months of countless hours. I think I clocked in close to 300 hours.
+
+You're officially insane. In a good way.
+
+
+33
+Apollo_iw
+OP
+•
+3mo ago
+Your to generous bro . The fact you got it separates you from the 90% who talk about it !
+
+11
+u/Hunter-Thick avatar
+Hunter-Thick
+•
+3mo ago
+That’s where I am right now. I was scoring mid 60’s on boson exams but I rewatch videos at work for the concepts I have trouble on and now tackling the labs. My test is the first Saturday of April so fingers crossed
+
+
+11
+Apollo_iw
+OP
+•
+3mo ago
+If there’s one thing I have to say is don’t let boson discourage you it almost ruined my confidence and the material is equivalent to reading music theory and actually playing it . LAB LAB LAB
+
+7
+u/FirstPassLab avatar
+FirstPassLab
+•
+3mo ago
+Congrats on the pass. 45 days is solid execution — most people stretch it out way longer and lose momentum, so the compressed timeline probably worked in your favor honestly.
+
+The Boson point is huge and worth repeating for anyone reading this. Mid 60s on Boson and still passing comfortably is super common. The mistake people make is treating those scores as predictive when they're really diagnostic — the value is in the explanations for the questions you got wrong, not the number at the top. Sounds like you used them exactly right by letting them point you toward what to lab next.
+
+Your IP Services at 60% is interesting though — that's the domain where a lot of people leave points on the table because topics like SNMP, syslog, NTP, DHCP/DNS details feel "boring" compared to routing and switching. Worth hammering if you ever go for CCNP since those fundamentals come back in ENCOR.
+
+Good stuff, enjoy the win.
+
+
+11
+Apollo_iw
+OP
+•
+3mo ago
+Big thanks Bro .
+
+2
+tuxedoes
+•
+2mo ago
+What is the point of using ChatGPT for a reply on Reddit?!? If you can’t comment about the post from your own words/experience, move on.
+
+1
+u/Stock-Cat-3279 avatar
+Stock-Cat-3279
+•
+3mo ago
+So I see you say boson questions were more detailed do you feel like bosons method of being more difficult helped you in the long run? I’m taking it in the next 2 weeks and just started doing labs and it’s making a huge difference! Also CONGRATULATIONS!🎊
+
+
+2
+Apollo_iw
+OP
+•
+3mo ago
+LAB LAB LAB BRO ! and yes brother boson makes you look at the question with precision because the boson questions are very detailed compared to the CCNA questions, in my opinion. Ps know how to configure OSPF. Big thanks brother!
+
+5
+6ixthLordJamal
+•
+3mo ago
+I’ll have this completed this year!
+
+
+2
+Apollo_iw
+OP
+•
+3mo ago
+Crush it bro!
+
+1
+Abadhon
+•
+3mo ago
+Which labs u used while studying ? and congrats to you
+
+
+2
+Apollo_iw
+OP
+•
+3mo ago
+I used bosons Netsim bro honestly a chefs kiss . 100% know how to configure OSPF
+
+
+3
+Abadhon
+•
+3mo ago
+Along side which course ?
+
+Thank you
+
+
+1
+Apollo_iw
+OP
+•
+3mo ago
+Jermey’s it lab bro INDUSTRY STANDARD in my opinion
+
+3
+u/sesto_elemento_fx avatar
+sesto_elemento_fx
+•
+2mo ago
+I just started studying today with Jeremy's lab CCNA playlist. Is there any advice anyone can give me with the studying part, thank you
+
+
+2
+Apollo_iw
+OP
+•
+2mo ago
+Yes bro I liked to do pomodoros to avoid burnout I aimed for 4 a day since I worked other than that it’s straight forward watch the lecture do the lab and once you get to the practice exams focus on your weak areas and drill them and lab then out
+
+2
+u/IM_GO_SCHLEEP avatar
+IM_GO_SCHLEEP
+•
+3mo ago
+Everytime I take a Comptia or Cisco exam I feel like I’m failing. But have come out passing. Don’t be discouraged and don’t second guess yourself.
+
+8
+u/Jaxsan1 avatar
+Jaxsan1
+•
+3mo ago
+What was your experience level?
+
+6
+u/Alone-Slide4149 avatar
+Alone-Slide4149
+•
+3mo ago
+Good to hear I might need to buy the boson place of exams and check out net sims
+
+
+1
+Apollo_iw
+OP
+•
+3mo ago
+There labs are a chef kiss bro
+
+1
+u/why_is_DNS_the_issue avatar
+why_is_DNS_the_issue
+•
+3mo ago
+I passed mine in late Feb. I was freaking out cause I thought I was behind and started answering questions faster than I should have, but then realized I was actually at a good pace.
+
+Then I got to question 69 and was sitting there like the pic attached for five minutes wondering if I should hit submit exam after I answered the last few questions (I had like 30 mins left) 😅😂
+
+Comment Image
+
+1
+Apollo_iw
+OP
+•
+3mo ago
+30 mins left is crazy bro😭
+
+
+1
+u/why_is_DNS_the_issue avatar
+why_is_DNS_the_issue
+•
+3mo ago
+10 years of experience and no cert will do that 😅
+
+1
+u/rime_boulevard avatar
+rime_boulevard
+•
+3mo ago
+Same, couldn't have done it without God and prayer, this was tough. Also, towards the end, I focused on understanding questions(as opposed to lab lab lab) deeply i.e even if I got it right in the boson, I would be honest with myself and if I fluffed or wasn't sure about the answer, I go and read that topic. Another thing I have to emphasize for anyone reading, you need to mix where you get info, jeremy's is a good source, but for topics you feel you still don't get, just look it up on youtube, 'topic CCNA'. There are some low view guys out there explaining things in 10 minutes or less that are so good.
+
+For me it was DR elections, broadcast vs p2p, nbma p2 multipoint access.
+
+I noticed also, you have to know your routing logic, this is king. Routing logic and dynamic routing, default routes, do these over and over, I frnkly think this was a clean 50 percent of the exam just in different formats. I like the ccna format as well, they don't BS you with cramming things like cable category types and acronyms, the one you do need to know is the 802.11 ones, with b a g, n , ac. Anyway, what an experience.
+
+
+1
+Apollo_iw
+OP
+•
+3mo ago
+It definitely hits you when you press next and you see this is the real exam . Definitely won’t forget it brother thanks for sharing your experience
+
+2
+u/rime_boulevard avatar
+rime_boulevard
+•
+3mo ago
+Also, have to say one thing, CCNA is entry only if you have quite some networking experience. Otherwise, I would call it intermediate or something else, not entry for sure. I work in cybersecurity and from the first moment I got into studying it, I realized I am not familiar with 90 percent of these things and the content is large. Starting from scratch but so worth it because, I now understand these things deeply enough at such a low level and how they work e.g. dns, routing logic, dhcp, nat, things that are vendor agnostic but you have to understand this things to know what you are talking about.
+
+2
+grumpy_tech_user
+•
+3mo ago
+45 days? What is your professional experience?
+
+Also I would counter your point about labs. Labs are good for reinforcing commands and as you said applying theory to practice but its not going to teach someone how a root bridge is determined or how to subnet or why neighbors in OSPF are not sharing their routes. The fact you managed to do it all in 45 days is actually impressive as there were some topics I would spend a week by itself just to hammer in.
+
+
+1
+Apollo_iw
+OP
+•
+3mo ago
+Valid point brother for sure! I agree , it’s definitely a healthy mix of lab and theory for ex RSTP port roles and states and subnetting , all tho I feel like for me what sealed the deal was labbing in my experience. And before this I had no prior experience/ knowledge just a guy going after his dreams with what his got!
+
+
+2
+u/droidinite412 avatar
+droidinite412
+•
+3mo ago
+No prior experience!!!!! That’s madness bro I love it. I have a decent amount of experience because of the job I have. I take my test June 1st and I’m not confident at all. I’m a terrible test taker with some crazy bad test anxiety too so that doesn’t help. Anyway, I’m proud of you bro and I’m going to lab it up and hope I finally get my CCNA
+
+2
+u/bannedfromymca avatar
+bannedfromymca
+•
+3mo ago
+how often did you use flash cards?
+
+
+1
+Apollo_iw
+OP
+•
+3mo ago
+Not ganna lie I was lazy when it came to the flash cards haha, but the way I did it was on a perfect day after a lab for ex configuring NAT I would do the flash cards , but not every day was perfect haha
+
+2
+alpha0meqa
+•
+3mo ago
+Hey man. I just wanted to post to you. I read this last night and was terrified of today as today was my exam day.(I passed) I am happy that you posted about praying. I did the same. I am grateful for your post. And congratulations to you.
+
+
+1
+Apollo_iw
+OP
+•
+3mo ago
+Best reply I’ve received . BIG CONGRATULATIONS bro this isn’t a small moment 🙏. This Just made my day knowing I was at least able to help one person in anyway . Ps : He always pulls through when we need him the most 🙏
+
+2
+Charming-Pie2113
+•
+3mo ago
+Was there EIGRP or RIP on the exam ?
+
+
+3
+[deleted]
+•
+3mo ago
+Comment deleted by user
+
+
+Charming-Pie2113
+•
+3mo ago
+Thank you for the answe. And for other stuff that they "removed" like dtp, vtp, pupppet, chef?
+
+2
+u/Puzzleheaded-Hat9956 avatar
+Puzzleheaded-Hat9956
+•
+1mo ago
+Thank you 🙏🏾 asking God for help was essential☝️✍🏾.
+
+2
+u/Rich_Apricot_5783 avatar
+Rich_Apricot_5783
+•
+3mo ago
+what is netsim?
+
+1
+u/Even_Accident4557 avatar
+Even_Accident4557
+•
+3mo ago
+Congrats I'm studying now this is great support
+
+1
+[deleted]
+•
+3mo ago
+Comment deleted by user
+
+
+Apollo_iw
+OP
+•
+3mo ago
+Chat gpt is a great tool to study 🙏
+
+
+2
+[deleted]
+Comment has been removed
+
+[deleted]
+•
+3mo ago
+Comment removed by moderator
+
+
+2
+Apollo_iw
+OP
+•
+3mo ago
+Your kind words are very appreciated 🥹🙏
+
+
+2
+[deleted]
+•
+2mo ago
+Comment removed by moderator
+
+
+1
+Apollo_iw
+OP
+•
+2mo ago
+I speak Spanish
+
+2
+[deleted]
+•
+3mo ago
+Comment removed by moderator
+
+
+1
+Apollo_iw
+OP
+•
+3mo ago
+I did bosons Netsim labs . There actually so good bro. They have very detailed labs per category
+
+1
+Anselm9694
+•
+3mo ago
+Can I ask from your experience what you would recommend to use to learn? I’m using Jeremy’s IT lab right now.
+
+
+1
+Apollo_iw
+OP
+•
+3mo ago
+Yes brother Jeremy’s IT lab gold, I also used Boson exSim and for labs I used Bosons Netsim. Never forgot to lab! And also don’t let bosons exSim discourage you if you don’t like your score . GOOD LUCK TO YOU BROTHER
+
+
+1
+Anselm9694
+•
+3mo ago
+My guy you’re a life saver! Congratulations to you! I hope everything works out great as you continue your Journey into this new career!
+
+1
+pchulbul619
+•
+3mo ago
+Hey! Congratulations, really appreciate the grind.
+
+I needed some advice too: I am currently using the neil andersen’s course for the prep. And the anki cards. I’m currently done with the course. And I am currently giving the Boson’s practice tests.
+
+I wanted to know what % should one be getting in the boson’s exams to be able to confidently book the main exam??
+
+Here are my boson practice tests results:
+• exam A: 58%
+• exam B: 68%
+• exam C: 68%
+
+My scores kinda plateaued at 68%. idk why, but I’m taking a lot of time with the lab questions on the boson tests. Although I’m getting them right, just reading the lab questions and understanding the topology itself is taking me ten minutes. Which, in turn, is affecting my timings with the other questions.
+
+At this rate, I might lose my mind, patience and sanity. I do not have much background with networks, I’m more of an AWS guy. But, I kinda work a physically exhausting job all day and some how, with great difficulty, am able to sneak a couple of hours daily to study for this exam and it’s kinda taking a toll on me. Any preparation strategy advice is welcome.
+
+
+1
+Apollo_iw
+OP
+•
+3mo ago
+For sure brother . I also worked a physical labor job I work on the road ! I always wake up 2-3 hours before work starts and knockout 3-4 pomodoros . Focusing on just finishing the pomodoros really makes studying way easier , instead of telling your self omg I got to study 2-3 hours it helps focusing on the pomodoros . Also I’m going to be honest you’ve scored higher than me on Boson and I passed comfortably! So you’re looking better than I did lol . What helped me tho cement everything down was Bosons Netsim lab. Check them out bro they have very specific labs for each category eg security , ip services , etc all of the categories. But to me it sounds like you’re on the right track . Don’t let boson discourage you and I’ll say it again you scored higher than I did on boson and I passed comfortably…. Also idk if you want this much information but I liked doing 2 pomodoros drilling the weak areas like going over what I missed on the exam ; 2 pomodoros actually getting hands on Eg labbing and occasionally 1 pomodoro dedicated to retention Anki flash cards . Hope that helped answer at least one of your questions brother . Also last thing , i felt the EXACT same way you did 24 hours before my exam . You got this I promise
+
+
+1
+pchulbul619
+•
+3mo ago
+Sure. Thanks for the advice. I really NEEDED this. Otherwise I was literally spiraling all day wallowing.
+
+Yeah, Imma work on my mistakes and do some targeted practice. Yeah, I’ve just done the labs twice. I guess, I might start doing a couple of pomodoros a day doing labs too. That should help me develop some muscle memory.
+
+1
+pchulbul619
+•
+3mo ago
+Also, I needed advice on one more thing…
+
+I am making these really silly mistakes on the practice tests due to the nervousness and time-pressure. When I sit the next day to review the test, there are SO MANY questions for which I already knew the correct answer to which I got wrong.
+For example: missing to read a double colon on ipv6 addresses, reading the wildcard masks on extended ACLs wrong, etc; to name a few.
+
+How do I answer questions with a calm mind and not make such really silly mistakes?
+1
+Apollo_iw
+OP
+•
+3mo ago
+Ps one lab sometimes took me 2-3 pomodoros / 1-1.5 hours 🤣
+
+
+1
+pchulbul619
+•
+3mo ago
+Damn! How’d you manage anki, working on mistakes and labbing all on the same day?
+
+
+1
+Apollo_iw
+OP
+•
+3mo ago
+On days where my body was to sore I did 1 pomodoro starting on 3:15 am to drill weak areas on the exam . After I finished that it’s around 3:45 am and from there till 6am I did labs and when I got home around 5-6 pm I did one pomodor only for anki
+
+1
+Continue this thread
+Apollo_iw
+OP
+•
+3mo ago
+And on the occasionally off day or 2 I crushed 8 hour days for CCNA 🤣
+
+1
+u/AbrocomaBest4072 avatar
+AbrocomaBest4072
+•
+3mo ago
+My only problem is the subnetting part
+
+
+1
+Apollo_iw
+OP
+•
+3mo ago
+Bro that’s the easiest! Dm me brother
+
+1
+u/Maximum_Bathroom7671 avatar
+Maximum_Bathroom7671
+•
+2mo ago
+CCNA Lab 1 - InterVLAN Routing (Router-on-a-Stick) Do you think a lab like this would help people practice. I have 50 more.
+
+1
+[deleted]
+•
+2mo ago
+Comment removed by moderator
+
+
+1
+Apollo_iw
+OP
+•
+2mo ago
+JITL
+
+1

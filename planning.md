@@ -107,12 +107,11 @@ The context length (total size that the model can input at once) is 256 tokens f
      Label each stage with the tool or library you're using.
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
-     1. Document Ingestion
-     2. Chunking Strategy
-     3. Vector Store, Semantic Search and Retrieval
-     4. Grounded Response Generation
-     5. Query Interface
-     6. Evaluation Report
+     1. Document Ingestion -> 
+     2. Chunking Strategy -> 
+     3. Embedding + Vectore Store -> all-MiniLM-L6-v2 + ChromaDB (Vector Store, Semantic Search and Retrieval)
+     4. Retrieval -> FAISS???
+     5. Generation -> groq or OpenAI
 
 ---
 
@@ -127,6 +126,9 @@ The context length (total size that the model can input at once) is 256 tokens f
      "I'll use AI to help me code" is not a plan.
      "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
      with my specified chunk size and overlap" is a plan. -->
+     - Chunking Strategy - I expect to use Claude for assistance on implementing and testing the chunking strategy. Once I test the output from the chunk size and the overlap that I chose initially I suspect that I might need to adjust the size or my chunking method type to better suit my input documents so I will prompt for feedback and guidance on that.
+     - Embedding + Vector Store - in my experience with backend development there are always errors when setting up the system, so I expect to use Claude for help with troubleshooting status codes while setting up connection with the database. Maybe I can also implement a function or script to remove entries from the database (as a stretch goal).
+     - Retrieval - troubleshooting which k value might be best for to improve the results for my system and/or implementing re-ranking to make the retrieval and "accuracy" of the system better.
 
 **Milestone 3 — Ingestion and chunking:**
 

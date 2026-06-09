@@ -1,0 +1,136 @@
+
+Go to networking
+r/networking
+•
+12y ago
+brok3nh3lix
+
+Free CCNA study guide (and a bunch of other guides labs)
+http://www.routeralley.com/guides.html
+
+So back in college, my instructor who ran the cisco networking courses wrote all his own guides and labs. I personally liked them alot more than the cisco press books (though they have their place for test prep). They how ever had gone out of date from a cert perspective once he moved on from teaching. Hes always hosted them on his website, so i will some times use them as reference material.
+
+Any ways, i recently wanted to review some subjects, and discovered he had recently updated his web site, and put up an updated CCNA guide in July, as well as an updated CCNP switching Guide.
+
+I figured i would post it up here for any one looking for some material
+
+As i said, he also has some labs, but they are based off the old cert. the redistribution lab, though old at this point, is still a very good lab for learning some of the intricacies of redistribution. Unfortunately he does not have walk through for all of them available, but every thing needed is covered some where in his guides.
+
+175
+·
+16
+Comments Section
+u/crimsonred36 avatar
+crimsonred36
+•
+12y ago
+I've always used Aaron's guides as a quick recap before any interviews. They are really helpful! I'd love to read his higher level stuff if he ever comes around to writing them.
+
+
+3
+brok3nh3lix
+OP
+•
+12y ago
+were you a student or did you just stumble apon his stuff?
+
+he just renewed his CCNP, and i dont know if hes tried any more times for his CCIE since i graduated.
+
+
+2
+u/crimsonred36 avatar
+crimsonred36
+•
+12y ago
+Not a student, just stumbled upon it about 3 or so years ago. No joke, I've gotten an offer every time I've studied his notes. Not to say that that's the only thing I read, but I definitely read through it atleast once. Makes for some interesting reading.
+
+2
+xNx_
+•
+12y ago
+I used to use some of his old stuff, fanstastic guy for doing this!
+
+
+1
+brok3nh3lix
+OP
+•
+12y ago
+He was a great teacher and a lot of fun. I remember one Saturday morning in our ccnp routing class he was really not into it and every one was out of it, so we went to Bob evens instead.
+
+He also would give any one who made it through all his camp classes a propeller hat.
+
+1
+u/LvTech avatar
+LvTech
+•
+12y ago
+Great stuff. thanks for the link.
+
+2
+[deleted]
+•
+12y ago
+wish he had a link to the older study guides.. Looking to test for my 642-813 CCNP switch before the end date.
+
+
+1
+snowbirdie
+•
+12y ago
+Just torrent it like everyone else does. There are tons of guides, old and new, freely available for download.
+
+0
+u/robohoe avatar
+robohoe
+•
+12y ago
+Thank you! Will definitely go over these to review
+
+1
+u/SuddenWeatherReport avatar
+SuddenWeatherReport
+•
+12y ago
+Wow this is some really good stuff.
+
+1
+u/kwnage avatar
+kwnage
+•
+12y ago
+Thank you!
+
+1
+Hotmustardgas
+•
+12y ago
+Awesome find!
+
+1
+STUMPEHH
+•
+12y ago
+Thank you!
+
+1
+u/DatabaseBatman avatar
+DatabaseBatman
+•
+12y ago
+This is awesome! TY
+
+1
+u/vi0cs avatar
+vi0cs
+•
+12y ago
+I came across his site before and really like it. I hope he keeps this up!
+
+1
+[deleted]
+•
+12y ago
+Thanks for the link!
+
+1
