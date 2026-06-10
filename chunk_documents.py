@@ -33,6 +33,8 @@ import re
 import json
 from pathlib import Path
 from pdfminer.high_level import extract_text as pdf_extract_text
+import chromadb
+
 
 # ── Configuration ─────────────────────────────────────────────────────────────
 
