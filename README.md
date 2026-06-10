@@ -140,6 +140,12 @@ Attribution is enforced at two independent layers. The first is the system promp
 
 **What you would change to fix it:** Increasing the k value (or number of chunks retrieved from the system) fixes this issue.
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+So even though it provides some feedback to the response about an unrelated topic like the CCNP, the system ultimately expresses its inability to answer the question based on the context and asks the user to rephrase.
+
 ---
 
 ## Spec Reflection
