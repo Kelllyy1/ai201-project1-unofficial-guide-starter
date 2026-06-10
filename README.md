@@ -94,11 +94,11 @@
 
 | # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
+| 1 | What study resources do CCNA learners most commonly reccomend? | Boson ExSim, JITL, Packet Tracer, Official CCNA book | | | |
+| 2 | How long do most people study before taking the CCNA exam? | Roughly 3-6 months for beginners, some pass in 45-60 days | | | |
+| 3 | How important is Packet Tracer for CCNA exam preparation? | Hands-on learning is a crucial part of passing and packet tracer is important for that| | | |
+| 4 | hat mistakes fo people make when studying for the CCNA that cause them to fail the first time? | Memorization, lack of hands-on labs, subnetting | | | |
+| 5 | What are the best free resources available for CCNA preparation? | JITL, Packet Tracer | | | |
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate

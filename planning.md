@@ -87,8 +87,8 @@ The context length (total size that the model can input at once) is 256 tokens f
 |---|----------|-----------------|
 | 1 | What study resources do CCNA learners most commonly reccomend? | Boson ExSim, JITL, Packet Tracer, Official CCNA book|
 | 2 | How long do most people study before taking the CCNA exam? | Roughly 3-6 months for beginners, some pass in 45-60 days |
-| 3 | How important is Packet Tracer for CCNA exam preparation? | Hands-on learning is a crucial part of passing and packet tracer is important for that|
-| 4 | What mistakes fo people make when studying for the CCNA that cause them to fail the first time? | Memorization, lack of hands-on labs, subnetting|
+| 3 | How important is Packet Tracer for CCNA exam preparation? | Hands-on learning is a crucial part of passing and packet tracer is important for that |
+| 4 | What mistakes fo people make when studying for the CCNA that cause them to fail the first time? | Memorization, lack of hands-on labs, subnetting |
 | 5 | What are the best free resources available for CCNA preparation? | JITL, Packet Tracer |
 
 ---
